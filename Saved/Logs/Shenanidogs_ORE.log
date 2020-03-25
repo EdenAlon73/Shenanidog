@@ -693,3 +693,182 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.03.25-17.05.40:180][847]LogDirectoryWatcher: A directory notification failed for 'D:/GoogleDrive/UnrealFinal/Eden_Shenanidog/Content/Collections/' because it could not be accessed. Aborting watch request...
 [2020.03.25-17.05.40:180][847]LogDirectoryWatcher: A directory notification failed for 'D:/GoogleDrive/UnrealFinal/Eden_Shenanidog/Content/Developers/FlakaShalaka/Collections/' because it could not be accessed. Aborting watch request...
 [2020.03.25-17.05.40:180][847]LogDirectoryWatcher: A directory notification failed for 'D:/GoogleDrive/UnrealFinal/Eden_Shenanidog/Saved/Collections/' because it could not be accessed. Aborting watch request...
+[2020.03.25-17.07.33:501][155]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2020.03.25-17.07.33:503][155]Cmd: MAP LOAD FILE="D:/GoogleDrive/UnrealFinal/Eden_Shenanidog/Content/StarterContent/Maps/StarterMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.03.25-17.07.33:549][155]LightingResults: New page: Lighting Build
+[2020.03.25-17.07.33:550][155]LoadErrors: New page: Loading map: StarterMap.umap
+[2020.03.25-17.07.33:551][155]LogWorld: UWorld::CleanupWorld for PlayGround, bSessionEnded=true, bCleanupResources=true
+[2020.03.25-17.07.33:551][155]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.25-17.07.33:552][155]MapCheck: New page: Map Check
+[2020.03.25-17.07.33:552][155]LightingResults: New page: Lighting Build
+[2020.03.25-17.07.33:578][155]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2020.03.25-17.07.34:486][155]LogAIModule: Creating AISystem for world StarterMap
+[2020.03.25-17.07.34:816][155]LogEditorServer: Finished looking for orphan Actors (0.001 secs)
+[2020.03.25-17.07.34:867][155]LogUObjectHash: Compacting FUObjectHashTables data took   4.47ms
+[2020.03.25-17.07.34:900][155]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.03.25-17.07.34:900][155]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.219ms to complete.
+[2020.03.25-17.07.34:901][155]LogFileHelpers: Loading map 'StarterMap' took 1.398
+[2020.03.25-17.07.34:901][155]LogSlate: Window 'Open Level' being destroyed
+[2020.03.25-17.07.39:750][355]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.25-17.07.39:766][355]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/StarterMap.StarterMap:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/StarterMap.StarterMap:PersistentLevel.StarterMap' with GeneratedClass '/Game/StarterContent/Maps/StarterMap.StarterMap_C' with ClassGeneratedBy '/Game/StarterContent/Maps/StarterMap.StarterMap:PersistentLevel.StarterMap'
+[2020.03.25-17.07.39:766][355]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.25-17.07.39:767][355]PIE: New page: PIE session: StarterMap (25 Mar 2020, 21:07:39)
+[2020.03.25-17.07.39:769][355]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2020.03.25-17.07.39:771][355]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2020.03.25-17.07.39:771][355]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_StarterMap
+[2020.03.25-17.07.39:799][355]LogPlayLevel: PIE: StaticDuplicateObject took: (0.027637s)
+[2020.03.25-17.07.39:800][355]LogAIModule: Creating AISystem for world StarterMap
+[2020.03.25-17.07.39:801][355]LogPlayLevel: PIE: World Init took: (0.001598s)
+[2020.03.25-17.07.39:801][355]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/StarterMap.StarterMap to /Game/StarterContent/Maps/UEDPIE_0_StarterMap.StarterMap (0.029620s)
+[2020.03.25-17.07.39:833][355]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2020.03.25-17.07.39:837][355]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.03.25-17.07.39:837][355]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.03.25-17.07.39:837][355]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.03.25-17.07.39:837][355]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.03.25-17.07.39:837][355]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.03.25-17.07.39:837][355]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.03.25-17.07.39:837][355]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.03.25-17.07.39:837][355]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.03.25-17.07.39:838][355]LogAudio: Display: Using built-in audio occlusion.
+[2020.03.25-17.07.39:838][355]LogAudioMixer: Display: Initializing audio mixer.
+[2020.03.25-17.07.39:853][355]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.03.25-17.07.39:853][355]LogAudioMixer: Display: Name: Speakers (Conexant SmartAudio HD)
+[2020.03.25-17.07.39:853][355]LogAudioMixer: Display: Is Default: Yes
+[2020.03.25-17.07.39:853][355]LogAudioMixer: Display: Sample Rate: 48000
+[2020.03.25-17.07.39:853][355]LogAudioMixer: Display: Channel Count Used: 2
+[2020.03.25-17.07.39:853][355]LogAudioMixer: Display: Device Channel Count: 2
+[2020.03.25-17.07.39:853][355]LogAudioMixer: Display: Channel Order:
+[2020.03.25-17.07.39:853][355]LogAudioMixer: Display: 0: FrontLeft
+[2020.03.25-17.07.39:853][355]LogAudioMixer: Display: 1: FrontRight
+[2020.03.25-17.07.39:878][355]LogAudioMixer: Display: Using Audio Device Speakers (Conexant SmartAudio HD)
+[2020.03.25-17.07.39:880][355]LogInit: FAudioDevice initialized.
+[2020.03.25-17.07.39:895][355]LogLoad: Game class is 'GameModeBase'
+[2020.03.25-17.07.39:910][355]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_StarterMap.StarterMap up for play (max tick rate 60) at 2020.03.25-19.07.39
+[2020.03.25-17.07.39:911][355]LogWorld: Bringing up level for play took: 0.014543
+[2020.03.25-17.07.39:911][355]LogOnline: OSS: Creating online subsystem instance for: :Context_3
+[2020.03.25-17.07.39:918][355]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0005 seconds. Added 20 classes and 0 folders.
+[2020.03.25-17.07.39:921][355]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_StarterMap 1.019
+[2020.03.25-17.07.39:921][355]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/StarterMap.StarterMap:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/StarterMap.StarterMap:PersistentLevel.StarterMap' with GeneratedClass '/Game/StarterContent/Maps/StarterMap.StarterMap_C' with ClassGeneratedBy '/Game/StarterContent/Maps/StarterMap.StarterMap:PersistentLevel.StarterMap'
+[2020.03.25-17.07.44:967][650]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.25-17.07.44:970][650]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.03.25-17.07.44:991][650]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.03.25-17.07.44:991][650]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/StarterMap.StarterMap:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/StarterMap.StarterMap:PersistentLevel.StarterMap' with GeneratedClass '/Game/StarterContent/Maps/StarterMap.StarterMap_C' with ClassGeneratedBy '/Game/StarterContent/Maps/StarterMap.StarterMap:PersistentLevel.StarterMap'
+[2020.03.25-17.07.44:991][650]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.25-17.07.44:991][650]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_StarterMap
+[2020.03.25-17.07.44:991][650]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.25-17.07.44:992][650]LogWorld: UWorld::CleanupWorld for StarterMap, bSessionEnded=true, bCleanupResources=true
+[2020.03.25-17.07.44:993][650]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.25-17.07.45:017][650]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.25-17.07.45:017][650]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/StarterMap.StarterMap:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/StarterMap.StarterMap:PersistentLevel.StarterMap' with GeneratedClass '/Game/StarterContent/Maps/StarterMap.StarterMap_C' with ClassGeneratedBy '/Game/StarterContent/Maps/StarterMap.StarterMap:PersistentLevel.StarterMap'
+[2020.03.25-17.07.45:021][650]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.25-17.07.45:046][650]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.25-17.07.45:049][650]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.25-17.07.45:053][650]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2020.03.25-17.07.45:079][651]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2020.03.25-17.07.50:449][908]LogUObjectHash: Compacting FUObjectHashTables data took   4.51ms
+[2020.03.25-17.07.50:452][908]Cmd: MAP LOAD FILE="D:/GoogleDrive/UnrealFinal/Eden_Shenanidog/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.03.25-17.07.50:538][908]LightingResults: New page: Lighting Build
+[2020.03.25-17.07.50:541][908]LoadErrors: New page: Loading map: Minimal_Default.umap
+[2020.03.25-17.07.50:551][908]LogWorld: UWorld::CleanupWorld for StarterMap, bSessionEnded=true, bCleanupResources=true
+[2020.03.25-17.07.50:552][908]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.25-17.07.50:554][908]MapCheck: New page: Map Check
+[2020.03.25-17.07.50:554][908]LightingResults: New page: Lighting Build
+[2020.03.25-17.07.50:656][908]LogUObjectHash: Compacting FUObjectHashTables data took   5.99ms
+[2020.03.25-17.07.50:689][908]LogAIModule: Creating AISystem for world Minimal_Default
+[2020.03.25-17.07.50:876][908]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.03.25-17.07.50:907][908]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2020.03.25-17.07.50:921][908]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.03.25-17.07.50:921][908]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.088ms to complete.
+[2020.03.25-17.07.50:921][908]LogFileHelpers: Loading map 'Minimal_Default' took 0.471
+[2020.03.25-17.07.50:921][908]LogSlate: Window 'Open Level' being destroyed
+[2020.03.25-17.09.14:163][967]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.24/Engine/Content: 'C:/Program Files/Epic Games/UE_4.24/Engine/Content' is outside repository at 'D:/GoogleDrive/UnrealFinal/Eden_Shenanidog'
+[2020.03.25-17.09.14:265][967]EditorErrors: Warning: No assets to check in!
+[2020.03.25-17.16.25:735][420]LogSlate: Window 'Pick Parent Class' being destroyed
+[2020.03.25-17.16.56:879][261]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2020.03.25-17.16.58:281][261]LogSlate: Window 'Delete Assets' being destroyed
+[2020.03.25-17.16.58:674][261]LogUObjectHash: Compacting FUObjectHashTables data took   4.71ms
+[2020.03.25-17.17.17:386][209]LogSlate: Window 'Pick Parent Class' being destroyed
+[2020.03.25-17.17.47:402][932]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.03.25-17.18.43:303][ 58]LogUObjectHash: Compacting FUObjectHashTables data took   4.41ms
+[2020.03.25-17.18.43:714][ 58]LogSavePackage: Moving 'D:/GoogleDrive/UnrealFinal/Eden_Shenanidog/Saved/Minimal_Default8A07285A459359288DA3349336B4ABB7.tmp' to 'D:/GoogleDrive/UnrealFinal/Eden_Shenanidog/Content/StarterContent/Maps/Minimal_Default.umap'
+[2020.03.25-17.18.44:195][ 58]LogSavePackage: Moving 'D:/GoogleDrive/UnrealFinal/Eden_Shenanidog/Saved/Minimal_Default_BuiltDataD65257AE4FF6F837F13923B55D88C723.tmp' to 'D:/GoogleDrive/UnrealFinal/Eden_Shenanidog/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2020.03.25-17.18.44:238][ 58]AssetCheck: New page: Asset Save: multiple assets
+[2020.03.25-17.18.44:238][ 58]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2020.03.25-17.18.44:238][ 58]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
+[2020.03.25-17.18.59:106][122]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2020.03.25-17.19.00:988][122]LogSlate: Window 'Save Content' being destroyed
+[2020.03.25-17.19.01:141][122]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Shenanidog/BluePrints/GameFiles/BP_GameMode" FILE="D:/GoogleDrive/UnrealFinal/Eden_Shenanidog/Content/Shenanidog/BluePrints/GameFiles/BP_GameMode.uasset" SILENT=true
+[2020.03.25-17.19.01:153][122]LogSavePackage: Moving 'D:/GoogleDrive/UnrealFinal/Eden_Shenanidog/Saved/BP_GameModeB88CFF114FFD1EA53F79B7BF84FC2D89.tmp' to 'D:/GoogleDrive/UnrealFinal/Eden_Shenanidog/Content/Shenanidog/BluePrints/GameFiles/BP_GameMode.uasset'
+[2020.03.25-17.19.01:845][122]AssetCheck: New page: Asset Save: BP_GameMode
+[2020.03.25-17.19.01:846][122]LogContentValidation: Display: Validating Blueprint /Game/Shenanidog/BluePrints/GameFiles/BP_GameMode.BP_GameMode
+[2020.03.25-17.19.06:083][346]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.24/Engine/Content: 'C:/Program Files/Epic Games/UE_4.24/Engine/Content' is outside repository at 'D:/GoogleDrive/UnrealFinal/Eden_Shenanidog'
+[2020.03.25-17.19.15:385][346]LogSlate: Window 'Submit Files' being destroyed
+[2020.03.25-17.19.16:966][346]LogSourceControl: commit successful: [Character 68f73a3] GameModeBase added
+[2020.03.25-17.19.17:047][346]SourceControl: [Character 68f73a3] GameModeBase added
+[2020.03.25-17.19.17:047][346]SourceControl:  3 files changed, 5 insertions(+), 2 deletions(-)
+[2020.03.25-17.19.17:047][346]SourceControl:  create mode 100644 Content/Shenanidog/BluePrints/GameFiles/BP_GameMode.uasset
+[2020.03.25-17.19.17:060][346]SourceControl: Commited [Character 68f73a3] GameModeBase added.
+[2020.03.25-17.19.54:982][721]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.03.25-17.19.58:191][904]SourceControl: fatal: /Script: '/Script' is outside repository at 'D:/GoogleDrive/UnrealFinal/Eden_Shenanidog'
+[2020.03.25-17.24.15:327][863]LogSlate: Window 'Project Settings' being destroyed
+[2020.03.25-17.24.34:481][945]LogAIModule: Creating AISystem for world PlayGround
+[2020.03.25-17.24.36:260][ 44]LogObjectTools: Deleting 1 worlds: /Game/Shenanidog/Maps/PlayGround.PlayGround
+[2020.03.25-17.24.36:260][ 44]LogObjectTools: Currently 3 active worlds: /Game/StarterContent/Maps/Minimal_Default.Minimal_Default, /Engine/Transient.World_0, /Engine/Transient.World_1
+[2020.03.25-17.24.36:288][ 44]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2020.03.25-17.24.37:727][ 44]LogSlate: Window 'Delete Assets' being destroyed
+[2020.03.25-17.24.37:754][ 44]LogWorld: UWorld::CleanupWorld for PlayGround, bSessionEnded=true, bCleanupResources=true
+[2020.03.25-17.24.37:754][ 44]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.25-17.24.38:002][ 44]LogUObjectHash: Compacting FUObjectHashTables data took   3.21ms
+[2020.03.25-17.24.38:056][ 44]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
+[2020.03.25-17.24.38:097][ 44]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2020.03.25-17.24.38:675][ 44]SourceControl: Error: Updated 0 paths from the index
+[2020.03.25-17.24.38:814][ 44]SourceControl: rm 'Content/Shenanidog/Maps/PlayGround.umap'
+[2020.03.25-17.25.11:374][474]LogSlate: Window 'New Level' being destroyed
+[2020.03.25-17.25.11:383][474]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.03.25-17.25.11:418][474]LightingResults: New page: Lighting Build
+[2020.03.25-17.25.11:418][474]LoadErrors: New page: Loading map: Template_Default.umap
+[2020.03.25-17.25.11:419][474]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2020.03.25-17.25.11:419][474]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.25-17.25.11:420][474]MapCheck: New page: Map Check
+[2020.03.25-17.25.11:420][474]LightingResults: New page: Lighting Build
+[2020.03.25-17.25.11:447][474]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2020.03.25-17.25.11:460][474]LogAIModule: Creating AISystem for world Untitled_1
+[2020.03.25-17.25.11:589][474]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.03.25-17.25.11:616][474]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2020.03.25-17.25.11:637][474]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.03.25-17.25.11:637][474]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.305ms to complete.
+[2020.03.25-17.25.11:637][474]LogFileHelpers: Loading map 'Template_Default' took 0.256
+[2020.03.25-17.25.33:311][977]LogSlate: Window 'Save Level As' being destroyed
+[2020.03.25-17.25.33:356][977]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Shenanidog/Maps/Playgrounds" FILE="D:/GoogleDrive/UnrealFinal/Eden_Shenanidog/Content/Shenanidog/Maps/Playgrounds.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.03.25-17.25.33:392][977]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2020.03.25-17.25.33:407][977]LogSavePackage: Moving 'D:/GoogleDrive/UnrealFinal/Eden_Shenanidog/Saved/Playgrounds7419ADCF4CD87A6F464AE1A63FD309E9.tmp' to 'D:/GoogleDrive/UnrealFinal/Eden_Shenanidog/Content/Shenanidog/Maps/Playgrounds.umap'
+[2020.03.25-17.25.34:261][977]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Shenanidog/Maps/Playgrounds_BuiltData" FILE="D:/GoogleDrive/UnrealFinal/Eden_Shenanidog/Content/Shenanidog/Maps/Playgrounds_BuiltData.uasset" SILENT=true
+[2020.03.25-17.25.34:269][977]LogSavePackage: Moving 'D:/GoogleDrive/UnrealFinal/Eden_Shenanidog/Saved/Playgrounds_BuiltDataC658DA4B4D84ABD44A87E4B5D95DAD91.tmp' to 'D:/GoogleDrive/UnrealFinal/Eden_Shenanidog/Content/Shenanidog/Maps/Playgrounds_BuiltData.uasset'
+[2020.03.25-17.25.35:006][977]LogFileHelpers: Saving map 'Playgrounds' took 1.690
+[2020.03.25-17.25.35:006][977]Cmd: MAP LOAD FILE="D:/GoogleDrive/UnrealFinal/Eden_Shenanidog/Content/Shenanidog/Maps/Playgrounds.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.03.25-17.25.35:050][977]LightingResults: New page: Lighting Build
+[2020.03.25-17.25.35:052][977]LoadErrors: New page: Loading map: Playgrounds.umap
+[2020.03.25-17.25.35:053][977]LogWorld: UWorld::CleanupWorld for Playgrounds, bSessionEnded=true, bCleanupResources=true
+[2020.03.25-17.25.35:053][977]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.25-17.25.35:053][977]MapCheck: New page: Map Check
+[2020.03.25-17.25.35:053][977]LightingResults: New page: Lighting Build
+[2020.03.25-17.25.35:079][977]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2020.03.25-17.25.35:091][977]LogAIModule: Creating AISystem for world Playgrounds
+[2020.03.25-17.25.35:255][977]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.03.25-17.25.35:287][977]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2020.03.25-17.25.35:313][977]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.03.25-17.25.35:313][977]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.075ms to complete.
+[2020.03.25-17.25.35:313][977]LogFileHelpers: Loading map 'Playgrounds' took 0.306
+[2020.03.25-17.25.35:322][977]AssetCheck: New page: Asset Save: multiple assets
+[2020.03.25-17.25.35:322][977]LogContentValidation: Display: Validating World /Game/Shenanidog/Maps/Playgrounds.Playgrounds
+[2020.03.25-17.25.35:322][977]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Shenanidog/Maps/Playgrounds_BuiltData.Playgrounds_BuiltData
+[2020.03.25-17.25.46:745][504]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2020.03.25-17.25.51:577][778]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.24/Engine/Content: 'C:/Program Files/Epic Games/UE_4.24/Engine/Content' is outside repository at 'D:/GoogleDrive/UnrealFinal/Eden_Shenanidog'
+[2020.03.25-17.25.59:064][778]LogSlate: Window 'Submit Files' being destroyed
+[2020.03.25-17.26.00:310][778]LogSourceControl: commit successful: [Character 44fdf0b] NewMap for testing
+[2020.03.25-17.26.00:393][778]SourceControl: [Character 44fdf0b] NewMap for testing
+[2020.03.25-17.26.00:393][778]SourceControl:  4 files changed, 7 insertions(+), 4 deletions(-)
+[2020.03.25-17.26.00:393][778]SourceControl:  delete mode 100644 Content/Shenanidog/Maps/PlayGround.umap
+[2020.03.25-17.26.00:393][778]SourceControl:  create mode 100644 Content/Shenanidog/Maps/Playgrounds.umap
+[2020.03.25-17.26.00:393][778]SourceControl:  create mode 100644 Content/Shenanidog/Maps/Playgrounds_BuiltData.uasset
+[2020.03.25-17.26.00:407][778]SourceControl: Commited [Character 44fdf0b] NewMap for testing.
