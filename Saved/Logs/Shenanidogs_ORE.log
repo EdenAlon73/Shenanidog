@@ -7548,6 +7548,7 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.03.25-19.37.13:857][290]SourceControl:  111 files changed, 221 insertions(+), 218 deletions(-)
 [2020.03.25-19.37.13:857][290]SourceControl:  create mode 100644 Content/Shenanidog/BluePrints/Character/Animations/BlendSpaces/BS_Dog_Walk.uasset
 [2020.03.25-19.37.13:875][290]SourceControl: Commited [Character 32f700c] DogWithFullAnimation.
+<<<<<<< HEAD
 [2020.03.25-19.39.10:040][915]LogUObjectHash: Compacting FUObjectHashTables data took   3.34ms
 [2020.03.25-19.39.10:072][915]LogSlate: Window 'Shenanidogs_ORE - Unreal Editor' being destroyed
 [2020.03.25-19.39.10:346][916]Cmd: QUIT_EDITOR
@@ -7933,3 +7934,5 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.03.25-19.39.12:349][916]LogD3D11RHI: CleanupD3DDevice
 [2020.03.25-19.39.12:361][916]LogExit: Exiting.
 [2020.03.25-19.39.12:373][916]Log file closed, 03/25/20 21:39:12
+=======
+>>>>>>> Character
