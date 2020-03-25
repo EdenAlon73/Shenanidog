@@ -637,3 +637,55 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.03.25-15.59.22:620][423]SourceControl:  2 files changed, 4 insertions(+), 4 deletions(-)
 [2020.03.25-15.59.22:637][423]SourceControl: Commited [Character d281a60] New Folders.
 [2020.03.25-16.00.27:621][100]LogSlate: Window 'Source Control Login' being destroyed
+[2020.03.25-16.24.27:651][779]LogRenderer: Reallocating scene render targets to support 944x516 Format 10 NumSamples 1 (Frame:7860).
+[2020.03.25-16.30.22:412][447]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2020.03.25-16.30.22:513][447]LogSavePackage: Moving 'D:/GoogleDrive/UnrealFinal/Eden_Shenanidog/Saved/Minimal_Default7F2EF9A940BB351259D7AA83CB3AD486.tmp' to 'D:/GoogleDrive/UnrealFinal/Eden_Shenanidog/Content/StarterContent/Maps/Minimal_Default.umap'
+[2020.03.25-16.30.22:639][447]LogSavePackage: Moving 'D:/GoogleDrive/UnrealFinal/Eden_Shenanidog/Saved/Minimal_Default_BuiltData45BEEC0B43E4F255F7D8EBA06BCE7310.tmp' to 'D:/GoogleDrive/UnrealFinal/Eden_Shenanidog/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2020.03.25-16.30.22:648][447]AssetCheck: New page: Asset Save: multiple assets
+[2020.03.25-16.30.22:648][447]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2020.03.25-16.30.22:649][447]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
+[2020.03.25-16.30.27:146][696]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.24/Engine/Content: 'C:/Program Files/Epic Games/UE_4.24/Engine/Content' is outside repository at 'D:/GoogleDrive/UnrealFinal/Eden_Shenanidog'
+[2020.03.25-16.30.35:620][696]LogSlate: Window 'Submit Files' being destroyed
+[2020.03.25-16.30.37:002][696]LogSourceControl: commit successful: [Character 1823acd] NewMap
+[2020.03.25-16.30.37:050][696]SourceControl: [Character 1823acd] NewMap
+[2020.03.25-16.30.37:050][696]SourceControl:  2 files changed, 2 insertions(+), 2 deletions(-)
+[2020.03.25-16.30.37:060][696]SourceControl: Commited [Character 1823acd] NewMap.
+[2020.03.25-16.31.36:958][511]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Shenanidog/Maps/PlayGround.PlayGround
+[2020.03.25-16.31.36:984][511]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2020.03.25-16.31.41:443][511]LogSlate: Window 'Save Content' being destroyed
+[2020.03.25-16.31.41:536][511]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Shenanidog/Maps/PlayGround" FILE="D:/GoogleDrive/UnrealFinal/Eden_Shenanidog/Content/Shenanidog/Maps/PlayGround.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.03.25-16.31.41:565][511]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2020.03.25-16.31.41:569][511]LogSavePackage: Moving 'D:/GoogleDrive/UnrealFinal/Eden_Shenanidog/Saved/PlayGround5FF326604B639F14A8ECFDA033FCAC11.tmp' to 'D:/GoogleDrive/UnrealFinal/Eden_Shenanidog/Content/Shenanidog/Maps/PlayGround.umap'
+[2020.03.25-16.31.42:269][511]LogFileHelpers: Saving map 'PlayGround' took 0.733
+[2020.03.25-16.31.42:272][511]Cmd: MAP LOAD FILE="D:/GoogleDrive/UnrealFinal/Eden_Shenanidog/Content/Shenanidog/Maps/PlayGround.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.03.25-16.31.42:272][511]LightingResults: New page: Lighting Build
+[2020.03.25-16.31.42:273][511]LoadErrors: New page: Loading map: PlayGround.umap
+[2020.03.25-16.31.42:274][511]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2020.03.25-16.31.42:274][511]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.25-16.31.42:275][511]MapCheck: New page: Map Check
+[2020.03.25-16.31.42:275][511]LightingResults: New page: Lighting Build
+[2020.03.25-16.31.42:311][511]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2020.03.25-16.31.42:360][511]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.03.25-16.31.42:360][511]LogAIModule: Creating AISystem for world PlayGround
+[2020.03.25-16.31.42:387][511]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2020.03.25-16.31.42:394][511]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.03.25-16.31.42:394][511]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.065ms to complete.
+[2020.03.25-16.31.42:394][511]LogFileHelpers: Loading map 'PlayGround' took 0.125
+[2020.03.25-16.31.42:436][511]AssetCheck: New page: Asset Save: PlayGround
+[2020.03.25-16.31.42:436][511]LogContentValidation: Display: Validating World /Game/Shenanidog/Maps/PlayGround.PlayGround
+[2020.03.25-16.32.06:638][941]LogSlate: Window 'Add Content to the Project' being destroyed
+[2020.03.25-16.32.24:710][997]LogActorFactory: Actor Factory created Plane
+[2020.03.25-16.32.27:493][162]LogActorFactory: Actor Factory created Plane
+[2020.03.25-16.32.56:808][900]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight)
+[2020.03.25-16.33.03:532][295]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Shenanidog/Maps/PlayGround" FILE="D:/GoogleDrive/UnrealFinal/Eden_Shenanidog/Content/Shenanidog/Maps/PlayGround.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.03.25-16.33.03:558][295]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2020.03.25-16.33.03:567][295]LogSavePackage: Moving 'D:/GoogleDrive/UnrealFinal/Eden_Shenanidog/Saved/PlayGround6E364A0E4677BEE45BAEB688D6C881C8.tmp' to 'D:/GoogleDrive/UnrealFinal/Eden_Shenanidog/Content/Shenanidog/Maps/PlayGround.umap'
+[2020.03.25-16.33.03:585][295]AssetCheck: New page: Asset Save: PlayGround
+[2020.03.25-16.33.03:586][295]LogContentValidation: Display: Validating World /Game/Shenanidog/Maps/PlayGround.PlayGround
+[2020.03.25-16.33.07:365][511]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.24/Engine/Content: 'C:/Program Files/Epic Games/UE_4.24/Engine/Content' is outside repository at 'D:/GoogleDrive/UnrealFinal/Eden_Shenanidog'
+[2020.03.25-16.33.17:823][511]LogSlate: Window 'Submit Files' being destroyed
+[2020.03.25-16.33.18:853][511]LogSourceControl: commit successful: [Character b5049da] LevelPlane
+[2020.03.25-16.33.18:886][511]SourceControl: [Character b5049da] LevelPlane
+[2020.03.25-16.33.18:886][511]SourceControl:  1 file changed, 3 insertions(+)
+[2020.03.25-16.33.18:886][511]SourceControl:  create mode 100644 Content/Shenanidog/Maps/PlayGround.umap
+[2020.03.25-16.33.18:901][511]SourceControl: Commited [Character b5049da] LevelPlane.
