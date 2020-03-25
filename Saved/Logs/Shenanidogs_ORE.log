@@ -6470,3 +6470,53 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.03.25-18.35.27:623][635]SourceControl: [Character b011cb5] Movement config
 [2020.03.25-18.35.27:623][635]SourceControl:  1 file changed, 2 insertions(+), 2 deletions(-)
 [2020.03.25-18.35.27:636][635]SourceControl: Commited [Character b011cb5] Movement config.
+[2020.03.25-18.49.39:394][929]BlueprintLog: New page: Compile BP_Dog_Character
+[2020.03.25-18.49.39:642][929]LogUObjectHash: Compacting FUObjectHashTables data took   3.80ms
+[2020.03.25-18.49.55:698][197]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.03.25-18.50.55:507][689]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2020.03.25-18.51.08:216][689]LogSlate: Window 'Create Animation Blueprint' being destroyed
+[2020.03.25-18.51.08:413][697]SourceControl: Error: fatal: Invalid path '/Game': No such file or directory
+[2020.03.25-18.51.11:279][867]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SAssetTileView [SAssetView.cpp(1793)].
+[2020.03.25-18.51.11:437][867]LogUObjectHash: Compacting FUObjectHashTables data took   3.62ms
+[2020.03.25-18.51.11:440][867]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Shenanidog/Maps/Playgrounds' took 0.043
+[2020.03.25-18.51.11:440][867]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Shenanidog/BluePrints/Character/BP_Dog_Character] ([1] browsable assets)...
+[2020.03.25-18.51.11:475][867]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Shenanidog/BluePrints/Character/BP_Dog_Character.BP_Dog_Character]
+[2020.03.25-18.51.11:475][867]OBJ SavePackage: Finished generating thumbnails for package [/Game/Shenanidog/BluePrints/Character/BP_Dog_Character]
+[2020.03.25-18.51.11:494][867]LogSavePackage: Moving 'D:/GoogleDrive/UnrealFinal/Eden_Shenanidog/Saved/BP_Dog_Character_Auto4AE18B66C43DAEFBB87AB66B39D64E75E.tmp' to 'D:/GoogleDrive/UnrealFinal/Eden_Shenanidog/Saved/Autosaves/Game/Shenanidog/BluePrints/Character/BP_Dog_Character_Auto4.uasset'
+[2020.03.25-18.51.11:495][867]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Shenanidog/BluePrints/Character/Animations/BluePrints/NewAnimBlueprint] ([1] browsable assets)...
+[2020.03.25-18.51.11:528][867]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Shenanidog/BluePrints/Character/Animations/BluePrints/NewAnimBlueprint.NewAnimBlueprint]
+[2020.03.25-18.51.11:528][867]OBJ SavePackage: Finished generating thumbnails for package [/Game/Shenanidog/BluePrints/Character/Animations/BluePrints/NewAnimBlueprint]
+[2020.03.25-18.51.11:538][867]LogSavePackage: Moving 'D:/GoogleDrive/UnrealFinal/Eden_Shenanidog/Saved/NewAnimBlueprint_Auto48319EA374F1683255632ADB532401974.tmp' to 'D:/GoogleDrive/UnrealFinal/Eden_Shenanidog/Saved/Autosaves/Game/Shenanidog/BluePrints/Character/Animations/BluePrints/NewAnimBlueprint_Auto4.uasset'
+[2020.03.25-18.51.11:538][867]LogFileHelpers: Auto-saving content packages took 0.098
+[2020.03.25-18.51.22:825][340]LogUObjectHash: Compacting FUObjectHashTables data took  10.70ms
+[2020.03.25-18.51.22:830][340]LogMetaData: Removing '/Game/Shenanidog/BluePrints/Character/Animations/BluePrints/BP_Animation_Dog.BP_Animation_Dog:AnimGraph.AnimGraphNode_Root_0' ref from Metadata '/Game/Shenanidog/BluePrints/Character/Animations/BluePrints/NewAnimBlueprint.PackageMetaData'
+[2020.03.25-18.51.22:830][340]LogMetaData: Removing '/Game/Shenanidog/BluePrints/Character/Animations/BluePrints/BP_Animation_Dog.SKEL_BP_Animation_Dog_C' ref from Metadata '/Game/Shenanidog/BluePrints/Character/Animations/BluePrints/NewAnimBlueprint.PackageMetaData'
+[2020.03.25-18.51.22:830][340]LogMetaData: Removing '/Game/Shenanidog/BluePrints/Character/Animations/BluePrints/BP_Animation_Dog.BP_Animation_Dog_C' ref from Metadata '/Game/Shenanidog/BluePrints/Character/Animations/BluePrints/NewAnimBlueprint.PackageMetaData'
+[2020.03.25-18.51.22:830][340]LogMetaData: Removing '/Game/Shenanidog/BluePrints/Character/Animations/BluePrints/BP_Animation_Dog.BP_Animation_Dog:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Shenanidog/BluePrints/Character/Animations/BluePrints/NewAnimBlueprint.PackageMetaData'
+[2020.03.25-18.51.22:830][340]LogMetaData: Removing '/Game/Shenanidog/BluePrints/Character/Animations/BluePrints/BP_Animation_Dog.BP_Animation_Dog:EventGraph.K2Node_CallFunction_0' ref from Metadata '/Game/Shenanidog/BluePrints/Character/Animations/BluePrints/NewAnimBlueprint.PackageMetaData'
+[2020.03.25-18.51.23:168][340]LogSavePackage: Moving 'D:/GoogleDrive/UnrealFinal/Eden_Shenanidog/Saved/BP_Animation_Dog41FC9B1F40E07E129CA952911CD851D3.tmp' to 'D:/GoogleDrive/UnrealFinal/Eden_Shenanidog/Content/Shenanidog/BluePrints/Character/Animations/BluePrints/BP_Animation_Dog.uasset'
+[2020.03.25-18.51.25:245][340]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2020.03.25-18.51.25:328][340]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2020.03.25-18.51.25:363][340]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2020.03.25-18.51.25:396][340]AssetCheck: New page: Asset Save: BP_Animation_Dog
+[2020.03.25-18.51.25:396][340]LogContentValidation: Display: Validating AnimBlueprint /Game/Shenanidog/BluePrints/Character/Animations/BluePrints/BP_Animation_Dog.BP_Animation_Dog
+[2020.03.25-18.51.27:238][435]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Shenanidog/Maps/Playgrounds" FILE="D:/GoogleDrive/UnrealFinal/Eden_Shenanidog/Content/Shenanidog/Maps/Playgrounds.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.03.25-18.51.27:276][435]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2020.03.25-18.51.27:289][435]LogSavePackage: Moving 'D:/GoogleDrive/UnrealFinal/Eden_Shenanidog/Saved/PlaygroundsD2A792C44676A7D033787CB97D44AD85.tmp' to 'D:/GoogleDrive/UnrealFinal/Eden_Shenanidog/Content/Shenanidog/Maps/Playgrounds.umap'
+[2020.03.25-18.51.27:463][435]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Shenanidog/Maps/Playgrounds_BuiltData" FILE="D:/GoogleDrive/UnrealFinal/Eden_Shenanidog/Content/Shenanidog/Maps/Playgrounds_BuiltData.uasset" SILENT=true
+[2020.03.25-18.51.27:475][435]LogSavePackage: Moving 'D:/GoogleDrive/UnrealFinal/Eden_Shenanidog/Saved/Playgrounds_BuiltData56DA53724FDA12D7D053B5AC7DF882EC.tmp' to 'D:/GoogleDrive/UnrealFinal/Eden_Shenanidog/Content/Shenanidog/Maps/Playgrounds_BuiltData.uasset'
+[2020.03.25-18.51.27:491][435]AssetCheck: New page: Asset Save: multiple assets
+[2020.03.25-18.51.27:491][435]LogContentValidation: Display: Validating World /Game/Shenanidog/Maps/Playgrounds.Playgrounds
+[2020.03.25-18.51.27:491][435]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Shenanidog/Maps/Playgrounds_BuiltData.Playgrounds_BuiltData
+[2020.03.25-18.51.28:019][449]LogUObjectHash: Compacting FUObjectHashTables data took   3.40ms
+[2020.03.25-18.51.29:512][449]LogSlate: Window 'Save Content' being destroyed
+[2020.03.25-18.51.29:762][449]LogSavePackage: Moving 'D:/GoogleDrive/UnrealFinal/Eden_Shenanidog/Saved/BP_Dog_CharacterD5790E324241AD99666311896A89AD74.tmp' to 'D:/GoogleDrive/UnrealFinal/Eden_Shenanidog/Content/Shenanidog/BluePrints/Character/BP_Dog_Character.uasset'
+[2020.03.25-18.51.29:794][449]AssetCheck: New page: Asset Save: BP_Dog_Character
+[2020.03.25-18.51.29:794][449]LogContentValidation: Display: Validating Blueprint /Game/Shenanidog/BluePrints/Character/BP_Dog_Character.BP_Dog_Character
+[2020.03.25-18.51.33:733][576]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.24/Engine/Content: 'C:/Program Files/Epic Games/UE_4.24/Engine/Content' is outside repository at 'D:/GoogleDrive/UnrealFinal/Eden_Shenanidog'
+[2020.03.25-18.51.38:989][576]LogSlate: Window 'Submit Files' being destroyed
+[2020.03.25-18.51.40:710][576]LogSourceControl: commit successful: [Character c19bd63] DogAnimation
+[2020.03.25-18.51.40:853][576]SourceControl: [Character c19bd63] DogAnimation
+[2020.03.25-18.51.40:853][576]SourceControl:  4 files changed, 7 insertions(+), 4 deletions(-)
+[2020.03.25-18.51.40:853][576]SourceControl:  create mode 100644 Content/Shenanidog/BluePrints/Character/Animations/BluePrints/BP_Animation_Dog.uasset
+[2020.03.25-18.51.40:864][576]SourceControl: Commited [Character c19bd63] DogAnimation.
