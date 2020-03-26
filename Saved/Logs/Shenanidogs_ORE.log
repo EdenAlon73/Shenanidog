@@ -3057,3 +3057,34 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.03.26-11.02.07:322][190]LogSavePackage: Moving 'D:/GoogleDrive/UnrealFinal/Eden_Shenanidog/Saved/BS_Dog_Walk1F62824440F13B4822C8DEBF70C997B0.tmp' to 'D:/GoogleDrive/UnrealFinal/Eden_Shenanidog/Content/Shenanidog/BluePrints/Character/Animations/BlendSpaces/BS_Dog_Walk.uasset'
 [2020.03.26-11.02.07:347][190]AssetCheck: New page: Asset Save: BS_Dog_Walk
 [2020.03.26-11.02.07:348][190]LogContentValidation: Display: Validating BlendSpace /Game/Shenanidog/BluePrints/Character/Animations/BlendSpaces/BS_Dog_Walk.BS_Dog_Walk
+[2020.03.26-11.03.50:940][ 37]LogUObjectHash: Compacting FUObjectHashTables data took   6.20ms
+[2020.03.26-11.03.50:942][ 37]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Shenanidog/Maps/Playgrounds' took 0.066
+[2020.03.26-11.03.50:942][ 37]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Shenanidog/BluePrints/Character/BP_Dog_Character] ([1] browsable assets)...
+[2020.03.26-11.03.51:009][ 37]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Shenanidog/BluePrints/Character/BP_Dog_Character.BP_Dog_Character]
+[2020.03.26-11.03.51:009][ 37]OBJ SavePackage: Finished generating thumbnails for package [/Game/Shenanidog/BluePrints/Character/BP_Dog_Character]
+[2020.03.26-11.03.51:058][ 37]LogSavePackage: Moving 'D:/GoogleDrive/UnrealFinal/Eden_Shenanidog/Saved/BP_Dog_Character_Auto5AEFBBB5D401765EF0C7F8CAD431010FF.tmp' to 'D:/GoogleDrive/UnrealFinal/Eden_Shenanidog/Saved/Autosaves/Game/Shenanidog/BluePrints/Character/BP_Dog_Character_Auto5.uasset'
+[2020.03.26-11.03.51:059][ 37]LogFileHelpers: Auto-saving content packages took 0.117
+[2020.03.26-11.05.35:273][448]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2020.03.26-11.05.36:918][448]LogSlate: Window 'Save Content' being destroyed
+[2020.03.26-11.05.37:178][448]LogSavePackage: Moving 'D:/GoogleDrive/UnrealFinal/Eden_Shenanidog/Saved/BP_Dog_CharacterB127016F48178A722B1C528F6C4431C4.tmp' to 'D:/GoogleDrive/UnrealFinal/Eden_Shenanidog/Content/Shenanidog/BluePrints/Character/BP_Dog_Character.uasset'
+[2020.03.26-11.05.37:180][448]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Shenanidog/Maps/Playgrounds" FILE="D:/GoogleDrive/UnrealFinal/Eden_Shenanidog/Content/Shenanidog/Maps/Playgrounds.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.03.26-11.05.37:231][448]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2020.03.26-11.05.37:246][448]LogSavePackage: Moving 'D:/GoogleDrive/UnrealFinal/Eden_Shenanidog/Saved/PlaygroundsD9A9D0AD4829F66AE0EEEF91F25C2A9D.tmp' to 'D:/GoogleDrive/UnrealFinal/Eden_Shenanidog/Content/Shenanidog/Maps/Playgrounds.umap'
+[2020.03.26-11.05.37:320][448]LogFileHelpers: Saving map 'Playgrounds' took 0.140
+[2020.03.26-11.05.37:362][448]AssetCheck: New page: Asset Save: multiple assets
+[2020.03.26-11.05.37:362][448]LogContentValidation: Display: Validating Blueprint /Game/Shenanidog/BluePrints/Character/BP_Dog_Character.BP_Dog_Character
+[2020.03.26-11.05.37:362][448]LogContentValidation: Display: Validating World /Game/Shenanidog/Maps/Playgrounds.Playgrounds
+[2020.03.26-11.05.38:880][510]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Shenanidog/Maps/Playgrounds" FILE="D:/GoogleDrive/UnrealFinal/Eden_Shenanidog/Content/Shenanidog/Maps/Playgrounds.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.03.26-11.05.38:937][510]LogUObjectHash: Compacting FUObjectHashTables data took   4.75ms
+[2020.03.26-11.05.38:951][510]LogSavePackage: Moving 'D:/GoogleDrive/UnrealFinal/Eden_Shenanidog/Saved/Playgrounds8CEB12E249EC0F4CA9F01CB1A14A14D3.tmp' to 'D:/GoogleDrive/UnrealFinal/Eden_Shenanidog/Content/Shenanidog/Maps/Playgrounds.umap'
+[2020.03.26-11.05.39:066][510]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Shenanidog/Maps/Playgrounds_BuiltData" FILE="D:/GoogleDrive/UnrealFinal/Eden_Shenanidog/Content/Shenanidog/Maps/Playgrounds_BuiltData.uasset" SILENT=true
+[2020.03.26-11.05.39:081][510]LogSavePackage: Moving 'D:/GoogleDrive/UnrealFinal/Eden_Shenanidog/Saved/Playgrounds_BuiltData25C4EC364A21E4BEB4CFF8B788D6655C.tmp' to 'D:/GoogleDrive/UnrealFinal/Eden_Shenanidog/Content/Shenanidog/Maps/Playgrounds_BuiltData.uasset'
+[2020.03.26-11.05.39:106][510]AssetCheck: New page: Asset Save: multiple assets
+[2020.03.26-11.05.39:106][510]LogContentValidation: Display: Validating World /Game/Shenanidog/Maps/Playgrounds.Playgrounds
+[2020.03.26-11.05.39:106][510]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Shenanidog/Maps/Playgrounds_BuiltData.Playgrounds_BuiltData
+[2020.03.26-11.05.44:636][740]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.24/Engine/Content: 'C:/Program Files/Epic Games/UE_4.24/Engine/Content' is outside repository at 'D:/GoogleDrive/UnrealFinal/Eden_Shenanidog'
+[2020.03.26-11.05.53:792][740]LogSlate: Window 'Submit Files' being destroyed
+[2020.03.26-11.05.55:426][740]LogSourceControl: commit successful: [Character 85bb2d3] Finilize animation for dog
+[2020.03.26-11.05.55:523][740]SourceControl: [Character 85bb2d3] Finilize animation for dog
+[2020.03.26-11.05.55:523][740]SourceControl:  3 files changed, 5 insertions(+), 5 deletions(-)
+[2020.03.26-11.05.55:538][740]SourceControl: Commited [Character 85bb2d3] Finilize animation for dog.
