@@ -963,3 +963,289 @@ Make sure 'DogController_C' has been compiled for  Get CharacterMovement
 [2020.03.29-16.10.10:270][934]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
 [2020.03.29-16.10.10:270][934]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
 [2020.03.29-16.10.10:270][934]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.29-16.12.27:245][424]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Shenanidog/BluePrints/Character/BP_Dog_Character.BP_Dog_Character
+[2020.03.29-16.13.26:721][917]BlueprintLog: New page: Compile BP_Dog_Character
+[2020.03.29-16.13.26:991][917]LogUObjectHash: Compacting FUObjectHashTables data took   2.97ms
+[2020.03.29-16.13.29:343][ 35]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.29-16.13.29:363][ 35]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.29-16.13.29:363][ 35]PIE: New page: PIE session: Playgrounds (29 Mar 2020, 22:13:29)
+[2020.03.29-16.13.29:363][ 35]LogPlayLevel: Creating play world package: /Game/Shenanidog/Maps/UEDPIE_0_Playgrounds
+[2020.03.29-16.13.29:368][ 35]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004673s)
+[2020.03.29-16.13.29:370][ 35]LogAIModule: Creating AISystem for world Playgrounds
+[2020.03.29-16.13.29:370][ 35]LogPlayLevel: PIE: World Init took: (0.001497s)
+[2020.03.29-16.13.29:370][ 35]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Shenanidog/Maps/Playgrounds.Playgrounds to /Game/Shenanidog/Maps/UEDPIE_0_Playgrounds.Playgrounds (0.006479s)
+[2020.03.29-16.13.29:413][ 35]LogUObjectHash: Compacting FUObjectHashTables data took   3.56ms
+[2020.03.29-16.13.29:414][ 35]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.03.29-16.13.29:414][ 35]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.03.29-16.13.29:414][ 35]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.03.29-16.13.29:414][ 35]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.03.29-16.13.29:414][ 35]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.03.29-16.13.29:414][ 35]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.03.29-16.13.29:414][ 35]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.03.29-16.13.29:414][ 35]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.03.29-16.13.29:414][ 35]LogAudio: Display: Using built-in audio occlusion.
+[2020.03.29-16.13.29:414][ 35]LogAudioMixer: Display: Initializing audio mixer.
+[2020.03.29-16.13.29:419][ 35]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.03.29-16.13.29:419][ 35]LogAudioMixer: Display: Name: Speakers (Conexant SmartAudio HD)
+[2020.03.29-16.13.29:419][ 35]LogAudioMixer: Display: Is Default: Yes
+[2020.03.29-16.13.29:419][ 35]LogAudioMixer: Display: Sample Rate: 48000
+[2020.03.29-16.13.29:419][ 35]LogAudioMixer: Display: Channel Count Used: 2
+[2020.03.29-16.13.29:419][ 35]LogAudioMixer: Display: Device Channel Count: 2
+[2020.03.29-16.13.29:419][ 35]LogAudioMixer: Display: Channel Order:
+[2020.03.29-16.13.29:419][ 35]LogAudioMixer: Display: 0: FrontLeft
+[2020.03.29-16.13.29:419][ 35]LogAudioMixer: Display: 1: FrontRight
+[2020.03.29-16.13.29:435][ 35]LogAudioMixer: Display: Using Audio Device Speakers (Conexant SmartAudio HD)
+[2020.03.29-16.13.29:436][ 35]LogInit: FAudioDevice initialized.
+[2020.03.29-16.13.29:446][ 35]LogLoad: Game class is 'BP_GameMode_C'
+[2020.03.29-16.13.29:447][ 35]LogWorld: Bringing World /Game/Shenanidog/Maps/UEDPIE_0_Playgrounds.Playgrounds up for play (max tick rate 60) at 2020.03.29-19.13.29
+[2020.03.29-16.13.29:447][ 35]LogWorld: Bringing up level for play took: 0.000453
+[2020.03.29-16.13.29:447][ 35]LogOnline: OSS: Creating online subsystem instance for: :Context_10
+[2020.03.29-16.13.29:450][ 35]PIE: Play in editor start time for /Game/Shenanidog/Maps/UEDPIE_0_Playgrounds 0.584
+[2020.03.29-16.13.50:033][225]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.29-16.13.50:033][225]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.29-16.13.50:034][225]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.29-16.13.50:034][225]LogWorld: BeginTearingDown for /Game/Shenanidog/Maps/UEDPIE_0_Playgrounds
+[2020.03.29-16.13.50:034][225]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.29-16.13.50:034][225]LogWorld: UWorld::CleanupWorld for Playgrounds, bSessionEnded=true, bCleanupResources=true
+[2020.03.29-16.13.50:034][225]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.29-16.13.50:044][225]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.29-16.13.50:050][225]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.29-16.13.50:086][225]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.29-16.13.50:089][225]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.29-16.13.50:092][225]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2020.03.29-16.13.50:150][227]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2020.03.29-16.14.00:885][789]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Shenanidog/BluePrints/Character/DogController.DogController
+[2020.03.29-16.14.35:930][656]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.03.29-16.14.56:683][550]BlueprintLog: New page: Compile DogController
+[2020.03.29-16.14.56:934][550]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2020.03.29-16.15.08:378][ 96]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/Shenanidog/BluePrints/Character/Animations/BluePrints/BP_Animation_Dog.BP_Animation_Dog
+[2020.03.29-16.15.08:405][ 96]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2020.03.29-16.15.08:667][ 96]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.03.29-16.15.08:676][ 96]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0003 seconds. Added 1 classes and 0 folders.
+[2020.03.29-16.15.08:994][ 96]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.03.29-16.15.09:828][ 96]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.03.29-16.16.17:302][428]LogUObjectArray: Warning: Invalid object index 4391013
+[2020.03.29-16.16.17:311][428]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2020.03.29-16.16.17:689][428]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.378 s
+[2020.03.29-16.16.17:689][428]LogOutputDevice: Error: === Handled ensure: ===
+[2020.03.29-16.16.17:689][428]LogOutputDevice: Error: 
+[2020.03.29-16.16.17:689][428]LogOutputDevice: Error: Ensure condition failed: false [File:D:/Build/++UE4/Sync/Engine/Source/Editor/UnrealEd/Private/Kismet2/KismetDebugUtilities.cpp] [Line: 1165]
+[2020.03.29-16.16.17:689][428]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2020.03.29-16.16.17:689][428]LogOutputDevice: Error: Stack: 
+[2020.03.29-16.16.17:689][428]LogOutputDevice: Error: [Callstack] 0x00007ffebb0b7b69 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.03.29-16.16.17:689][428]LogOutputDevice: Error: [Callstack] 0x00007ffeba8c678a UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.03.29-16.16.17:689][428]LogOutputDevice: Error: [Callstack] 0x00007ffeba8d409f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.03.29-16.16.17:689][428]LogOutputDevice: Error: [Callstack] 0x00007ffeb8e9c5b1 UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2020.03.29-16.16.17:689][428]LogOutputDevice: Error: [Callstack] 0x00007ffeb7e1977a UE4Editor-GraphEditor.dll!UnknownFunction []
+[2020.03.29-16.16.17:689][428]LogOutputDevice: Error: [Callstack] 0x00007ffeb7dd1647 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2020.03.29-16.16.17:689][428]LogOutputDevice: Error: [Callstack] 0x00007ffebbedb144 UE4Editor-Slate.dll!UnknownFunction []
+[2020.03.29-16.16.17:689][428]LogOutputDevice: Error: [Callstack] 0x00007ffebc0cdc63 UE4Editor-Slate.dll!UnknownFunction []
+[2020.03.29-16.16.17:689][428]LogOutputDevice: Error: [Callstack] 0x00007ffebbf260b3 UE4Editor-Slate.dll!UnknownFunction []
+[2020.03.29-16.16.17:689][428]LogOutputDevice: Error: [Callstack] 0x00007ffebbf046f9 UE4Editor-Slate.dll!UnknownFunction []
+[2020.03.29-16.16.17:689][428]LogOutputDevice: Error: [Callstack] 0x00007ffebbef8ce2 UE4Editor-Slate.dll!UnknownFunction []
+[2020.03.29-16.16.17:689][428]LogOutputDevice: Error: [Callstack] 0x00007fff15194ae7 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.03.29-16.16.17:689][428]LogOutputDevice: Error: [Callstack] 0x00007fff1518242f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.03.29-16.16.17:689][428]LogOutputDevice: Error: [Callstack] 0x00007fff15197195 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.03.29-16.16.17:689][428]LogOutputDevice: Error: [Callstack] 0x00007fff1517ec40 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.03.29-16.16.17:689][428]LogOutputDevice: Error: [Callstack] 0x00007fff27e87446 USER32.dll!UnknownFunction []
+[2020.03.29-16.16.17:689][428]LogOutputDevice: Error: [Callstack] 0x00007fff27e86f62 USER32.dll!UnknownFunction []
+[2020.03.29-16.16.17:689][428]LogOutputDevice: Error: [Callstack] 0x00007fff15198699 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.03.29-16.16.17:689][428]LogOutputDevice: Error: [Callstack] 0x00007ff694106db0 UE4Editor.exe!UnknownFunction []
+[2020.03.29-16.16.17:689][428]LogOutputDevice: Error: [Callstack] 0x00007ff69411c3ec UE4Editor.exe!UnknownFunction []
+[2020.03.29-16.16.17:689][428]LogOutputDevice: Error: [Callstack] 0x00007ff69411c4ca UE4Editor.exe!UnknownFunction []
+[2020.03.29-16.16.17:689][428]LogOutputDevice: Error: [Callstack] 0x00007ff69412ceae UE4Editor.exe!UnknownFunction []
+[2020.03.29-16.16.17:689][428]LogOutputDevice: Error: [Callstack] 0x00007ff69412fcbe UE4Editor.exe!UnknownFunction []
+[2020.03.29-16.16.17:689][428]LogOutputDevice: Error: [Callstack] 0x00007fff27667974 KERNEL32.DLL!UnknownFunction []
+[2020.03.29-16.16.17:691][428]LogOutputDevice: Error: [Callstack] 0x00007fff299da261 ntdll.dll!UnknownFunction []
+[2020.03.29-16.16.17:691][428]LogOutputDevice: Error: 
+[2020.03.29-16.16.17:754][428]LogStats:                SubmitErrorReport -  0.000 s
+[2020.03.29-16.16.19:159][428]LogStats:                    SendNewReport -  1.405 s
+[2020.03.29-16.16.19:159][428]LogStats:             FDebug::EnsureFailed -  1.848 s
+[2020.03.29-16.16.19:160][428]LogUObjectArray: Warning: Invalid object index 4391013
+[2020.03.29-16.16.19:164][428]LogTemp: Resetting audio stream to device id 
+[2020.03.29-16.16.19:178][428]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.03.29-16.16.19:178][428]LogAudioMixer: Display: Name: Speakers (Conexant SmartAudio HD)
+[2020.03.29-16.16.19:178][428]LogAudioMixer: Display: Is Default: Yes
+[2020.03.29-16.16.19:178][428]LogAudioMixer: Display: Sample Rate: 48000
+[2020.03.29-16.16.19:178][428]LogAudioMixer: Display: Channel Count Used: 2
+[2020.03.29-16.16.19:178][428]LogAudioMixer: Display: Device Channel Count: 2
+[2020.03.29-16.16.19:178][428]LogAudioMixer: Display: Channel Order:
+[2020.03.29-16.16.19:178][428]LogAudioMixer: Display: 0: FrontLeft
+[2020.03.29-16.16.19:178][428]LogAudioMixer: Display: 1: FrontRight
+[2020.03.29-16.16.44:150][670]LogTabManager: Warning: Cannot spawn tab because no spawner is registered for 'MyBlueprint'
+[2020.03.29-16.16.44:151][670]LogSlate: Warning: The tab "MyBlueprint" attempted to spawn but failed for some reason. An "unrecognized tab" will be returned instead.
+[2020.03.29-16.16.58:623][446]LogUObjectArray: Warning: Invalid object index 4391013
+[2020.03.29-16.16.58:624][446]LogUObjectArray: Warning: Invalid object index 4391013
+[2020.03.29-16.16.58:628][446]LogUObjectArray: Warning: Invalid object index 4391013
+[2020.03.29-16.16.58:636][446]LogUObjectArray: Warning: Invalid object index 4391013
+[2020.03.29-16.16.58:644][446]LogUObjectArray: Warning: Invalid object index 4391013
+[2020.03.29-16.17.06:805][877]BlueprintLog: New page: Compile BP_Dog_Character
+[2020.03.29-16.17.07:153][877]LogUObjectHash: Compacting FUObjectHashTables data took   4.65ms
+[2020.03.29-16.17.24:415][734]LogTabManager: Warning: Cannot spawn tab because no spawner is registered for 'MyBlueprint'
+[2020.03.29-16.17.24:415][734]LogSlate: Warning: The tab "MyBlueprint" attempted to spawn but failed for some reason. An "unrecognized tab" will be returned instead.
+[2020.03.29-16.17.35:871][379]BlueprintLog: New page: Compile DogController
+[2020.03.29-16.17.36:194][379]LogUObjectHash: Compacting FUObjectHashTables data took   4.59ms
+[2020.03.29-16.18.15:739][244]LogUObjectArray: Warning: Invalid object index 4391013
+[2020.03.29-16.18.15:753][245]LogUObjectArray: Warning: Invalid object index 4391013
+[2020.03.29-16.18.15:754][245]LogUObjectArray: Warning: Invalid object index 4391013
+[2020.03.29-16.18.15:758][245]LogUObjectArray: Warning: Invalid object index 4391013
+[2020.03.29-16.18.15:763][245]LogUObjectArray: Warning: Invalid object index 4391013
+[2020.03.29-16.18.15:771][245]LogUObjectArray: Warning: Invalid object index 4391013
+[2020.03.29-16.18.15:793][246]LogUObjectArray: Warning: Invalid object index 4391013
+[2020.03.29-16.18.15:798][246]LogUObjectArray: Warning: Invalid object index 4391013
+[2020.03.29-16.18.15:804][246]LogUObjectArray: Warning: Invalid object index 4391013
+[2020.03.29-16.18.15:811][247]LogUObjectArray: Warning: Invalid object index 4391013
+[2020.03.29-16.18.15:812][247]LogUObjectArray: Warning: Invalid object index 4391013
+[2020.03.29-16.18.15:817][247]LogUObjectArray: Warning: Invalid object index 4391013
+[2020.03.29-16.18.15:826][247]LogUObjectArray: Warning: Invalid object index 4391013
+[2020.03.29-16.18.15:836][248]LogUObjectArray: Warning: Invalid object index 4391013
+[2020.03.29-16.18.15:839][248]LogUObjectArray: Warning: Invalid object index 4391013
+[2020.03.29-16.18.15:842][248]LogUObjectArray: Warning: Invalid object index 4391013
+[2020.03.29-16.18.15:853][249]LogUObjectArray: Warning: Invalid object index 4391013
+[2020.03.29-16.18.15:858][249]LogUObjectArray: Warning: Invalid object index 4391013
+[2020.03.29-16.18.15:871][249]LogUObjectArray: Warning: Invalid object index 4391013
+[2020.03.29-16.18.22:751][537]LogEditorTransaction: Undo Delete current selection
+[2020.03.29-16.18.22:856][537]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.03.29-16.19.01:387][395]BlueprintLog: New page: Compile BP_Animation_Dog
+[2020.03.29-16.19.01:410][395]LogBlueprint: Warning: [Compiler BP_Animation_Dog] 'Dog Controller' does not inherit from 'Pawn' ( Cast To DogController  would always fail).
+[2020.03.29-16.19.01:427][395]LogBlueprint: Warning: [Compiler BP_Animation_Dog] 'Dog Controller' does not inherit from 'Pawn' ( Cast To DogController  would always fail).
+[2020.03.29-16.19.01:725][395]LogUObjectHash: Compacting FUObjectHashTables data took   4.08ms
+[2020.03.29-16.19.46:950][623]BlueprintLog: New page: Compile BP_Animation_Dog
+[2020.03.29-16.19.46:965][623]LogBlueprint: Warning: [Compiler BP_Animation_Dog] 'Dog Controller' does not inherit from 'Pawn' ( Cast To DogController  would always fail).
+[2020.03.29-16.19.46:974][623]LogBlueprint: Warning: [Compiler BP_Animation_Dog] 'Dog Controller' does not inherit from 'Pawn' ( Cast To DogController  would always fail).
+[2020.03.29-16.19.47:292][623]LogUObjectHash: Compacting FUObjectHashTables data took   4.05ms
+[2020.03.29-16.20.19:856][267]BlueprintLog: New page: Compile BP_Animation_Dog
+[2020.03.29-16.20.19:872][267]LogBlueprint: Warning: [Compiler BP_Animation_Dog] 'Dog Controller' does not inherit from 'Pawn' ( Cast To DogController  would always fail).
+[2020.03.29-16.20.19:887][267]LogBlueprint: Warning: [Compiler BP_Animation_Dog] 'Dog Controller' does not inherit from 'Pawn' ( Cast To DogController  would always fail).
+[2020.03.29-16.20.20:202][267]LogUObjectHash: Compacting FUObjectHashTables data took   3.93ms
+[2020.03.29-16.20.21:132][305]BlueprintLog: New page: Compile BP_Animation_Dog
+[2020.03.29-16.20.21:143][305]LogBlueprint: Warning: [Compiler BP_Animation_Dog] 'Dog Controller' does not inherit from 'Pawn' ( Cast To DogController  would always fail).
+[2020.03.29-16.20.21:152][305]LogBlueprint: Warning: [Compiler BP_Animation_Dog] 'Dog Controller' does not inherit from 'Pawn' ( Cast To DogController  would always fail).
+[2020.03.29-16.20.21:461][305]LogUObjectHash: Compacting FUObjectHashTables data took   3.94ms
+[2020.03.29-16.20.29:093][673]BlueprintLog: New page: Compile BP_Animation_Dog
+[2020.03.29-16.20.29:106][673]LogBlueprint: Warning: [Compiler BP_Animation_Dog] 'Dog Controller' does not inherit from 'Pawn' ( Cast To DogController  would always fail).
+[2020.03.29-16.20.29:125][673]LogBlueprint: Warning: [Compiler BP_Animation_Dog] 'Dog Controller' does not inherit from 'Pawn' ( Cast To DogController  would always fail).
+[2020.03.29-16.20.29:445][673]LogUObjectHash: Compacting FUObjectHashTables data took   3.85ms
+[2020.03.29-16.21.07:505][595]BlueprintLog: New page: Compile BP_Animation_Dog
+[2020.03.29-16.21.07:841][595]LogUObjectHash: Compacting FUObjectHashTables data took   4.24ms
+[2020.03.29-16.21.27:564][556]BlueprintLog: New page: Compile BP_Animation_Dog
+[2020.03.29-16.21.27:897][556]LogUObjectHash: Compacting FUObjectHashTables data took   4.28ms
+[2020.03.29-16.21.31:267][722]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.29-16.21.31:298][722]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.29-16.21.31:298][722]PIE: New page: PIE session: Playgrounds (29 Mar 2020, 22:21:31)
+[2020.03.29-16.21.31:298][722]LogPlayLevel: Creating play world package: /Game/Shenanidog/Maps/UEDPIE_0_Playgrounds
+[2020.03.29-16.21.31:303][722]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004602s)
+[2020.03.29-16.21.31:304][722]LogAIModule: Creating AISystem for world Playgrounds
+[2020.03.29-16.21.31:305][722]LogPlayLevel: PIE: World Init took: (0.001433s)
+[2020.03.29-16.21.31:305][722]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Shenanidog/Maps/Playgrounds.Playgrounds to /Game/Shenanidog/Maps/UEDPIE_0_Playgrounds.Playgrounds (0.006319s)
+[2020.03.29-16.21.31:357][722]LogUObjectHash: Compacting FUObjectHashTables data took   6.00ms
+[2020.03.29-16.21.31:358][722]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.03.29-16.21.31:358][722]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.03.29-16.21.31:358][722]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.03.29-16.21.31:358][722]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.03.29-16.21.31:358][722]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.03.29-16.21.31:358][722]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.03.29-16.21.31:358][722]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.03.29-16.21.31:358][722]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.03.29-16.21.31:360][722]LogAudio: Display: Using built-in audio occlusion.
+[2020.03.29-16.21.31:360][722]LogAudioMixer: Display: Initializing audio mixer.
+[2020.03.29-16.21.31:368][722]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.03.29-16.21.31:368][722]LogAudioMixer: Display: Name: Speakers (Conexant SmartAudio HD)
+[2020.03.29-16.21.31:368][722]LogAudioMixer: Display: Is Default: Yes
+[2020.03.29-16.21.31:368][722]LogAudioMixer: Display: Sample Rate: 48000
+[2020.03.29-16.21.31:368][722]LogAudioMixer: Display: Channel Count Used: 2
+[2020.03.29-16.21.31:368][722]LogAudioMixer: Display: Device Channel Count: 2
+[2020.03.29-16.21.31:368][722]LogAudioMixer: Display: Channel Order:
+[2020.03.29-16.21.31:368][722]LogAudioMixer: Display: 0: FrontLeft
+[2020.03.29-16.21.31:368][722]LogAudioMixer: Display: 1: FrontRight
+[2020.03.29-16.21.31:385][722]LogAudioMixer: Display: Using Audio Device Speakers (Conexant SmartAudio HD)
+[2020.03.29-16.21.31:386][722]LogInit: FAudioDevice initialized.
+[2020.03.29-16.21.31:398][722]LogLoad: Game class is 'BP_GameMode_C'
+[2020.03.29-16.21.31:400][722]LogWorld: Bringing World /Game/Shenanidog/Maps/UEDPIE_0_Playgrounds.Playgrounds up for play (max tick rate 60) at 2020.03.29-19.21.31
+[2020.03.29-16.21.31:401][722]LogWorld: Bringing up level for play took: 0.000858
+[2020.03.29-16.21.31:401][722]LogOnline: OSS: Creating online subsystem instance for: :Context_18
+[2020.03.29-16.21.31:406][722]PIE: Play in editor start time for /Game/Shenanidog/Maps/UEDPIE_0_Playgrounds 0.54
+[2020.03.29-16.21.41:712][304]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.29-16.21.41:712][304]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.29-16.21.41:713][304]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.29-16.21.41:713][304]LogWorld: BeginTearingDown for /Game/Shenanidog/Maps/UEDPIE_0_Playgrounds
+[2020.03.29-16.21.41:713][304]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.29-16.21.41:713][304]LogWorld: UWorld::CleanupWorld for Playgrounds, bSessionEnded=true, bCleanupResources=true
+[2020.03.29-16.21.41:714][304]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.29-16.21.41:726][304]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.29-16.21.41:740][304]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.29-16.21.41:795][304]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.29-16.21.41:797][304]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.29-16.21.41:801][304]LogUObjectHash: Compacting FUObjectHashTables data took   3.19ms
+[2020.03.29-16.21.41:822][305]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2020.03.29-16.22.13:012][ 61]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2020.03.29-16.22.13:013][ 61]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Shenanidog/Maps/Playgrounds' took 0.046
+[2020.03.29-16.22.13:013][ 61]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Shenanidog/BluePrints/GameFiles/BP_GameMode] ([1] browsable assets)...
+[2020.03.29-16.22.13:013][ 61]OBJ SavePackage: Finished generating thumbnails for package [/Game/Shenanidog/BluePrints/GameFiles/BP_GameMode]
+[2020.03.29-16.22.13:022][ 61]LogSavePackage: Moving 'D:/GoogleDrive/UnrealFinal/Eden_Shenanidog/Saved/BP_GameMode_Auto2456C1B9E4D28020AC2D87A87FCE91C2E.tmp' to 'D:/GoogleDrive/UnrealFinal/Eden_Shenanidog/Saved/Autosaves/Game/Shenanidog/BluePrints/GameFiles/BP_GameMode_Auto2.uasset'
+[2020.03.29-16.22.13:023][ 61]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Shenanidog/BluePrints/Character/BP_Dog_Character] ([1] browsable assets)...
+[2020.03.29-16.22.13:106][ 61]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Shenanidog/BluePrints/Character/BP_Dog_Character.BP_Dog_Character]
+[2020.03.29-16.22.13:106][ 61]OBJ SavePackage: Finished generating thumbnails for package [/Game/Shenanidog/BluePrints/Character/BP_Dog_Character]
+[2020.03.29-16.22.13:141][ 61]LogSavePackage: Moving 'D:/GoogleDrive/UnrealFinal/Eden_Shenanidog/Saved/BP_Dog_Character_Auto2295403124C16A74FAED8E8A66823E568.tmp' to 'D:/GoogleDrive/UnrealFinal/Eden_Shenanidog/Saved/Autosaves/Game/Shenanidog/BluePrints/Character/BP_Dog_Character_Auto2.uasset'
+[2020.03.29-16.22.13:142][ 61]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Shenanidog/BluePrints/Character/Animations/BluePrints/BP_Animation_Dog] ([1] browsable assets)...
+[2020.03.29-16.22.13:178][ 61]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Shenanidog/BluePrints/Character/Animations/BluePrints/BP_Animation_Dog.BP_Animation_Dog]
+[2020.03.29-16.22.13:178][ 61]OBJ SavePackage: Finished generating thumbnails for package [/Game/Shenanidog/BluePrints/Character/Animations/BluePrints/BP_Animation_Dog]
+[2020.03.29-16.22.13:246][ 61]LogSavePackage: Moving 'D:/GoogleDrive/UnrealFinal/Eden_Shenanidog/Saved/BP_Animation_Dog_Auto2C24312274E6FC4BE12183AB66F6F7BAF.tmp' to 'D:/GoogleDrive/UnrealFinal/Eden_Shenanidog/Saved/Autosaves/Game/Shenanidog/BluePrints/Character/Animations/BluePrints/BP_Animation_Dog_Auto2.uasset'
+[2020.03.29-16.22.13:246][ 61]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Shenanidog/BluePrints/Character/DogController] ([1] browsable assets)...
+[2020.03.29-16.22.13:247][ 61]OBJ SavePackage: Finished generating thumbnails for package [/Game/Shenanidog/BluePrints/Character/DogController]
+[2020.03.29-16.22.13:277][ 61]LogSavePackage: Moving 'D:/GoogleDrive/UnrealFinal/Eden_Shenanidog/Saved/DogController_Auto23950443D444D40193D2DCBBBCB96D280.tmp' to 'D:/GoogleDrive/UnrealFinal/Eden_Shenanidog/Saved/Autosaves/Game/Shenanidog/BluePrints/Character/DogController_Auto2.uasset'
+[2020.03.29-16.22.13:277][ 61]LogFileHelpers: Auto-saving content packages took 0.264
+[2020.03.29-16.23.10:550][258]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.03.29-16.23.15:672][545]BlueprintLog: New page: Compile DogController
+[2020.03.29-16.23.16:004][545]LogUObjectHash: Compacting FUObjectHashTables data took   3.66ms
+[2020.03.29-16.23.17:944][637]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.29-16.23.17:966][637]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.29-16.23.17:966][637]PIE: New page: PIE session: Playgrounds (29 Mar 2020, 22:23:17)
+[2020.03.29-16.23.17:966][637]LogPlayLevel: Creating play world package: /Game/Shenanidog/Maps/UEDPIE_0_Playgrounds
+[2020.03.29-16.23.17:972][637]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005638s)
+[2020.03.29-16.23.17:973][637]LogAIModule: Creating AISystem for world Playgrounds
+[2020.03.29-16.23.17:974][637]LogPlayLevel: PIE: World Init took: (0.002799s)
+[2020.03.29-16.23.17:974][637]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Shenanidog/Maps/Playgrounds.Playgrounds to /Game/Shenanidog/Maps/UEDPIE_0_Playgrounds.Playgrounds (0.008950s)
+[2020.03.29-16.23.18:022][637]LogUObjectHash: Compacting FUObjectHashTables data took   3.99ms
+[2020.03.29-16.23.18:022][637]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.03.29-16.23.18:022][637]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.03.29-16.23.18:022][637]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.03.29-16.23.18:022][637]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.03.29-16.23.18:022][637]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.03.29-16.23.18:022][637]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.03.29-16.23.18:022][637]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.03.29-16.23.18:022][637]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.03.29-16.23.18:023][637]LogAudio: Display: Using built-in audio occlusion.
+[2020.03.29-16.23.18:023][637]LogAudioMixer: Display: Initializing audio mixer.
+[2020.03.29-16.23.18:028][637]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.03.29-16.23.18:028][637]LogAudioMixer: Display: Name: Speakers (Conexant SmartAudio HD)
+[2020.03.29-16.23.18:028][637]LogAudioMixer: Display: Is Default: Yes
+[2020.03.29-16.23.18:028][637]LogAudioMixer: Display: Sample Rate: 48000
+[2020.03.29-16.23.18:028][637]LogAudioMixer: Display: Channel Count Used: 2
+[2020.03.29-16.23.18:028][637]LogAudioMixer: Display: Device Channel Count: 2
+[2020.03.29-16.23.18:028][637]LogAudioMixer: Display: Channel Order:
+[2020.03.29-16.23.18:028][637]LogAudioMixer: Display: 0: FrontLeft
+[2020.03.29-16.23.18:028][637]LogAudioMixer: Display: 1: FrontRight
+[2020.03.29-16.23.18:043][637]LogAudioMixer: Display: Using Audio Device Speakers (Conexant SmartAudio HD)
+[2020.03.29-16.23.18:045][637]LogInit: FAudioDevice initialized.
+[2020.03.29-16.23.18:053][637]LogLoad: Game class is 'BP_GameMode_C'
+[2020.03.29-16.23.18:055][637]LogWorld: Bringing World /Game/Shenanidog/Maps/UEDPIE_0_Playgrounds.Playgrounds up for play (max tick rate 60) at 2020.03.29-19.23.18
+[2020.03.29-16.23.18:055][637]LogWorld: Bringing up level for play took: 0.000442
+[2020.03.29-16.23.18:055][637]LogOnline: OSS: Creating online subsystem instance for: :Context_19
+[2020.03.29-16.23.18:057][637]PIE: Play in editor start time for /Game/Shenanidog/Maps/UEDPIE_0_Playgrounds -0.808
+[2020.03.29-16.23.32:276][439]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.29-16.23.32:276][439]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.29-16.23.32:277][439]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.29-16.23.32:277][439]LogWorld: BeginTearingDown for /Game/Shenanidog/Maps/UEDPIE_0_Playgrounds
+[2020.03.29-16.23.32:278][439]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.29-16.23.32:278][439]LogWorld: UWorld::CleanupWorld for Playgrounds, bSessionEnded=true, bCleanupResources=true
+[2020.03.29-16.23.32:279][439]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.29-16.23.32:297][439]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.29-16.23.32:305][439]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.29-16.23.32:370][439]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.29-16.23.32:372][439]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.29-16.23.32:376][439]LogUObjectHash: Compacting FUObjectHashTables data took   3.17ms
+[2020.03.29-16.23.32:397][440]LogPlayLevel: Display: Destroying online subsystem :Context_19
