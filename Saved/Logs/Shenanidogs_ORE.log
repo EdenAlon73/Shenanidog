@@ -674,3 +674,292 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.03.29-15.38.44:545][228]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 121 classes and 0 folders.
 [2020.03.29-15.38.45:337][228]LogSlate: Took 0.000168 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
 [2020.03.29-15.38.45:417][229]LogSlate: Took 0.000659 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.03.29-15.46.34:732][998]LogSlate: Window 'Pick Parent Class' being destroyed
+[2020.03.29-15.46.43:010][373]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Shenanidog/BluePrints/Character/DogController.DogController
+[2020.03.29-15.46.45:067][433]LogRenderer: Reallocating scene render targets to support 944x692 Format 10 NumSamples 1 (Frame:62).
+[2020.03.29-15.46.45:388][452]LogSlate: Window 'DogController' being destroyed
+[2020.03.29-15.47.30:468][827]BlueprintLog: New page: Compile DogController
+[2020.03.29-15.47.30:477][827]LogBlueprint: Error: [Compiler DogController] In use pin  <Unnamed>  no longer exists on node  Update Movement Speed . Please refresh node or break links to remove pin.
+[2020.03.29-15.47.30:477][827]LogBlueprint: Error: [Compiler DogController] Could not find a function named "UpdateMovementSpeed" in 'DogController_C'.
+Make sure 'DogController_C' has been compiled for  Update Movement Speed
+[2020.03.29-15.47.30:477][827]LogBlueprint: Warning: [Compiler DogController] Could not find a variable named "IsSprinting" in 'DogController_C'.
+Make sure 'DogController_C' has been compiled for  Set IsSprinting
+[2020.03.29-15.47.30:477][827]LogBlueprint: Warning: [Compiler DogController] Could not find a variable named "IsSprinting" in 'DogController_C'.
+Make sure 'DogController_C' has been compiled for  Get IsSprinting
+[2020.03.29-15.47.30:478][827]LogBlueprint: Warning: [Compiler DogController] Could not find a variable named "IsSprinting" in 'DogController_C'.
+Make sure 'DogController_C' has been compiled for  Get IsSprinting
+[2020.03.29-15.47.30:478][827]LogBlueprint: Error: [Compiler DogController] In use pin  <Unnamed>  no longer exists on node  Update Movement Speed . Please refresh node or break links to remove pin.
+[2020.03.29-15.47.30:478][827]LogBlueprint: Error: [Compiler DogController] Could not find a function named "UpdateMovementSpeed" in 'DogController_C'.
+Make sure 'DogController_C' has been compiled for  Update Movement Speed
+[2020.03.29-15.47.30:478][827]LogBlueprint: Warning: [Compiler DogController] Could not find a variable named "IsSprinting" in 'DogController_C'.
+Make sure 'DogController_C' has been compiled for  Set IsSprinting
+[2020.03.29-15.47.30:478][827]LogBlueprint: Warning: [Compiler DogController] Could not find a variable named "IsSprinting" in 'DogController_C'.
+Make sure 'DogController_C' has been compiled for  Set IsSprinting
+[2020.03.29-15.47.30:482][827]LogBlueprint: Error: [Compiler DogController] This blueprint (self) is not a Character, therefore ' Target ' must have a connection.
+[2020.03.29-15.47.30:482][827]LogBlueprint: Error: [Compiler DogController] This blueprint (self) is not a Pawn, therefore ' Target ' must have a connection.
+[2020.03.29-15.47.30:482][827]LogBlueprint: Error: [Compiler DogController] This blueprint (self) is not a Character, therefore ' Target ' must have a connection.
+[2020.03.29-15.47.30:482][827]LogBlueprint: Error: [Compiler DogController] This blueprint (self) is not a Character, therefore ' Target ' must have a connection.
+[2020.03.29-15.47.30:482][827]LogBlueprint: Error: [Compiler DogController] This blueprint (self) is not a Character, therefore ' Target ' must have a connection.
+[2020.03.29-15.47.30:482][827]LogBlueprint: Error: [Compiler DogController] This blueprint (self) is not a Pawn, therefore ' Target ' must have a connection.
+[2020.03.29-15.47.30:482][827]LogBlueprint: Error: [Compiler DogController] This blueprint (self) is not a Pawn, therefore ' Target ' must have a connection.
+[2020.03.29-15.47.30:483][827]LogBlueprint: Error: [Compiler DogController] This blueprint (self) is not a Pawn, therefore ' Target ' must have a connection.
+[2020.03.29-15.47.30:483][827]LogBlueprint: Error: [Compiler DogController] The property associated with  Is Sprinting  could not be found in '/Game/Shenanidog/BluePrints/Character/DogController.DogController_C'
+[2020.03.29-15.47.30:484][827]LogBlueprint: Error: [Compiler DogController] The property associated with  Is Sprinting  could not be found in '/Game/Shenanidog/BluePrints/Character/DogController.DogController_C'
+[2020.03.29-15.47.30:484][827]LogBlueprint: Error: [Compiler DogController] The property associated with  Is Sprinting  could not be found in '/Game/Shenanidog/BluePrints/Character/DogController.DogController_C'
+[2020.03.29-15.47.30:484][827]LogBlueprint: Error: [Compiler DogController] The property associated with  Is Sprinting  could not be found in '/Game/Shenanidog/BluePrints/Character/DogController.DogController_C'
+[2020.03.29-15.47.30:484][827]LogBlueprint: Error: [Compiler DogController] The property associated with  Is Sprinting  could not be found in '/Game/Shenanidog/BluePrints/Character/DogController.DogController_C'
+[2020.03.29-15.47.30:711][827]LogUObjectHash: Compacting FUObjectHashTables data took   3.19ms
+[2020.03.29-15.48.06:446][670]BlueprintLog: New page: Compile DogController
+[2020.03.29-15.48.06:458][670]LogBlueprint: Error: [Compiler DogController] In use pin  <Unnamed>  no longer exists on node  Update Movement Speed . Please refresh node or break links to remove pin.
+[2020.03.29-15.48.06:458][670]LogBlueprint: Error: [Compiler DogController] Could not find a function named "UpdateMovementSpeed" in 'DogController_C'.
+Make sure 'DogController_C' has been compiled for  Update Movement Speed
+[2020.03.29-15.48.06:458][670]LogBlueprint: Warning: [Compiler DogController] Could not find a variable named "IsSprinting" in 'DogController_C'.
+Make sure 'DogController_C' has been compiled for  Set IsSprinting
+[2020.03.29-15.48.06:459][670]LogBlueprint: Warning: [Compiler DogController] Could not find a variable named "IsSprinting" in 'DogController_C'.
+Make sure 'DogController_C' has been compiled for  Get IsSprinting
+[2020.03.29-15.48.06:459][670]LogBlueprint: Warning: [Compiler DogController] Could not find a variable named "IsSprinting" in 'DogController_C'.
+Make sure 'DogController_C' has been compiled for  Get IsSprinting
+[2020.03.29-15.48.06:459][670]LogBlueprint: Error: [Compiler DogController] In use pin  <Unnamed>  no longer exists on node  Update Movement Speed . Please refresh node or break links to remove pin.
+[2020.03.29-15.48.06:460][670]LogBlueprint: Error: [Compiler DogController] Could not find a function named "UpdateMovementSpeed" in 'DogController_C'.
+Make sure 'DogController_C' has been compiled for  Update Movement Speed
+[2020.03.29-15.48.06:460][670]LogBlueprint: Warning: [Compiler DogController] Could not find a variable named "IsSprinting" in 'DogController_C'.
+Make sure 'DogController_C' has been compiled for  Set IsSprinting
+[2020.03.29-15.48.06:460][670]LogBlueprint: Warning: [Compiler DogController] Could not find a variable named "IsSprinting" in 'DogController_C'.
+Make sure 'DogController_C' has been compiled for  Set IsSprinting
+[2020.03.29-15.48.06:462][670]LogBlueprint: Error: [Compiler DogController] This blueprint (self) is not a Character, therefore ' Target ' must have a connection.
+[2020.03.29-15.48.06:463][670]LogBlueprint: Error: [Compiler DogController] This blueprint (self) is not a Pawn, therefore ' Target ' must have a connection.
+[2020.03.29-15.48.06:463][670]LogBlueprint: Error: [Compiler DogController] This blueprint (self) is not a Character, therefore ' Target ' must have a connection.
+[2020.03.29-15.48.06:463][670]LogBlueprint: Error: [Compiler DogController] This blueprint (self) is not a Character, therefore ' Target ' must have a connection.
+[2020.03.29-15.48.06:463][670]LogBlueprint: Error: [Compiler DogController] This blueprint (self) is not a Character, therefore ' Target ' must have a connection.
+[2020.03.29-15.48.06:463][670]LogBlueprint: Error: [Compiler DogController] This blueprint (self) is not a Pawn, therefore ' Target ' must have a connection.
+[2020.03.29-15.48.06:463][670]LogBlueprint: Error: [Compiler DogController] This blueprint (self) is not a Pawn, therefore ' Target ' must have a connection.
+[2020.03.29-15.48.06:463][670]LogBlueprint: Error: [Compiler DogController] This blueprint (self) is not a Pawn, therefore ' Target ' must have a connection.
+[2020.03.29-15.48.06:464][670]LogBlueprint: Error: [Compiler DogController] The property associated with  Is Sprinting  could not be found in '/Game/Shenanidog/BluePrints/Character/DogController.DogController_C'
+[2020.03.29-15.48.06:464][670]LogBlueprint: Error: [Compiler DogController] The property associated with  Is Sprinting  could not be found in '/Game/Shenanidog/BluePrints/Character/DogController.DogController_C'
+[2020.03.29-15.48.06:464][670]LogBlueprint: Error: [Compiler DogController] The property associated with  Is Sprinting  could not be found in '/Game/Shenanidog/BluePrints/Character/DogController.DogController_C'
+[2020.03.29-15.48.06:464][670]LogBlueprint: Error: [Compiler DogController] The property associated with  Is Sprinting  could not be found in '/Game/Shenanidog/BluePrints/Character/DogController.DogController_C'
+[2020.03.29-15.48.06:465][670]LogBlueprint: Error: [Compiler DogController] The property associated with  Is Sprinting  could not be found in '/Game/Shenanidog/BluePrints/Character/DogController.DogController_C'
+[2020.03.29-15.48.06:676][670]LogUObjectHash: Compacting FUObjectHashTables data took   3.22ms
+[2020.03.29-15.48.07:409][695]LogSavePackage: Moving 'D:/GoogleDrive/UnrealFinal/Eden_Shenanidog/Saved/DogControllerF62F0B9647E2974F8945679BA5D8782A.tmp' to 'D:/GoogleDrive/UnrealFinal/Eden_Shenanidog/Content/Shenanidog/BluePrints/Character/DogController.uasset'
+[2020.03.29-15.48.08:169][695]AssetCheck: New page: Asset Save: DogController
+[2020.03.29-15.48.08:169][695]LogContentValidation: Display: Validating Blueprint /Game/Shenanidog/BluePrints/Character/DogController.DogController
+[2020.03.29-15.51.46:138][216]BlueprintLog: New page: Compile DogController
+[2020.03.29-15.51.46:151][216]LogBlueprint: Error: [Compiler DogController] In use pin  <Unnamed>  no longer exists on node  Update Movement Speed . Please refresh node or break links to remove pin.
+[2020.03.29-15.51.46:152][216]LogBlueprint: Error: [Compiler DogController] Could not find a function named "UpdateMovementSpeed" in 'DogController_C'.
+Make sure 'DogController_C' has been compiled for  Update Movement Speed
+[2020.03.29-15.51.46:152][216]LogBlueprint: Warning: [Compiler DogController] Could not find a variable named "IsSprinting" in 'DogController_C'.
+Make sure 'DogController_C' has been compiled for  Set IsSprinting
+[2020.03.29-15.51.46:153][216]LogBlueprint: Warning: [Compiler DogController] Could not find a variable named "IsSprinting" in 'DogController_C'.
+Make sure 'DogController_C' has been compiled for  Get IsSprinting
+[2020.03.29-15.51.46:155][216]LogBlueprint: Error: [Compiler DogController] This blueprint (self) is not a Character, therefore ' Target ' must have a connection.
+[2020.03.29-15.51.46:155][216]LogBlueprint: Error: [Compiler DogController] This blueprint (self) is not a Pawn, therefore ' Target ' must have a connection.
+[2020.03.29-15.51.46:155][216]LogBlueprint: Error: [Compiler DogController] This blueprint (self) is not a Pawn, therefore ' Target ' must have a connection.
+[2020.03.29-15.51.46:155][216]LogBlueprint: Error: [Compiler DogController] This blueprint (self) is not a Character, therefore ' Target ' must have a connection.
+[2020.03.29-15.51.46:155][216]LogBlueprint: Error: [Compiler DogController] This blueprint (self) is not a Character, therefore ' Target ' must have a connection.
+[2020.03.29-15.51.46:155][216]LogBlueprint: Error: [Compiler DogController] This blueprint (self) is not a Pawn, therefore ' Target ' must have a connection.
+[2020.03.29-15.51.46:156][216]LogBlueprint: Error: [Compiler DogController] This blueprint (self) is not a Pawn, therefore ' Target ' must have a connection.
+[2020.03.29-15.51.46:156][216]LogBlueprint: Error: [Compiler DogController] The property associated with  Is Sprinting  could not be found in '/Game/Shenanidog/BluePrints/Character/DogController.DogController_C'
+[2020.03.29-15.51.46:156][216]LogBlueprint: Error: [Compiler DogController] The property associated with  Is Sprinting  could not be found in '/Game/Shenanidog/BluePrints/Character/DogController.DogController_C'
+[2020.03.29-15.51.46:364][216]LogUObjectHash: Compacting FUObjectHashTables data took   3.21ms
+[2020.03.29-15.51.52:719][565]BlueprintLog: New page: Compile DogController
+[2020.03.29-15.51.52:724][565]LogBlueprint: Error: [Compiler DogController] In use pin  <Unnamed>  no longer exists on node  Update Movement Speed . Please refresh node or break links to remove pin.
+[2020.03.29-15.51.52:724][565]LogBlueprint: Error: [Compiler DogController] Could not find a function named "UpdateMovementSpeed" in 'DogController_C'.
+Make sure 'DogController_C' has been compiled for  Update Movement Speed
+[2020.03.29-15.51.52:724][565]LogBlueprint: Warning: [Compiler DogController] Could not find a variable named "IsSprinting" in 'DogController_C'.
+Make sure 'DogController_C' has been compiled for  Set IsSprinting
+[2020.03.29-15.51.52:725][565]LogBlueprint: Warning: [Compiler DogController] Could not find a variable named "IsSprinting" in 'DogController_C'.
+Make sure 'DogController_C' has been compiled for  Get IsSprinting
+[2020.03.29-15.51.52:726][565]LogBlueprint: Error: [Compiler DogController] This blueprint (self) is not a Character, therefore ' Target ' must have a connection.
+[2020.03.29-15.51.52:726][565]LogBlueprint: Error: [Compiler DogController] This blueprint (self) is not a Pawn, therefore ' Target ' must have a connection.
+[2020.03.29-15.51.52:726][565]LogBlueprint: Error: [Compiler DogController] This blueprint (self) is not a Pawn, therefore ' Target ' must have a connection.
+[2020.03.29-15.51.52:726][565]LogBlueprint: Error: [Compiler DogController] This blueprint (self) is not a Character, therefore ' Target ' must have a connection.
+[2020.03.29-15.51.52:726][565]LogBlueprint: Error: [Compiler DogController] This blueprint (self) is not a Character, therefore ' Target ' must have a connection.
+[2020.03.29-15.51.52:726][565]LogBlueprint: Error: [Compiler DogController] This blueprint (self) is not a Pawn, therefore ' Target ' must have a connection.
+[2020.03.29-15.51.52:726][565]LogBlueprint: Error: [Compiler DogController] This blueprint (self) is not a Pawn, therefore ' Target ' must have a connection.
+[2020.03.29-15.51.52:726][565]LogBlueprint: Error: [Compiler DogController] The property associated with  Is Sprinting  could not be found in '/Game/Shenanidog/BluePrints/Character/DogController.DogController_C'
+[2020.03.29-15.51.52:727][565]LogBlueprint: Error: [Compiler DogController] The property associated with  Is Sprinting  could not be found in '/Game/Shenanidog/BluePrints/Character/DogController.DogController_C'
+[2020.03.29-15.51.52:940][565]LogUObjectHash: Compacting FUObjectHashTables data took   3.14ms
+[2020.03.29-15.52.07:401][321]BlueprintLog: New page: Compile DogController
+[2020.03.29-15.52.07:417][321]LogBlueprint: Error: [Compiler DogController] This blueprint (self) is not a Character, therefore ' Target ' must have a connection.
+[2020.03.29-15.52.07:418][321]LogBlueprint: Error: [Compiler DogController] This blueprint (self) is not a Pawn, therefore ' Target ' must have a connection.
+[2020.03.29-15.52.07:418][321]LogBlueprint: Error: [Compiler DogController] This blueprint (self) is not a Character, therefore ' Target ' must have a connection.
+[2020.03.29-15.52.07:418][321]LogBlueprint: Error: [Compiler DogController] This blueprint (self) is not a Character, therefore ' Target ' must have a connection.
+[2020.03.29-15.52.07:418][321]LogBlueprint: Error: [Compiler DogController] This blueprint (self) is not a Pawn, therefore ' Target ' must have a connection.
+[2020.03.29-15.52.07:418][321]LogBlueprint: Error: [Compiler DogController] This blueprint (self) is not a Pawn, therefore ' Target ' must have a connection.
+[2020.03.29-15.52.07:418][321]LogBlueprint: Error: [Compiler DogController] This blueprint (self) is not a Pawn, therefore ' Target ' must have a connection.
+[2020.03.29-15.52.07:634][321]LogUObjectHash: Compacting FUObjectHashTables data took   3.10ms
+[2020.03.29-15.52.23:699][160]BlueprintLog: New page: Compile DogController
+[2020.03.29-15.52.23:705][160]LogBlueprint: Error: [Compiler DogController] This blueprint (self) is not a Character, therefore ' Target ' must have a connection.
+[2020.03.29-15.52.23:705][160]LogBlueprint: Error: [Compiler DogController] This blueprint (self) is not a Pawn, therefore ' Target ' must have a connection.
+[2020.03.29-15.52.23:705][160]LogBlueprint: Error: [Compiler DogController] This blueprint (self) is not a Character, therefore ' Target ' must have a connection.
+[2020.03.29-15.52.23:705][160]LogBlueprint: Error: [Compiler DogController] This blueprint (self) is not a Character, therefore ' Target ' must have a connection.
+[2020.03.29-15.52.23:705][160]LogBlueprint: Error: [Compiler DogController] This blueprint (self) is not a Pawn, therefore ' Target ' must have a connection.
+[2020.03.29-15.52.23:706][160]LogBlueprint: Error: [Compiler DogController] This blueprint (self) is not a Pawn, therefore ' Target ' must have a connection.
+[2020.03.29-15.52.23:932][160]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2020.03.29-15.52.27:016][308]LogEditorTransaction: Undo Delete current selection
+[2020.03.29-15.52.43:239][144]LogEditorTransaction: Undo Delete current selection
+[2020.03.29-15.54.13:894][992]LogUObjectHash: Compacting FUObjectHashTables data took   3.20ms
+[2020.03.29-15.54.13:895][992]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Shenanidog/Maps/Playgrounds' took 0.039
+[2020.03.29-15.54.13:895][992]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Shenanidog/BluePrints/Character/DogController] ([1] browsable assets)...
+[2020.03.29-15.54.13:895][992]OBJ SavePackage: Finished generating thumbnails for package [/Game/Shenanidog/BluePrints/Character/DogController]
+[2020.03.29-15.54.13:912][992]LogSavePackage: Moving 'D:/GoogleDrive/UnrealFinal/Eden_Shenanidog/Saved/DogController_Auto1212FD9BA4A9BCC3E38B9A699DB1592C4.tmp' to 'D:/GoogleDrive/UnrealFinal/Eden_Shenanidog/Saved/Autosaves/Game/Shenanidog/BluePrints/Character/DogController_Auto1.uasset'
+[2020.03.29-15.54.13:912][992]LogFileHelpers: Auto-saving content packages took 0.018
+[2020.03.29-15.56.51:853][239]BlueprintLog: New page: Compile DogController
+[2020.03.29-15.56.51:865][239]LogBlueprint: Error: [Compiler DogController] This blueprint (self) is not a Character, therefore ' Target ' must have a connection.
+[2020.03.29-15.56.51:865][239]LogBlueprint: Error: [Compiler DogController] This blueprint (self) is not a Pawn, therefore ' Target ' must have a connection.
+[2020.03.29-15.56.51:865][239]LogBlueprint: Error: [Compiler DogController] This blueprint (self) is not a Character, therefore ' Target ' must have a connection.
+[2020.03.29-15.56.51:866][239]LogBlueprint: Error: [Compiler DogController] This blueprint (self) is not a Character, therefore ' Target ' must have a connection.
+[2020.03.29-15.56.51:866][239]LogBlueprint: Error: [Compiler DogController] This blueprint (self) is not a Pawn, therefore ' Target ' must have a connection.
+[2020.03.29-15.56.52:087][239]LogUObjectHash: Compacting FUObjectHashTables data took   3.12ms
+[2020.03.29-15.59.17:363][726]BlueprintLog: New page: Compile DogController
+[2020.03.29-15.59.17:373][726]LogBlueprint: Warning: [Compiler DogController] Could not find a variable named "IsSprinting" in 'DogController_C'.
+Make sure 'DogController_C' has been compiled for  Get IsSprinting
+[2020.03.29-15.59.17:373][726]LogBlueprint: Warning: [Compiler DogController] Could not find a variable named "CharacterMovement" in 'DogController_C'.
+Make sure 'DogController_C' has been compiled for  Get CharacterMovement
+[2020.03.29-15.59.17:374][726]LogBlueprint: Error: [Compiler DogController] This blueprint (self) is not a Character, therefore ' Target ' must have a connection.
+[2020.03.29-15.59.17:374][726]LogBlueprint: Error: [Compiler DogController] This blueprint (self) is not a Pawn, therefore ' Target ' must have a connection.
+[2020.03.29-15.59.17:374][726]LogBlueprint: Error: [Compiler DogController] This blueprint (self) is not a Character, therefore ' Target ' must have a connection.
+[2020.03.29-15.59.17:374][726]LogBlueprint: Error: [Compiler DogController] This blueprint (self) is not a Character, therefore ' Target ' must have a connection.
+[2020.03.29-15.59.17:374][726]LogBlueprint: Error: [Compiler DogController] This blueprint (self) is not a Pawn, therefore ' Target ' must have a connection.
+[2020.03.29-15.59.17:376][726]LogBlueprint: Error: [Compiler DogController] The property associated with  Character Movement  could not be found in '/Game/Shenanidog/BluePrints/Character/DogController.DogController_C'
+[2020.03.29-15.59.17:376][726]LogBlueprint: Error: [Compiler DogController] The property associated with  Is Sprinting  could not be found in '/Game/Shenanidog/BluePrints/Character/DogController.DogController_C'
+[2020.03.29-15.59.17:600][726]LogUObjectHash: Compacting FUObjectHashTables data took   3.45ms
+[2020.03.29-16.03.24:641][895]BlueprintLog: New page: Compile DogController
+[2020.03.29-16.03.24:660][895]LogBlueprint: Error: [Compiler DogController] This blueprint (self) is not a Character, therefore ' Target ' must have a connection.
+[2020.03.29-16.03.24:661][895]LogBlueprint: Error: [Compiler DogController] This blueprint (self) is not a Pawn, therefore ' Target ' must have a connection.
+[2020.03.29-16.03.24:661][895]LogBlueprint: Error: [Compiler DogController] This blueprint (self) is not a Character, therefore ' Target ' must have a connection.
+[2020.03.29-16.03.24:661][895]LogBlueprint: Error: [Compiler DogController] This blueprint (self) is not a Character, therefore ' Target ' must have a connection.
+[2020.03.29-16.03.24:661][895]LogBlueprint: Error: [Compiler DogController] This blueprint (self) is not a Pawn, therefore ' Target ' must have a connection.
+[2020.03.29-16.03.24:897][895]LogUObjectHash: Compacting FUObjectHashTables data took   3.33ms
+[2020.03.29-16.03.46:097][977]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find symbols for 'ACharacter::Jump' [Element not found.]
+[2020.03.29-16.05.41:810][943]BlueprintLog: New page: Compile DogController
+[2020.03.29-16.05.41:826][943]LogBlueprint: Error: [Compiler DogController] This blueprint (self) is not a Pawn, therefore ' Target ' must have a connection.
+[2020.03.29-16.05.41:826][943]LogBlueprint: Error: [Compiler DogController] This blueprint (self) is not a Character, therefore ' Target ' must have a connection.
+[2020.03.29-16.05.41:826][943]LogBlueprint: Error: [Compiler DogController] This blueprint (self) is not a Character, therefore ' Target ' must have a connection.
+[2020.03.29-16.05.41:826][943]LogBlueprint: Error: [Compiler DogController] This blueprint (self) is not a Pawn, therefore ' Target ' must have a connection.
+[2020.03.29-16.05.42:049][943]LogUObjectHash: Compacting FUObjectHashTables data took   3.54ms
+[2020.03.29-16.06.56:726][614]BlueprintLog: New page: Compile DogController
+[2020.03.29-16.06.56:734][614]LogBlueprint: Error: [Compiler DogController] This blueprint (self) is not a Character, therefore ' Target ' must have a connection.
+[2020.03.29-16.06.56:735][614]LogBlueprint: Error: [Compiler DogController] This blueprint (self) is not a Character, therefore ' Target ' must have a connection.
+[2020.03.29-16.06.56:735][614]LogBlueprint: Error: [Compiler DogController] This blueprint (self) is not a Character, therefore ' Target ' must have a connection.
+[2020.03.29-16.06.56:953][614]LogUObjectHash: Compacting FUObjectHashTables data took   3.24ms
+[2020.03.29-16.07.21:936][904]BlueprintLog: New page: Compile DogController
+[2020.03.29-16.07.21:951][904]LogBlueprint: Error: [Compiler DogController] This blueprint (self) is not a Character, therefore ' Target ' must have a connection.
+[2020.03.29-16.07.22:174][904]LogUObjectHash: Compacting FUObjectHashTables data took   3.47ms
+[2020.03.29-16.07.35:166][550]BlueprintLog: New page: Compile DogController
+[2020.03.29-16.07.35:450][550]LogUObjectHash: Compacting FUObjectHashTables data took   4.75ms
+[2020.03.29-16.07.39:805][764]LogSavePackage: Moving 'D:/GoogleDrive/UnrealFinal/Eden_Shenanidog/Saved/DogControllerD09DD1E34EAE405CE0CC7EA9FD93EC2D.tmp' to 'D:/GoogleDrive/UnrealFinal/Eden_Shenanidog/Content/Shenanidog/BluePrints/Character/DogController.uasset'
+[2020.03.29-16.07.39:819][764]AssetCheck: New page: Asset Save: DogController
+[2020.03.29-16.07.39:819][764]LogContentValidation: Display: Validating Blueprint /Game/Shenanidog/BluePrints/Character/DogController.DogController
+[2020.03.29-16.08.11:426][371]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.03.29-16.08.22:886][952]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Shenanidog/Maps/Playgrounds" FILE="D:/GoogleDrive/UnrealFinal/Eden_Shenanidog/Content/Shenanidog/Maps/Playgrounds.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.03.29-16.08.22:922][952]LogUObjectHash: Compacting FUObjectHashTables data took   3.26ms
+[2020.03.29-16.08.22:937][952]LogSavePackage: Moving 'D:/GoogleDrive/UnrealFinal/Eden_Shenanidog/Saved/Playgrounds97F0AC30463510775CC5279439A07814.tmp' to 'D:/GoogleDrive/UnrealFinal/Eden_Shenanidog/Content/Shenanidog/Maps/Playgrounds.umap'
+[2020.03.29-16.08.23:054][952]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Shenanidog/Maps/Playgrounds_BuiltData" FILE="D:/GoogleDrive/UnrealFinal/Eden_Shenanidog/Content/Shenanidog/Maps/Playgrounds_BuiltData.uasset" SILENT=true
+[2020.03.29-16.08.23:121][952]LogSavePackage: Moving 'D:/GoogleDrive/UnrealFinal/Eden_Shenanidog/Saved/Playgrounds_BuiltData7AA20384425DEC6211984A960A5FD8C0.tmp' to 'D:/GoogleDrive/UnrealFinal/Eden_Shenanidog/Content/Shenanidog/Maps/Playgrounds_BuiltData.uasset'
+[2020.03.29-16.08.23:134][952]AssetCheck: New page: Asset Save: multiple assets
+[2020.03.29-16.08.23:134][952]LogContentValidation: Display: Validating World /Game/Shenanidog/Maps/Playgrounds.Playgrounds
+[2020.03.29-16.08.23:134][952]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Shenanidog/Maps/Playgrounds_BuiltData.Playgrounds_BuiltData
+[2020.03.29-16.08.24:095][  2]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.29-16.08.24:115][  2]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.29-16.08.24:115][  2]PIE: New page: PIE session: Playgrounds (29 Mar 2020, 22:08:24)
+[2020.03.29-16.08.24:115][  2]LogPlayLevel: Creating play world package: /Game/Shenanidog/Maps/UEDPIE_0_Playgrounds
+[2020.03.29-16.08.24:118][  2]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002603s)
+[2020.03.29-16.08.24:121][  2]LogAIModule: Creating AISystem for world Playgrounds
+[2020.03.29-16.08.24:122][  2]LogPlayLevel: PIE: World Init took: (0.003619s)
+[2020.03.29-16.08.24:122][  2]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Shenanidog/Maps/Playgrounds.Playgrounds to /Game/Shenanidog/Maps/UEDPIE_0_Playgrounds.Playgrounds (0.006649s)
+[2020.03.29-16.08.24:162][  2]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2020.03.29-16.08.24:163][  2]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.03.29-16.08.24:163][  2]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.03.29-16.08.24:163][  2]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.03.29-16.08.24:163][  2]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.03.29-16.08.24:163][  2]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.03.29-16.08.24:163][  2]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.03.29-16.08.24:163][  2]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.03.29-16.08.24:163][  2]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.03.29-16.08.24:163][  2]LogAudio: Display: Using built-in audio occlusion.
+[2020.03.29-16.08.24:163][  2]LogAudioMixer: Display: Initializing audio mixer.
+[2020.03.29-16.08.24:168][  2]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.03.29-16.08.24:168][  2]LogAudioMixer: Display: Name: Speakers (Conexant SmartAudio HD)
+[2020.03.29-16.08.24:168][  2]LogAudioMixer: Display: Is Default: Yes
+[2020.03.29-16.08.24:168][  2]LogAudioMixer: Display: Sample Rate: 48000
+[2020.03.29-16.08.24:168][  2]LogAudioMixer: Display: Channel Count Used: 2
+[2020.03.29-16.08.24:168][  2]LogAudioMixer: Display: Device Channel Count: 2
+[2020.03.29-16.08.24:168][  2]LogAudioMixer: Display: Channel Order:
+[2020.03.29-16.08.24:168][  2]LogAudioMixer: Display: 0: FrontLeft
+[2020.03.29-16.08.24:168][  2]LogAudioMixer: Display: 1: FrontRight
+[2020.03.29-16.08.24:184][  2]LogAudioMixer: Display: Using Audio Device Speakers (Conexant SmartAudio HD)
+[2020.03.29-16.08.24:185][  2]LogInit: FAudioDevice initialized.
+[2020.03.29-16.08.24:191][  2]LogLoad: Game class is 'BP_GameMode_C'
+[2020.03.29-16.08.24:192][  2]LogWorld: Bringing World /Game/Shenanidog/Maps/UEDPIE_0_Playgrounds.Playgrounds up for play (max tick rate 60) at 2020.03.29-19.08.24
+[2020.03.29-16.08.24:192][  2]LogWorld: Bringing up level for play took: 0.000478
+[2020.03.29-16.08.24:193][  2]LogOnline: OSS: Creating online subsystem instance for: :Context_6
+[2020.03.29-16.08.24:195][  2]PIE: Play in editor start time for /Game/Shenanidog/Maps/UEDPIE_0_Playgrounds -0.671
+[2020.03.29-16.08.33:876][544]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.29-16.08.33:876][544]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.29-16.08.33:877][544]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.29-16.08.33:877][544]LogWorld: BeginTearingDown for /Game/Shenanidog/Maps/UEDPIE_0_Playgrounds
+[2020.03.29-16.08.33:877][544]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.29-16.08.33:877][544]LogWorld: UWorld::CleanupWorld for Playgrounds, bSessionEnded=true, bCleanupResources=true
+[2020.03.29-16.08.33:878][544]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.29-16.08.33:892][544]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.29-16.08.33:904][544]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.29-16.08.33:939][544]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.29-16.08.33:942][544]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.29-16.08.33:945][544]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2020.03.29-16.08.33:974][546]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2020.03.29-16.08.52:403][ 89]BlueprintLog: New page: Compile BP_Dog_Character
+[2020.03.29-16.08.52:655][ 89]LogUObjectHash: Compacting FUObjectHashTables data took   3.38ms
+[2020.03.29-16.08.57:407][348]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.29-16.08.57:438][348]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.29-16.08.57:438][348]PIE: New page: PIE session: Playgrounds (29 Mar 2020, 22:08:57)
+[2020.03.29-16.08.57:438][348]LogPlayLevel: Creating play world package: /Game/Shenanidog/Maps/UEDPIE_0_Playgrounds
+[2020.03.29-16.08.57:444][348]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005841s)
+[2020.03.29-16.08.57:446][348]LogAIModule: Creating AISystem for world Playgrounds
+[2020.03.29-16.08.57:447][348]LogPlayLevel: PIE: World Init took: (0.003221s)
+[2020.03.29-16.08.57:447][348]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Shenanidog/Maps/Playgrounds.Playgrounds to /Game/Shenanidog/Maps/UEDPIE_0_Playgrounds.Playgrounds (0.009292s)
+[2020.03.29-16.08.57:491][348]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2020.03.29-16.08.57:492][348]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.03.29-16.08.57:492][348]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.03.29-16.08.57:492][348]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.03.29-16.08.57:492][348]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.03.29-16.08.57:492][348]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.03.29-16.08.57:492][348]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.03.29-16.08.57:492][348]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.03.29-16.08.57:492][348]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.03.29-16.08.57:492][348]LogAudio: Display: Using built-in audio occlusion.
+[2020.03.29-16.08.57:492][348]LogAudioMixer: Display: Initializing audio mixer.
+[2020.03.29-16.08.57:497][348]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.03.29-16.08.57:497][348]LogAudioMixer: Display: Name: Speakers (Conexant SmartAudio HD)
+[2020.03.29-16.08.57:497][348]LogAudioMixer: Display: Is Default: Yes
+[2020.03.29-16.08.57:497][348]LogAudioMixer: Display: Sample Rate: 48000
+[2020.03.29-16.08.57:498][348]LogAudioMixer: Display: Channel Count Used: 2
+[2020.03.29-16.08.57:498][348]LogAudioMixer: Display: Device Channel Count: 2
+[2020.03.29-16.08.57:498][348]LogAudioMixer: Display: Channel Order:
+[2020.03.29-16.08.57:498][348]LogAudioMixer: Display: 0: FrontLeft
+[2020.03.29-16.08.57:498][348]LogAudioMixer: Display: 1: FrontRight
+[2020.03.29-16.08.57:511][348]LogAudioMixer: Display: Using Audio Device Speakers (Conexant SmartAudio HD)
+[2020.03.29-16.08.57:513][348]LogInit: FAudioDevice initialized.
+[2020.03.29-16.08.57:518][348]LogLoad: Game class is 'BP_GameMode_C'
+[2020.03.29-16.08.57:519][348]LogWorld: Bringing World /Game/Shenanidog/Maps/UEDPIE_0_Playgrounds.Playgrounds up for play (max tick rate 60) at 2020.03.29-19.08.57
+[2020.03.29-16.08.57:519][348]LogWorld: Bringing up level for play took: 0.000426
+[2020.03.29-16.08.57:519][348]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2020.03.29-16.08.57:522][348]PIE: Play in editor start time for /Game/Shenanidog/Maps/UEDPIE_0_Playgrounds 0.656
+[2020.03.29-16.09.06:549][860]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.29-16.09.06:549][860]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.29-16.09.06:549][860]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.29-16.09.06:549][860]LogWorld: BeginTearingDown for /Game/Shenanidog/Maps/UEDPIE_0_Playgrounds
+[2020.03.29-16.09.06:549][860]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.29-16.09.06:549][860]LogWorld: UWorld::CleanupWorld for Playgrounds, bSessionEnded=true, bCleanupResources=true
+[2020.03.29-16.09.06:550][860]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.29-16.09.06:567][860]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.29-16.09.06:572][860]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.29-16.09.06:615][860]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.29-16.09.06:617][860]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.29-16.09.06:622][860]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2020.03.29-16.09.06:684][862]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2020.03.29-16.10.09:304][882]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2020.03.29-16.10.09:305][882]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.29-16.10.10:270][934]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.03.29-16.10.10:270][934]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2020.03.29-16.10.10:270][934]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
