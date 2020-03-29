@@ -842,3 +842,1132 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.03.29-19.15.38:525][832]SourceControl: [Character bc651ed] FinalController
 [2020.03.29-19.15.38:525][832]SourceControl:  4 files changed, 8 insertions(+), 8 deletions(-)
 [2020.03.29-19.15.38:538][832]SourceControl: Commited [Character bc651ed] FinalController.
+[2020.03.29-19.16.29:710][716]LogSavePackage: Moving 'D:/GoogleDrive/UnrealFinal/Eden_Shenanidog/Saved/DogControllerF107940449898321CF9E2D94EF294313.tmp' to 'D:/GoogleDrive/UnrealFinal/Eden_Shenanidog/Content/Shenanidog/BluePrints/Character/DogController.uasset'
+[2020.03.29-19.16.29:725][716]AssetCheck: New page: Asset Save: DogController
+[2020.03.29-19.16.29:725][716]LogContentValidation: Display: Validating Blueprint /Game/Shenanidog/BluePrints/Character/DogController.DogController
+[2020.03.29-19.16.40:195][182]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Shenanidog/BluePrints/Character/BP_Dog_Character.BP_Dog_Character
+[2020.03.29-19.18.42:383][734]BlueprintLog: New page: Compile BP_Dog_Character
+[2020.03.29-19.18.42:714][734]LogUObjectHash: Compacting FUObjectHashTables data took   3.90ms
+[2020.03.29-19.25.21:707][630]LogSlate: Window 'Delete Variable' being destroyed
+[2020.03.29-19.25.27:124][925]LogSlate: Took 0.000799 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2020.03.29-19.26.45:188][383]BlueprintLog: New page: Compile BP_Dog_Character
+[2020.03.29-19.26.45:192][383]LogBlueprint: Warning: [Compiler BP_Dog_Character] 'Controller' does not inherit from 'Decal Component' ( Cast To Controller  would always fail).
+[2020.03.29-19.26.45:521][383]LogUObjectHash: Compacting FUObjectHashTables data took   6.44ms
+[2020.03.29-19.27.04:451][440]BlueprintLog: New page: Compile BP_Dog_Character
+[2020.03.29-19.27.04:734][440]LogUObjectHash: Compacting FUObjectHashTables data took   4.76ms
+[2020.03.29-19.27.12:447][869]BlueprintLog: New page: Compile DogController
+[2020.03.29-19.27.12:794][869]LogUObjectHash: Compacting FUObjectHashTables data took   6.76ms
+[2020.03.29-19.29.48:961][620]BlueprintLog: New page: Compile DogController
+[2020.03.29-19.29.49:361][620]LogUObjectHash: Compacting FUObjectHashTables data took   5.80ms
+[2020.03.29-19.29.53:399][836]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.03.29-19.29.53:416][836]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.29-19.29.53:416][836]PIE: New page: PIE session: Playgrounds (30 Mar 2020, 1:29:53)
+[2020.03.29-19.29.53:416][836]LogPlayLevel: Creating play world package: /Game/Shenanidog/Maps/UEDPIE_0_Playgrounds
+[2020.03.29-19.29.53:418][836]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002407s)
+[2020.03.29-19.29.53:419][836]LogAIModule: Creating AISystem for world Playgrounds
+[2020.03.29-19.29.53:420][836]LogPlayLevel: PIE: World Init took: (0.001242s)
+[2020.03.29-19.29.53:420][836]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Shenanidog/Maps/Playgrounds.Playgrounds to /Game/Shenanidog/Maps/UEDPIE_0_Playgrounds.Playgrounds (0.003810s)
+[2020.03.29-19.29.53:459][836]LogUObjectHash: Compacting FUObjectHashTables data took   3.84ms
+[2020.03.29-19.29.53:460][836]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.03.29-19.29.53:460][836]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.03.29-19.29.53:460][836]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.03.29-19.29.53:460][836]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.03.29-19.29.53:460][836]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.03.29-19.29.53:460][836]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.03.29-19.29.53:460][836]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.03.29-19.29.53:460][836]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.03.29-19.29.53:461][836]LogAudio: Display: Using built-in audio occlusion.
+[2020.03.29-19.29.53:461][836]LogAudioMixer: Display: Initializing audio mixer.
+[2020.03.29-19.29.53:467][836]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.03.29-19.29.53:467][836]LogAudioMixer: Display: Name: Speakers (Conexant SmartAudio HD)
+[2020.03.29-19.29.53:467][836]LogAudioMixer: Display: Is Default: Yes
+[2020.03.29-19.29.53:467][836]LogAudioMixer: Display: Sample Rate: 48000
+[2020.03.29-19.29.53:467][836]LogAudioMixer: Display: Channel Count Used: 2
+[2020.03.29-19.29.53:467][836]LogAudioMixer: Display: Device Channel Count: 2
+[2020.03.29-19.29.53:467][836]LogAudioMixer: Display: Channel Order:
+[2020.03.29-19.29.53:467][836]LogAudioMixer: Display: 0: FrontLeft
+[2020.03.29-19.29.53:467][836]LogAudioMixer: Display: 1: FrontRight
+[2020.03.29-19.29.53:485][836]LogAudioMixer: Display: Using Audio Device Speakers (Conexant SmartAudio HD)
+[2020.03.29-19.29.53:487][836]LogInit: FAudioDevice initialized.
+[2020.03.29-19.29.53:535][836]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.29-19.29.53:535][836]LogLoad: Game class is 'BP_GameMode_C'
+[2020.03.29-19.29.53:536][836]LogWorld: Bringing World /Game/Shenanidog/Maps/UEDPIE_0_Playgrounds.Playgrounds up for play (max tick rate 60) at 2020.03.29-22.29.53
+[2020.03.29-19.29.53:537][836]LogWorld: Bringing up level for play took: 0.000893
+[2020.03.29-19.29.53:537][836]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2020.03.29-19.29.53:544][836]PIE: Play in editor start time for /Game/Shenanidog/Maps/UEDPIE_0_Playgrounds 0.689
+[2020.03.29-19.29.53:544][836]LogBlueprintUserMessages: [DogController_C_0] Hello
+[2020.03.29-19.29.53:683][837]LogBlueprintUserMessages: [DogController_C_0] Hello
+[2020.03.29-19.29.53:850][838]LogBlueprintUserMessages: [DogController_C_0] Hello
+[2020.03.29-19.29.53:879][839]LogBlueprintUserMessages: [DogController_C_0] Hello
+[2020.03.29-19.29.53:896][840]LogBlueprintUserMessages: [DogController_C_0] Hello
+[2020.03.29-19.29.53:912][841]LogBlueprintUserMessages: [DogController_C_0] Hello
+[2020.03.29-19.29.53:933][842]LogBlueprintUserMessages: [DogController_C_0] Hello
+[2020.03.29-19.29.53:950][843]LogBlueprintUserMessages: [DogController_C_0] Hello
+[2020.03.29-19.29.53:972][844]LogBlueprintUserMessages: [DogController_C_0] Hello
+[2020.03.29-19.29.53:998][845]LogBlueprintUserMessages: [DogController_C_0] Hello
+[2020.03.29-19.29.54:030][846]LogBlueprintUserMessages: [DogController_C_0] Hello
+[2020.03.29-19.29.54:064][847]LogBlueprintUserMessages: [DogController_C_0] Hello
+[2020.03.29-19.29.54:088][848]LogBlueprintUserMessages: [DogController_C_0] Hello
+[2020.03.29-19.29.54:117][849]LogBlueprintUserMessages: [DogController_C_0] Hello
+[2020.03.29-19.29.54:136][850]LogBlueprintUserMessages: [DogController_C_0] Hello
+[2020.03.29-19.29.54:161][851]LogBlueprintUserMessages: [DogController_C_0] Hello
+[2020.03.29-19.29.54:183][852]LogBlueprintUserMessages: [DogController_C_0] Hello
+[2020.03.29-19.29.54:207][853]LogBlueprintUserMessages: [DogController_C_0] Hello
+[2020.03.29-19.29.54:230][854]LogBlueprintUserMessages: [DogController_C_0] Hello
+[2020.03.29-19.29.54:267][855]LogBlueprintUserMessages: [DogController_C_0] Hello
+[2020.03.29-19.29.54:287][856]LogBlueprintUserMessages: [DogController_C_0] Hello
+[2020.03.29-19.29.54:303][857]LogBlueprintUserMessages: [DogController_C_0] Hello
+[2020.03.29-19.29.54:333][858]LogBlueprintUserMessages: [DogController_C_0] Hello
+[2020.03.29-19.29.54:352][859]LogBlueprintUserMessages: [DogController_C_0] Hello
+[2020.03.29-19.29.54:375][860]LogBlueprintUserMessages: [DogController_C_0] Hello
+[2020.03.29-19.29.54:403][861]LogBlueprintUserMessages: [DogController_C_0] Hello
+[2020.03.29-19.29.54:431][862]LogBlueprintUserMessages: [DogController_C_0] Hello
+[2020.03.29-19.29.54:455][863]LogBlueprintUserMessages: [DogController_C_0] Hello
+[2020.03.29-19.29.54:476][864]LogBlueprintUserMessages: [DogController_C_0] Hello
+[2020.03.29-19.29.54:499][865]LogBlueprintUserMessages: [DogController_C_0] Hello
+[2020.03.29-19.29.54:526][866]LogBlueprintUserMessages: [DogController_C_0] Hello
+[2020.03.29-19.29.54:546][867]LogBlueprintUserMessages: [DogController_C_0] Hello
+[2020.03.29-19.29.54:570][868]LogBlueprintUserMessages: [DogController_C_0] Hello
+[2020.03.29-19.29.54:595][869]LogBlueprintUserMessages: [DogController_C_0] Hello
+[2020.03.29-19.29.54:618][870]LogBlueprintUserMessages: [DogController_C_0] Hello
+[2020.03.29-19.29.54:643][871]LogBlueprintUserMessages: [DogController_C_0] Hello
+[2020.03.29-19.29.54:666][872]LogBlueprintUserMessages: [DogController_C_0] Hello
+[2020.03.29-19.29.54:689][873]LogBlueprintUserMessages: [DogController_C_0] Hello
+[2020.03.29-19.29.54:725][874]LogBlueprintUserMessages: [DogController_C_0] Hello
+[2020.03.29-19.29.54:748][875]LogBlueprintUserMessages: [DogController_C_0] Hello
+[2020.03.29-19.29.54:769][876]LogBlueprintUserMessages: [DogController_C_0] Hello
+[2020.03.29-19.29.54:801][877]LogBlueprintUserMessages: [DogController_C_0] Hello
+[2020.03.29-19.29.54:821][878]LogBlueprintUserMessages: [DogController_C_0] Hello
+[2020.03.29-19.29.54:845][879]LogBlueprintUserMessages: [DogController_C_0] Hello
+[2020.03.29-19.29.54:875][880]LogBlueprintUserMessages: [DogController_C_0] Hello
+[2020.03.29-19.29.54:897][881]LogBlueprintUserMessages: [DogController_C_0] Hello
+[2020.03.29-19.29.54:919][882]LogBlueprintUserMessages: [DogController_C_0] Hello
+[2020.03.29-19.29.54:938][883]LogBlueprintUserMessages: [DogController_C_0] Hello
+[2020.03.29-19.29.54:956][884]LogBlueprintUserMessages: [DogController_C_0] Hello
+[2020.03.29-19.29.54:979][885]LogBlueprintUserMessages: [DogController_C_0] Hello
+[2020.03.29-19.29.55:005][886]LogBlueprintUserMessages: [DogController_C_0] Hello
+[2020.03.29-19.29.55:028][887]LogBlueprintUserMessages: [DogController_C_0] Hello
+[2020.03.29-19.29.55:052][888]LogBlueprintUserMessages: [DogController_C_0] Hello
+[2020.03.29-19.29.55:076][889]LogBlueprintUserMessages: [DogController_C_0] Hello
+[2020.03.29-19.29.55:100][890]LogBlueprintUserMessages: [DogController_C_0] Hello
+[2020.03.29-19.29.55:128][891]LogBlueprintUserMessages: [DogController_C_0] Hello
+[2020.03.29-19.29.55:154][892]LogBlueprintUserMessages: [DogController_C_0] Hello
+[2020.03.29-19.29.55:178][893]LogBlueprintUserMessages: [DogController_C_0] Hello
+[2020.03.29-19.29.55:200][894]LogBlueprintUserMessages: [DogController_C_0] Hello
+[2020.03.29-19.29.55:227][895]LogBlueprintUserMessages: [DogController_C_0] Hello
+[2020.03.29-19.29.55:249][896]LogBlueprintUserMessages: [DogController_C_0] Hello
+[2020.03.29-19.29.55:272][897]LogBlueprintUserMessages: [DogController_C_0] Hello
+[2020.03.29-19.29.55:297][898]LogBlueprintUserMessages: [DogController_C_0] Hello
+[2020.03.29-19.29.55:320][899]LogBlueprintUserMessages: [DogController_C_0] Hello
+[2020.03.29-19.29.55:344][900]LogBlueprintUserMessages: [DogController_C_0] Hello
+[2020.03.29-19.29.55:368][901]LogBlueprintUserMessages: [DogController_C_0] Hello
+[2020.03.29-19.29.55:393][902]LogBlueprintUserMessages: [DogController_C_0] Hello
+[2020.03.29-19.29.55:422][903]LogBlueprintUserMessages: [DogController_C_0] Hello
+[2020.03.29-19.29.55:451][904]LogBlueprintUserMessages: [DogController_C_0] Hello
+[2020.03.29-19.29.55:470][905]LogBlueprintUserMessages: [DogController_C_0] Hello
+[2020.03.29-19.29.55:494][906]LogBlueprintUserMessages: [DogController_C_0] Hello
+[2020.03.29-19.29.55:519][907]LogBlueprintUserMessages: [DogController_C_0] Hello
+[2020.03.29-19.29.55:543][908]LogBlueprintUserMessages: [DogController_C_0] Hello
+[2020.03.29-19.29.55:567][909]LogBlueprintUserMessages: [DogController_C_0] Hello
+[2020.03.29-19.29.55:592][910]LogBlueprintUserMessages: [DogController_C_0] Hello
+[2020.03.29-19.29.55:615][911]LogBlueprintUserMessages: [DogController_C_0] Hello
+[2020.03.29-19.29.55:638][912]LogBlueprintUserMessages: [DogController_C_0] Hello
+[2020.03.29-19.29.55:663][913]LogBlueprintUserMessages: [DogController_C_0] Hello
+[2020.03.29-19.29.55:694][914]LogBlueprintUserMessages: [DogController_C_0] Hello
+[2020.03.29-19.29.55:716][915]LogBlueprintUserMessages: [DogController_C_0] Hello
+[2020.03.29-19.29.55:741][916]LogBlueprintUserMessages: [DogController_C_0] Hello
+[2020.03.29-19.29.55:771][917]LogBlueprintUserMessages: [DogController_C_0] Hello
+[2020.03.29-19.29.55:838][918]LogBlueprintUserMessages: [DogController_C_0] Hello
+[2020.03.29-19.29.55:854][919]LogBlueprintUserMessages: [DogController_C_0] Hello
+[2020.03.29-19.29.55:881][920]LogBlueprintUserMessages: [DogController_C_0] Hello
+[2020.03.29-19.29.55:908][921]LogBlueprintUserMessages: [DogController_C_0] Hello
+[2020.03.29-19.29.55:925][922]LogBlueprintUserMessages: [DogController_C_0] Hello
+[2020.03.29-19.29.55:951][923]LogBlueprintUserMessages: [DogController_C_0] Hello
+[2020.03.29-19.29.55:975][924]LogBlueprintUserMessages: [DogController_C_0] Hello
+[2020.03.29-19.29.55:998][925]LogBlueprintUserMessages: [DogController_C_0] Hello
+[2020.03.29-19.29.56:025][926]LogBlueprintUserMessages: [DogController_C_0] Hello
+[2020.03.29-19.29.56:051][927]LogBlueprintUserMessages: [DogController_C_0] Hello
+[2020.03.29-19.29.56:080][928]LogBlueprintUserMessages: [DogController_C_0] Hello
+[2020.03.29-19.29.56:100][929]LogBlueprintUserMessages: [DogController_C_0] Hello
+[2020.03.29-19.29.56:125][930]LogBlueprintUserMessages: [DogController_C_0] Hello
+[2020.03.29-19.29.56:147][931]LogBlueprintUserMessages: [DogController_C_0] Hello
+[2020.03.29-19.29.56:172][932]LogBlueprintUserMessages: [DogController_C_0] Hello
+[2020.03.29-19.29.56:174][932]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.29-19.29.56:174][932]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.29-19.29.56:174][932]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.29-19.29.56:174][932]LogWorld: BeginTearingDown for /Game/Shenanidog/Maps/UEDPIE_0_Playgrounds
+[2020.03.29-19.29.56:187][932]LogSlate: Window 'Shenanidogs_ORE Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.03.29-19.29.56:228][932]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.29-19.29.56:228][932]LogWorld: UWorld::CleanupWorld for Playgrounds, bSessionEnded=true, bCleanupResources=true
+[2020.03.29-19.29.56:229][932]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.29-19.29.56:240][932]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.29-19.29.56:247][932]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.29-19.29.56:294][932]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.29-19.29.56:302][932]LogUObjectHash: Compacting FUObjectHashTables data took   4.21ms
+[2020.03.29-19.29.56:325][933]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2020.03.29-19.32.59:984][331]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2020.03.29-19.32.59:985][331]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Shenanidog/Maps/Playgrounds' took 0.049
+[2020.03.29-19.32.59:985][331]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Shenanidog/BluePrints/Character/BP_Dog_Character] ([1] browsable assets)...
+[2020.03.29-19.33.00:171][331]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Shenanidog/BluePrints/Character/BP_Dog_Character.BP_Dog_Character]
+[2020.03.29-19.33.00:171][331]OBJ SavePackage: Finished generating thumbnails for package [/Game/Shenanidog/BluePrints/Character/BP_Dog_Character]
+[2020.03.29-19.33.00:237][331]LogSavePackage: Moving 'D:/GoogleDrive/UnrealFinal/Eden_Shenanidog/Saved/BP_Dog_Character_Auto1B571C3BE4EC93BB8F057A2A10A827620.tmp' to 'D:/GoogleDrive/UnrealFinal/Eden_Shenanidog/Saved/Autosaves/Game/Shenanidog/BluePrints/Character/BP_Dog_Character_Auto1.uasset'
+[2020.03.29-19.33.00:239][331]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Shenanidog/BluePrints/Character/DogController] ([1] browsable assets)...
+[2020.03.29-19.33.00:239][331]OBJ SavePackage: Finished generating thumbnails for package [/Game/Shenanidog/BluePrints/Character/DogController]
+[2020.03.29-19.33.00:319][331]LogSavePackage: Moving 'D:/GoogleDrive/UnrealFinal/Eden_Shenanidog/Saved/DogController_Auto1B8B36306499A7FFD98949F81BCD67B99.tmp' to 'D:/GoogleDrive/UnrealFinal/Eden_Shenanidog/Saved/Autosaves/Game/Shenanidog/BluePrints/Character/DogController_Auto1.uasset'
+[2020.03.29-19.33.00:320][331]LogFileHelpers: Auto-saving content packages took 0.335
+[2020.03.29-19.36.52:241][811]BlueprintLog: New page: Compile BP_Dog_Character
+[2020.03.29-19.36.52:555][811]LogUObjectHash: Compacting FUObjectHashTables data took   3.82ms
+[2020.03.29-19.36.54:263][896]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.03.29-19.36.54:283][896]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.03.29-19.36.54:289][896]LogPlayLevel: [PlayLevel] Compiling DogController before play...
+[2020.03.29-19.36.54:638][896]LogUObjectHash: Compacting FUObjectHashTables data took   3.95ms
+[2020.03.29-19.36.54:639][896]LogPlayLevel: PlayLevel: Blueprint regeneration took 355 ms (1 blueprints)
+[2020.03.29-19.36.54:639][896]PIE: New page: PIE session: Playgrounds (30 Mar 2020, 1:36:54)
+[2020.03.29-19.36.54:639][896]LogPlayLevel: Creating play world package: /Game/Shenanidog/Maps/UEDPIE_0_Playgrounds
+[2020.03.29-19.36.54:643][896]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003480s)
+[2020.03.29-19.36.54:644][896]LogAIModule: Creating AISystem for world Playgrounds
+[2020.03.29-19.36.54:644][896]LogPlayLevel: PIE: World Init took: (0.001335s)
+[2020.03.29-19.36.54:644][896]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Shenanidog/Maps/Playgrounds.Playgrounds to /Game/Shenanidog/Maps/UEDPIE_0_Playgrounds.Playgrounds (0.004984s)
+[2020.03.29-19.36.54:695][896]LogUObjectHash: Compacting FUObjectHashTables data took   4.49ms
+[2020.03.29-19.36.54:696][896]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.03.29-19.36.54:696][896]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.03.29-19.36.54:696][896]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.03.29-19.36.54:696][896]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.03.29-19.36.54:696][896]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.03.29-19.36.54:696][896]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.03.29-19.36.54:696][896]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.03.29-19.36.54:696][896]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.03.29-19.36.54:697][896]LogAudio: Display: Using built-in audio occlusion.
+[2020.03.29-19.36.54:697][896]LogAudioMixer: Display: Initializing audio mixer.
+[2020.03.29-19.36.54:703][896]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.03.29-19.36.54:703][896]LogAudioMixer: Display: Name: Speakers (Conexant SmartAudio HD)
+[2020.03.29-19.36.54:703][896]LogAudioMixer: Display: Is Default: Yes
+[2020.03.29-19.36.54:703][896]LogAudioMixer: Display: Sample Rate: 48000
+[2020.03.29-19.36.54:703][896]LogAudioMixer: Display: Channel Count Used: 2
+[2020.03.29-19.36.54:703][896]LogAudioMixer: Display: Device Channel Count: 2
+[2020.03.29-19.36.54:703][896]LogAudioMixer: Display: Channel Order:
+[2020.03.29-19.36.54:703][896]LogAudioMixer: Display: 0: FrontLeft
+[2020.03.29-19.36.54:703][896]LogAudioMixer: Display: 1: FrontRight
+[2020.03.29-19.36.54:725][896]LogAudioMixer: Display: Using Audio Device Speakers (Conexant SmartAudio HD)
+[2020.03.29-19.36.54:727][896]LogInit: FAudioDevice initialized.
+[2020.03.29-19.36.54:797][896]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.29-19.36.54:798][896]LogLoad: Game class is 'BP_GameMode_C'
+[2020.03.29-19.36.54:799][896]LogWorld: Bringing World /Game/Shenanidog/Maps/UEDPIE_0_Playgrounds.Playgrounds up for play (max tick rate 60) at 2020.03.29-22.36.54
+[2020.03.29-19.36.54:799][896]LogWorld: Bringing up level for play took: 0.000892
+[2020.03.29-19.36.54:800][896]LogOnline: OSS: Creating online subsystem instance for: :Context_16
+[2020.03.29-19.36.54:807][896]PIE: Play in editor start time for /Game/Shenanidog/Maps/UEDPIE_0_Playgrounds -0.049
+[2020.03.29-19.36.56:019][933]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.29-19.36.56:019][933]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.29-19.36.56:020][933]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.29-19.36.56:020][933]LogWorld: BeginTearingDown for /Game/Shenanidog/Maps/UEDPIE_0_Playgrounds
+[2020.03.29-19.36.56:030][933]LogSlate: Window 'Shenanidogs_ORE Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.03.29-19.36.56:072][933]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.29-19.36.56:073][933]LogWorld: UWorld::CleanupWorld for Playgrounds, bSessionEnded=true, bCleanupResources=true
+[2020.03.29-19.36.56:073][933]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.29-19.36.56:086][933]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.29-19.36.56:091][933]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.29-19.36.56:137][933]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.29-19.36.56:144][933]LogUObjectHash: Compacting FUObjectHashTables data took   3.77ms
+[2020.03.29-19.36.56:176][934]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2020.03.29-19.38.19:201][179]BlueprintLog: New page: Compile DogController
+[2020.03.29-19.38.19:498][179]LogUObjectHash: Compacting FUObjectHashTables data took   4.14ms
+[2020.03.29-19.38.24:201][442]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.03.29-19.38.24:223][442]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.29-19.38.24:223][442]PIE: New page: PIE session: Playgrounds (30 Mar 2020, 1:38:24)
+[2020.03.29-19.38.24:224][442]LogPlayLevel: Creating play world package: /Game/Shenanidog/Maps/UEDPIE_0_Playgrounds
+[2020.03.29-19.38.24:227][442]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002971s)
+[2020.03.29-19.38.24:228][442]LogAIModule: Creating AISystem for world Playgrounds
+[2020.03.29-19.38.24:229][442]LogPlayLevel: PIE: World Init took: (0.001483s)
+[2020.03.29-19.38.24:229][442]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Shenanidog/Maps/Playgrounds.Playgrounds to /Game/Shenanidog/Maps/UEDPIE_0_Playgrounds.Playgrounds (0.004658s)
+[2020.03.29-19.38.24:295][442]LogUObjectHash: Compacting FUObjectHashTables data took   5.19ms
+[2020.03.29-19.38.24:295][442]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.03.29-19.38.24:295][442]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.03.29-19.38.24:295][442]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.03.29-19.38.24:295][442]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.03.29-19.38.24:295][442]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.03.29-19.38.24:295][442]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.03.29-19.38.24:295][442]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.03.29-19.38.24:295][442]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.03.29-19.38.24:296][442]LogAudio: Display: Using built-in audio occlusion.
+[2020.03.29-19.38.24:296][442]LogAudioMixer: Display: Initializing audio mixer.
+[2020.03.29-19.38.24:304][442]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.03.29-19.38.24:304][442]LogAudioMixer: Display: Name: Speakers (Conexant SmartAudio HD)
+[2020.03.29-19.38.24:304][442]LogAudioMixer: Display: Is Default: Yes
+[2020.03.29-19.38.24:304][442]LogAudioMixer: Display: Sample Rate: 48000
+[2020.03.29-19.38.24:304][442]LogAudioMixer: Display: Channel Count Used: 2
+[2020.03.29-19.38.24:304][442]LogAudioMixer: Display: Device Channel Count: 2
+[2020.03.29-19.38.24:304][442]LogAudioMixer: Display: Channel Order:
+[2020.03.29-19.38.24:304][442]LogAudioMixer: Display: 0: FrontLeft
+[2020.03.29-19.38.24:304][442]LogAudioMixer: Display: 1: FrontRight
+[2020.03.29-19.38.24:328][442]LogAudioMixer: Display: Using Audio Device Speakers (Conexant SmartAudio HD)
+[2020.03.29-19.38.24:330][442]LogInit: FAudioDevice initialized.
+[2020.03.29-19.38.24:380][442]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.29-19.38.24:381][442]LogLoad: Game class is 'BP_GameMode_C'
+[2020.03.29-19.38.24:382][442]LogWorld: Bringing World /Game/Shenanidog/Maps/UEDPIE_0_Playgrounds.Playgrounds up for play (max tick rate 60) at 2020.03.29-22.38.24
+[2020.03.29-19.38.24:382][442]LogWorld: Bringing up level for play took: 0.000975
+[2020.03.29-19.38.24:383][442]LogOnline: OSS: Creating online subsystem instance for: :Context_17
+[2020.03.29-19.38.24:391][442]PIE: Play in editor start time for /Game/Shenanidog/Maps/UEDPIE_0_Playgrounds -0.464
+[2020.03.29-19.38.31:507][724]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.29-19.38.31:507][724]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.29-19.38.31:508][724]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.29-19.38.31:508][724]LogWorld: BeginTearingDown for /Game/Shenanidog/Maps/UEDPIE_0_Playgrounds
+[2020.03.29-19.38.31:517][724]LogSlate: Window 'Shenanidogs_ORE Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.03.29-19.38.31:560][724]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.29-19.38.31:560][724]LogWorld: UWorld::CleanupWorld for Playgrounds, bSessionEnded=true, bCleanupResources=true
+[2020.03.29-19.38.31:561][724]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.29-19.38.31:574][724]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.29-19.38.31:580][724]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.29-19.38.31:630][724]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.29-19.38.31:640][724]LogUObjectHash: Compacting FUObjectHashTables data took   3.25ms
+[2020.03.29-19.38.31:661][725]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2020.03.29-19.38.46:101][539]BlueprintLog: New page: Compile DogController
+[2020.03.29-19.38.46:424][539]LogUObjectHash: Compacting FUObjectHashTables data took   4.11ms
+[2020.03.29-19.38.48:366][643]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.03.29-19.38.48:385][643]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.29-19.38.48:385][643]PIE: New page: PIE session: Playgrounds (30 Mar 2020, 1:38:48)
+[2020.03.29-19.38.48:385][643]LogPlayLevel: Creating play world package: /Game/Shenanidog/Maps/UEDPIE_0_Playgrounds
+[2020.03.29-19.38.48:389][643]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002942s)
+[2020.03.29-19.38.48:390][643]LogAIModule: Creating AISystem for world Playgrounds
+[2020.03.29-19.38.48:390][643]LogPlayLevel: PIE: World Init took: (0.001336s)
+[2020.03.29-19.38.48:390][643]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Shenanidog/Maps/Playgrounds.Playgrounds to /Game/Shenanidog/Maps/UEDPIE_0_Playgrounds.Playgrounds (0.004473s)
+[2020.03.29-19.38.48:446][643]LogUObjectHash: Compacting FUObjectHashTables data took   5.05ms
+[2020.03.29-19.38.48:446][643]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.03.29-19.38.48:446][643]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.03.29-19.38.48:446][643]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.03.29-19.38.48:446][643]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.03.29-19.38.48:446][643]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.03.29-19.38.48:446][643]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.03.29-19.38.48:446][643]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.03.29-19.38.48:446][643]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.03.29-19.38.48:447][643]LogAudio: Display: Using built-in audio occlusion.
+[2020.03.29-19.38.48:447][643]LogAudioMixer: Display: Initializing audio mixer.
+[2020.03.29-19.38.48:455][643]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.03.29-19.38.48:455][643]LogAudioMixer: Display: Name: Speakers (Conexant SmartAudio HD)
+[2020.03.29-19.38.48:455][643]LogAudioMixer: Display: Is Default: Yes
+[2020.03.29-19.38.48:455][643]LogAudioMixer: Display: Sample Rate: 48000
+[2020.03.29-19.38.48:455][643]LogAudioMixer: Display: Channel Count Used: 2
+[2020.03.29-19.38.48:455][643]LogAudioMixer: Display: Device Channel Count: 2
+[2020.03.29-19.38.48:455][643]LogAudioMixer: Display: Channel Order:
+[2020.03.29-19.38.48:455][643]LogAudioMixer: Display: 0: FrontLeft
+[2020.03.29-19.38.48:455][643]LogAudioMixer: Display: 1: FrontRight
+[2020.03.29-19.38.48:478][643]LogAudioMixer: Display: Using Audio Device Speakers (Conexant SmartAudio HD)
+[2020.03.29-19.38.48:479][643]LogInit: FAudioDevice initialized.
+[2020.03.29-19.38.48:546][643]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.29-19.38.48:547][643]LogLoad: Game class is 'BP_GameMode_C'
+[2020.03.29-19.38.48:548][643]LogWorld: Bringing World /Game/Shenanidog/Maps/UEDPIE_0_Playgrounds.Playgrounds up for play (max tick rate 60) at 2020.03.29-22.38.48
+[2020.03.29-19.38.48:548][643]LogWorld: Bringing up level for play took: 0.000936
+[2020.03.29-19.38.48:549][643]LogOnline: OSS: Creating online subsystem instance for: :Context_18
+[2020.03.29-19.38.48:557][643]PIE: Play in editor start time for /Game/Shenanidog/Maps/UEDPIE_0_Playgrounds -0.298
+[2020.03.29-19.38.53:279][823]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.29-19.38.53:280][823]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.29-19.38.53:280][823]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.29-19.38.53:280][823]LogWorld: BeginTearingDown for /Game/Shenanidog/Maps/UEDPIE_0_Playgrounds
+[2020.03.29-19.38.53:289][823]LogSlate: Window 'Shenanidogs_ORE Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.03.29-19.38.53:336][823]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.29-19.38.53:336][823]LogWorld: UWorld::CleanupWorld for Playgrounds, bSessionEnded=true, bCleanupResources=true
+[2020.03.29-19.38.53:336][823]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.29-19.38.53:347][823]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.29-19.38.53:352][823]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.29-19.38.53:403][823]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.29-19.38.53:413][823]LogUObjectHash: Compacting FUObjectHashTables data took   4.42ms
+[2020.03.29-19.38.53:437][824]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2020.03.29-19.39.19:813][314]BlueprintLog: New page: Compile BP_Dog_Character
+[2020.03.29-19.39.20:179][314]LogUObjectHash: Compacting FUObjectHashTables data took   4.13ms
+[2020.03.29-19.39.22:095][413]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.03.29-19.39.22:120][413]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.29-19.39.22:120][413]PIE: New page: PIE session: Playgrounds (30 Mar 2020, 1:39:22)
+[2020.03.29-19.39.22:120][413]LogPlayLevel: Creating play world package: /Game/Shenanidog/Maps/UEDPIE_0_Playgrounds
+[2020.03.29-19.39.22:127][413]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006571s)
+[2020.03.29-19.39.22:130][413]LogAIModule: Creating AISystem for world Playgrounds
+[2020.03.29-19.39.22:130][413]LogPlayLevel: PIE: World Init took: (0.002840s)
+[2020.03.29-19.39.22:130][413]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Shenanidog/Maps/Playgrounds.Playgrounds to /Game/Shenanidog/Maps/UEDPIE_0_Playgrounds.Playgrounds (0.009894s)
+[2020.03.29-19.39.22:174][413]LogUObjectHash: Compacting FUObjectHashTables data took   4.12ms
+[2020.03.29-19.39.22:175][413]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.03.29-19.39.22:175][413]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.03.29-19.39.22:175][413]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.03.29-19.39.22:175][413]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.03.29-19.39.22:175][413]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.03.29-19.39.22:175][413]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.03.29-19.39.22:175][413]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.03.29-19.39.22:175][413]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.03.29-19.39.22:175][413]LogAudio: Display: Using built-in audio occlusion.
+[2020.03.29-19.39.22:175][413]LogAudioMixer: Display: Initializing audio mixer.
+[2020.03.29-19.39.22:182][413]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.03.29-19.39.22:182][413]LogAudioMixer: Display: Name: Speakers (Conexant SmartAudio HD)
+[2020.03.29-19.39.22:182][413]LogAudioMixer: Display: Is Default: Yes
+[2020.03.29-19.39.22:182][413]LogAudioMixer: Display: Sample Rate: 48000
+[2020.03.29-19.39.22:182][413]LogAudioMixer: Display: Channel Count Used: 2
+[2020.03.29-19.39.22:182][413]LogAudioMixer: Display: Device Channel Count: 2
+[2020.03.29-19.39.22:182][413]LogAudioMixer: Display: Channel Order:
+[2020.03.29-19.39.22:182][413]LogAudioMixer: Display: 0: FrontLeft
+[2020.03.29-19.39.22:182][413]LogAudioMixer: Display: 1: FrontRight
+[2020.03.29-19.39.22:199][413]LogAudioMixer: Display: Using Audio Device Speakers (Conexant SmartAudio HD)
+[2020.03.29-19.39.22:201][413]LogInit: FAudioDevice initialized.
+[2020.03.29-19.39.22:241][413]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.29-19.39.22:241][413]LogLoad: Game class is 'BP_GameMode_C'
+[2020.03.29-19.39.22:243][413]LogWorld: Bringing World /Game/Shenanidog/Maps/UEDPIE_0_Playgrounds.Playgrounds up for play (max tick rate 60) at 2020.03.29-22.39.22
+[2020.03.29-19.39.22:244][413]LogWorld: Bringing up level for play took: 0.001424
+[2020.03.29-19.39.22:244][413]LogOnline: OSS: Creating online subsystem instance for: :Context_19
+[2020.03.29-19.39.22:256][413]PIE: Play in editor start time for /Game/Shenanidog/Maps/UEDPIE_0_Playgrounds -0.6
+[2020.03.29-19.39.27:869][633]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.29-19.39.27:876][633]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.03.29-19.39.27:896][633]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.03.29-19.39.27:897][633]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.29-19.39.27:897][633]LogWorld: BeginTearingDown for /Game/Shenanidog/Maps/UEDPIE_0_Playgrounds
+[2020.03.29-19.39.27:907][633]LogSlate: Window 'Shenanidogs_ORE Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.03.29-19.39.27:924][633]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.29-19.39.27:924][633]LogWorld: UWorld::CleanupWorld for Playgrounds, bSessionEnded=true, bCleanupResources=true
+[2020.03.29-19.39.27:925][633]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.29-19.39.27:938][633]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.29-19.39.27:943][633]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.29-19.39.27:993][633]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.29-19.39.28:000][633]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2020.03.29-19.39.28:026][634]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2020.03.29-19.39.41:013][386]BlueprintLog: New page: Compile BP_Dog_Character
+[2020.03.29-19.39.41:325][386]LogUObjectHash: Compacting FUObjectHashTables data took   5.79ms
+[2020.03.29-19.39.42:883][466]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.03.29-19.39.42:898][466]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.29-19.39.42:898][466]PIE: New page: PIE session: Playgrounds (30 Mar 2020, 1:39:42)
+[2020.03.29-19.39.42:898][466]LogPlayLevel: Creating play world package: /Game/Shenanidog/Maps/UEDPIE_0_Playgrounds
+[2020.03.29-19.39.42:900][466]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002113s)
+[2020.03.29-19.39.42:901][466]LogAIModule: Creating AISystem for world Playgrounds
+[2020.03.29-19.39.42:901][466]LogPlayLevel: PIE: World Init took: (0.001123s)
+[2020.03.29-19.39.42:901][466]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Shenanidog/Maps/Playgrounds.Playgrounds to /Game/Shenanidog/Maps/UEDPIE_0_Playgrounds.Playgrounds (0.003352s)
+[2020.03.29-19.39.42:948][466]LogUObjectHash: Compacting FUObjectHashTables data took   3.60ms
+[2020.03.29-19.39.42:949][466]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.03.29-19.39.42:949][466]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.03.29-19.39.42:949][466]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.03.29-19.39.42:949][466]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.03.29-19.39.42:949][466]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.03.29-19.39.42:949][466]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.03.29-19.39.42:949][466]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.03.29-19.39.42:949][466]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.03.29-19.39.42:950][466]LogAudio: Display: Using built-in audio occlusion.
+[2020.03.29-19.39.42:950][466]LogAudioMixer: Display: Initializing audio mixer.
+[2020.03.29-19.39.42:955][466]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.03.29-19.39.42:955][466]LogAudioMixer: Display: Name: Speakers (Conexant SmartAudio HD)
+[2020.03.29-19.39.42:955][466]LogAudioMixer: Display: Is Default: Yes
+[2020.03.29-19.39.42:955][466]LogAudioMixer: Display: Sample Rate: 48000
+[2020.03.29-19.39.42:955][466]LogAudioMixer: Display: Channel Count Used: 2
+[2020.03.29-19.39.42:955][466]LogAudioMixer: Display: Device Channel Count: 2
+[2020.03.29-19.39.42:955][466]LogAudioMixer: Display: Channel Order:
+[2020.03.29-19.39.42:955][466]LogAudioMixer: Display: 0: FrontLeft
+[2020.03.29-19.39.42:955][466]LogAudioMixer: Display: 1: FrontRight
+[2020.03.29-19.39.42:972][466]LogAudioMixer: Display: Using Audio Device Speakers (Conexant SmartAudio HD)
+[2020.03.29-19.39.42:973][466]LogInit: FAudioDevice initialized.
+[2020.03.29-19.39.43:033][466]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.29-19.39.43:033][466]LogLoad: Game class is 'BP_GameMode_C'
+[2020.03.29-19.39.43:035][466]LogWorld: Bringing World /Game/Shenanidog/Maps/UEDPIE_0_Playgrounds.Playgrounds up for play (max tick rate 60) at 2020.03.29-22.39.43
+[2020.03.29-19.39.43:035][466]LogWorld: Bringing up level for play took: 0.000858
+[2020.03.29-19.39.43:035][466]LogOnline: OSS: Creating online subsystem instance for: :Context_20
+[2020.03.29-19.39.43:041][466]PIE: Play in editor start time for /Game/Shenanidog/Maps/UEDPIE_0_Playgrounds 0.186
+[2020.03.29-19.39.57:602][ 44]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.29-19.39.57:603][ 44]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.29-19.39.57:603][ 44]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.29-19.39.57:603][ 44]LogWorld: BeginTearingDown for /Game/Shenanidog/Maps/UEDPIE_0_Playgrounds
+[2020.03.29-19.39.57:614][ 44]LogSlate: Window 'Shenanidogs_ORE Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.03.29-19.39.57:654][ 44]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.29-19.39.57:654][ 44]LogWorld: UWorld::CleanupWorld for Playgrounds, bSessionEnded=true, bCleanupResources=true
+[2020.03.29-19.39.57:656][ 44]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.29-19.39.57:668][ 44]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.29-19.39.57:673][ 44]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.29-19.39.57:723][ 44]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.29-19.39.57:734][ 44]LogUObjectHash: Compacting FUObjectHashTables data took   4.53ms
+[2020.03.29-19.39.57:758][ 45]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2020.03.29-19.40.10:606][719]BlueprintLog: New page: Compile BP_Dog_Character
+[2020.03.29-19.40.10:908][719]LogUObjectHash: Compacting FUObjectHashTables data took   4.63ms
+[2020.03.29-19.40.11:551][736]LogSavePackage: Moving 'D:/GoogleDrive/UnrealFinal/Eden_Shenanidog/Saved/BP_Dog_CharacterCC1A123D45D398607293EF83628AFC1E.tmp' to 'D:/GoogleDrive/UnrealFinal/Eden_Shenanidog/Content/Shenanidog/BluePrints/Character/BP_Dog_Character.uasset'
+[2020.03.29-19.40.11:588][736]AssetCheck: New page: Asset Save: BP_Dog_Character
+[2020.03.29-19.40.11:589][736]LogContentValidation: Display: Validating Blueprint /Game/Shenanidog/BluePrints/Character/BP_Dog_Character.BP_Dog_Character
+[2020.03.29-19.40.18:516][132]BlueprintLog: New page: Compile DogController
+[2020.03.29-19.40.18:900][132]LogUObjectHash: Compacting FUObjectHashTables data took   4.14ms
+[2020.03.29-19.40.19:538][147]LogSavePackage: Moving 'D:/GoogleDrive/UnrealFinal/Eden_Shenanidog/Saved/DogControllerC8F009934B03F59069CC02B6C9A63039.tmp' to 'D:/GoogleDrive/UnrealFinal/Eden_Shenanidog/Content/Shenanidog/BluePrints/Character/DogController.uasset'
+[2020.03.29-19.40.19:557][147]AssetCheck: New page: Asset Save: DogController
+[2020.03.29-19.40.19:557][147]LogContentValidation: Display: Validating Blueprint /Game/Shenanidog/BluePrints/Character/DogController.DogController
+[2020.03.29-19.41.55:030][579]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.03.29-19.41.55:051][579]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.29-19.41.55:051][579]PIE: New page: PIE session: Playgrounds (30 Mar 2020, 1:41:55)
+[2020.03.29-19.41.55:051][579]LogPlayLevel: Creating play world package: /Game/Shenanidog/Maps/UEDPIE_0_Playgrounds
+[2020.03.29-19.41.55:054][579]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002372s)
+[2020.03.29-19.41.55:055][579]LogAIModule: Creating AISystem for world Playgrounds
+[2020.03.29-19.41.55:055][579]LogPlayLevel: PIE: World Init took: (0.001347s)
+[2020.03.29-19.41.55:055][579]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Shenanidog/Maps/Playgrounds.Playgrounds to /Game/Shenanidog/Maps/UEDPIE_0_Playgrounds.Playgrounds (0.003855s)
+[2020.03.29-19.41.55:119][579]LogUObjectHash: Compacting FUObjectHashTables data took   7.49ms
+[2020.03.29-19.41.55:123][579]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.03.29-19.41.55:124][579]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.03.29-19.41.55:124][579]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.03.29-19.41.55:124][579]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.03.29-19.41.55:124][579]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.03.29-19.41.55:124][579]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.03.29-19.41.55:124][579]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.03.29-19.41.55:124][579]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.03.29-19.41.55:125][579]LogAudio: Display: Using built-in audio occlusion.
+[2020.03.29-19.41.55:125][579]LogAudioMixer: Display: Initializing audio mixer.
+[2020.03.29-19.41.55:140][579]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.03.29-19.41.55:140][579]LogAudioMixer: Display: Name: Speakers (Conexant SmartAudio HD)
+[2020.03.29-19.41.55:140][579]LogAudioMixer: Display: Is Default: Yes
+[2020.03.29-19.41.55:140][579]LogAudioMixer: Display: Sample Rate: 48000
+[2020.03.29-19.41.55:140][579]LogAudioMixer: Display: Channel Count Used: 2
+[2020.03.29-19.41.55:140][579]LogAudioMixer: Display: Device Channel Count: 2
+[2020.03.29-19.41.55:140][579]LogAudioMixer: Display: Channel Order:
+[2020.03.29-19.41.55:140][579]LogAudioMixer: Display: 0: FrontLeft
+[2020.03.29-19.41.55:140][579]LogAudioMixer: Display: 1: FrontRight
+[2020.03.29-19.41.55:163][579]LogAudioMixer: Display: Using Audio Device Speakers (Conexant SmartAudio HD)
+[2020.03.29-19.41.55:166][579]LogInit: FAudioDevice initialized.
+[2020.03.29-19.41.55:227][579]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.29-19.41.55:228][579]LogLoad: Game class is 'BP_GameMode_C'
+[2020.03.29-19.41.55:229][579]LogWorld: Bringing World /Game/Shenanidog/Maps/UEDPIE_0_Playgrounds.Playgrounds up for play (max tick rate 60) at 2020.03.29-22.41.55
+[2020.03.29-19.41.55:230][579]LogWorld: Bringing up level for play took: 0.001088
+[2020.03.29-19.41.55:230][579]LogOnline: OSS: Creating online subsystem instance for: :Context_21
+[2020.03.29-19.41.55:242][579]PIE: Play in editor start time for /Game/Shenanidog/Maps/UEDPIE_0_Playgrounds 0.387
+[2020.03.29-19.42.26:873][303]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.29-19.42.26:873][303]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.29-19.42.26:876][303]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.29-19.42.26:877][303]LogWorld: BeginTearingDown for /Game/Shenanidog/Maps/UEDPIE_0_Playgrounds
+[2020.03.29-19.42.26:941][303]LogSlate: Window 'Shenanidogs_ORE Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.03.29-19.42.26:957][303]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.29-19.42.26:959][303]LogWorld: UWorld::CleanupWorld for Playgrounds, bSessionEnded=true, bCleanupResources=true
+[2020.03.29-19.42.26:960][303]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.29-19.42.26:979][303]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.29-19.42.27:012][303]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.29-19.42.27:206][303]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.29-19.42.27:256][303]LogUObjectHash: Compacting FUObjectHashTables data took  17.93ms
+[2020.03.29-19.42.27:351][304]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2020.03.29-19.43.15:570][533]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.03.29-19.43.15:599][533]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.29-19.43.15:599][533]PIE: New page: PIE session: Playgrounds (30 Mar 2020, 1:43:15)
+[2020.03.29-19.43.15:600][533]LogPlayLevel: Creating play world package: /Game/Shenanidog/Maps/UEDPIE_0_Playgrounds
+[2020.03.29-19.43.15:606][533]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006222s)
+[2020.03.29-19.43.15:608][533]LogAIModule: Creating AISystem for world Playgrounds
+[2020.03.29-19.43.15:609][533]LogPlayLevel: PIE: World Init took: (0.003204s)
+[2020.03.29-19.43.15:609][533]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Shenanidog/Maps/Playgrounds.Playgrounds to /Game/Shenanidog/Maps/UEDPIE_0_Playgrounds.Playgrounds (0.010046s)
+[2020.03.29-19.43.15:671][533]LogUObjectHash: Compacting FUObjectHashTables data took   6.12ms
+[2020.03.29-19.43.15:673][533]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.03.29-19.43.15:673][533]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.03.29-19.43.15:673][533]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.03.29-19.43.15:673][533]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.03.29-19.43.15:673][533]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.03.29-19.43.15:673][533]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.03.29-19.43.15:673][533]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.03.29-19.43.15:673][533]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.03.29-19.43.15:674][533]LogAudio: Display: Using built-in audio occlusion.
+[2020.03.29-19.43.15:674][533]LogAudioMixer: Display: Initializing audio mixer.
+[2020.03.29-19.43.15:683][533]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.03.29-19.43.15:683][533]LogAudioMixer: Display: Name: Speakers (Conexant SmartAudio HD)
+[2020.03.29-19.43.15:683][533]LogAudioMixer: Display: Is Default: Yes
+[2020.03.29-19.43.15:683][533]LogAudioMixer: Display: Sample Rate: 48000
+[2020.03.29-19.43.15:683][533]LogAudioMixer: Display: Channel Count Used: 2
+[2020.03.29-19.43.15:683][533]LogAudioMixer: Display: Device Channel Count: 2
+[2020.03.29-19.43.15:683][533]LogAudioMixer: Display: Channel Order:
+[2020.03.29-19.43.15:683][533]LogAudioMixer: Display: 0: FrontLeft
+[2020.03.29-19.43.15:683][533]LogAudioMixer: Display: 1: FrontRight
+[2020.03.29-19.43.15:707][533]LogAudioMixer: Display: Using Audio Device Speakers (Conexant SmartAudio HD)
+[2020.03.29-19.43.15:709][533]LogInit: FAudioDevice initialized.
+[2020.03.29-19.43.15:759][533]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.29-19.43.15:760][533]LogLoad: Game class is 'BP_GameMode_C'
+[2020.03.29-19.43.15:761][533]LogWorld: Bringing World /Game/Shenanidog/Maps/UEDPIE_0_Playgrounds.Playgrounds up for play (max tick rate 60) at 2020.03.29-22.43.15
+[2020.03.29-19.43.15:761][533]LogWorld: Bringing up level for play took: 0.000893
+[2020.03.29-19.43.15:762][533]LogOnline: OSS: Creating online subsystem instance for: :Context_22
+[2020.03.29-19.43.15:772][533]PIE: Play in editor start time for /Game/Shenanidog/Maps/UEDPIE_0_Playgrounds 0.917
+[2020.03.29-19.43.36:286][134]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.29-19.43.36:286][134]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.29-19.43.36:286][134]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.29-19.43.36:286][134]LogWorld: BeginTearingDown for /Game/Shenanidog/Maps/UEDPIE_0_Playgrounds
+[2020.03.29-19.43.36:301][134]LogSlate: Window 'Shenanidogs_ORE Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.03.29-19.43.36:356][134]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.29-19.43.36:356][134]LogWorld: UWorld::CleanupWorld for Playgrounds, bSessionEnded=true, bCleanupResources=true
+[2020.03.29-19.43.36:357][134]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.29-19.43.36:379][134]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.29-19.43.36:412][134]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.29-19.43.36:511][134]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.29-19.43.36:530][134]LogUObjectHash: Compacting FUObjectHashTables data took   5.49ms
+[2020.03.29-19.43.36:565][135]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2020.03.29-19.44.31:005][419]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.03.29-19.44.31:031][419]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.29-19.44.31:031][419]PIE: New page: PIE session: Playgrounds (30 Mar 2020, 1:44:31)
+[2020.03.29-19.44.31:031][419]LogPlayLevel: Creating play world package: /Game/Shenanidog/Maps/UEDPIE_0_Playgrounds
+[2020.03.29-19.44.31:037][419]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005646s)
+[2020.03.29-19.44.31:040][419]LogAIModule: Creating AISystem for world Playgrounds
+[2020.03.29-19.44.31:042][419]LogPlayLevel: PIE: World Init took: (0.004848s)
+[2020.03.29-19.44.31:042][419]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Shenanidog/Maps/Playgrounds.Playgrounds to /Game/Shenanidog/Maps/UEDPIE_0_Playgrounds.Playgrounds (0.010883s)
+[2020.03.29-19.44.31:093][419]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2020.03.29-19.44.31:095][419]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.03.29-19.44.31:095][419]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.03.29-19.44.31:095][419]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.03.29-19.44.31:095][419]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.03.29-19.44.31:095][419]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.03.29-19.44.31:095][419]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.03.29-19.44.31:095][419]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.03.29-19.44.31:095][419]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.03.29-19.44.31:096][419]LogAudio: Display: Using built-in audio occlusion.
+[2020.03.29-19.44.31:096][419]LogAudioMixer: Display: Initializing audio mixer.
+[2020.03.29-19.44.31:107][419]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.03.29-19.44.31:107][419]LogAudioMixer: Display: Name: Speakers (Conexant SmartAudio HD)
+[2020.03.29-19.44.31:107][419]LogAudioMixer: Display: Is Default: Yes
+[2020.03.29-19.44.31:107][419]LogAudioMixer: Display: Sample Rate: 48000
+[2020.03.29-19.44.31:107][419]LogAudioMixer: Display: Channel Count Used: 2
+[2020.03.29-19.44.31:107][419]LogAudioMixer: Display: Device Channel Count: 2
+[2020.03.29-19.44.31:107][419]LogAudioMixer: Display: Channel Order:
+[2020.03.29-19.44.31:108][419]LogAudioMixer: Display: 0: FrontLeft
+[2020.03.29-19.44.31:108][419]LogAudioMixer: Display: 1: FrontRight
+[2020.03.29-19.44.31:126][419]LogAudioMixer: Display: Using Audio Device Speakers (Conexant SmartAudio HD)
+[2020.03.29-19.44.31:128][419]LogInit: FAudioDevice initialized.
+[2020.03.29-19.44.31:186][419]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.29-19.44.31:186][419]LogLoad: Game class is 'BP_GameMode_C'
+[2020.03.29-19.44.31:188][419]LogWorld: Bringing World /Game/Shenanidog/Maps/UEDPIE_0_Playgrounds.Playgrounds up for play (max tick rate 60) at 2020.03.29-22.44.31
+[2020.03.29-19.44.31:188][419]LogWorld: Bringing up level for play took: 0.001078
+[2020.03.29-19.44.31:188][419]LogOnline: OSS: Creating online subsystem instance for: :Context_23
+[2020.03.29-19.44.31:195][419]PIE: Play in editor start time for /Game/Shenanidog/Maps/UEDPIE_0_Playgrounds 0.34
+[2020.03.29-19.44.54:524][316]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.29-19.44.54:524][316]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.29-19.44.54:524][316]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.29-19.44.54:525][316]LogWorld: BeginTearingDown for /Game/Shenanidog/Maps/UEDPIE_0_Playgrounds
+[2020.03.29-19.44.54:546][316]LogSlate: Window 'Shenanidogs_ORE Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.03.29-19.44.54:563][316]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.29-19.44.54:563][316]LogWorld: UWorld::CleanupWorld for Playgrounds, bSessionEnded=true, bCleanupResources=true
+[2020.03.29-19.44.54:563][316]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.29-19.44.54:582][316]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.29-19.44.54:594][316]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.29-19.44.54:659][316]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.29-19.44.54:674][316]LogUObjectHash: Compacting FUObjectHashTables data took   9.94ms
+[2020.03.29-19.44.54:725][317]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2020.03.29-19.46.06:295][627]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.03.29-19.46.06:324][627]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.29-19.46.06:324][627]PIE: New page: PIE session: Playgrounds (30 Mar 2020, 1:46:06)
+[2020.03.29-19.46.06:324][627]LogPlayLevel: Creating play world package: /Game/Shenanidog/Maps/UEDPIE_0_Playgrounds
+[2020.03.29-19.46.06:334][627]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008873s)
+[2020.03.29-19.46.06:336][627]LogAIModule: Creating AISystem for world Playgrounds
+[2020.03.29-19.46.06:336][627]LogPlayLevel: PIE: World Init took: (0.002222s)
+[2020.03.29-19.46.06:336][627]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Shenanidog/Maps/Playgrounds.Playgrounds to /Game/Shenanidog/Maps/UEDPIE_0_Playgrounds.Playgrounds (0.011519s)
+[2020.03.29-19.46.06:400][627]LogUObjectHash: Compacting FUObjectHashTables data took   5.34ms
+[2020.03.29-19.46.06:402][627]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.03.29-19.46.06:402][627]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.03.29-19.46.06:402][627]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.03.29-19.46.06:402][627]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.03.29-19.46.06:402][627]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.03.29-19.46.06:402][627]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.03.29-19.46.06:402][627]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.03.29-19.46.06:402][627]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.03.29-19.46.06:403][627]LogAudio: Display: Using built-in audio occlusion.
+[2020.03.29-19.46.06:403][627]LogAudioMixer: Display: Initializing audio mixer.
+[2020.03.29-19.46.06:413][627]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.03.29-19.46.06:413][627]LogAudioMixer: Display: Name: Speakers (Conexant SmartAudio HD)
+[2020.03.29-19.46.06:413][627]LogAudioMixer: Display: Is Default: Yes
+[2020.03.29-19.46.06:413][627]LogAudioMixer: Display: Sample Rate: 48000
+[2020.03.29-19.46.06:413][627]LogAudioMixer: Display: Channel Count Used: 2
+[2020.03.29-19.46.06:413][627]LogAudioMixer: Display: Device Channel Count: 2
+[2020.03.29-19.46.06:413][627]LogAudioMixer: Display: Channel Order:
+[2020.03.29-19.46.06:413][627]LogAudioMixer: Display: 0: FrontLeft
+[2020.03.29-19.46.06:413][627]LogAudioMixer: Display: 1: FrontRight
+[2020.03.29-19.46.06:437][627]LogAudioMixer: Display: Using Audio Device Speakers (Conexant SmartAudio HD)
+[2020.03.29-19.46.06:441][627]LogInit: FAudioDevice initialized.
+[2020.03.29-19.46.06:507][627]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.29-19.46.06:508][627]LogLoad: Game class is 'BP_GameMode_C'
+[2020.03.29-19.46.06:509][627]LogWorld: Bringing World /Game/Shenanidog/Maps/UEDPIE_0_Playgrounds.Playgrounds up for play (max tick rate 60) at 2020.03.29-22.46.06
+[2020.03.29-19.46.06:510][627]LogWorld: Bringing up level for play took: 0.000908
+[2020.03.29-19.46.06:510][627]LogOnline: OSS: Creating online subsystem instance for: :Context_24
+[2020.03.29-19.46.06:518][627]PIE: Play in editor start time for /Game/Shenanidog/Maps/UEDPIE_0_Playgrounds -0.338
+[2020.03.29-19.46.13:220][863]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.29-19.46.13:220][863]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.29-19.46.13:221][863]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.29-19.46.13:221][863]LogWorld: BeginTearingDown for /Game/Shenanidog/Maps/UEDPIE_0_Playgrounds
+[2020.03.29-19.46.13:241][863]LogSlate: Window 'Shenanidogs_ORE Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.03.29-19.46.13:256][863]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.29-19.46.13:257][863]LogWorld: UWorld::CleanupWorld for Playgrounds, bSessionEnded=true, bCleanupResources=true
+[2020.03.29-19.46.13:259][863]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.29-19.46.13:276][863]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.29-19.46.13:292][863]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.29-19.46.13:374][863]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.29-19.46.13:390][863]LogUObjectHash: Compacting FUObjectHashTables data took   6.36ms
+[2020.03.29-19.46.13:417][864]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2020.03.29-19.46.14:483][903]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.03.29-19.46.14:530][903]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.29-19.46.14:530][903]PIE: New page: PIE session: Playgrounds (30 Mar 2020, 1:46:14)
+[2020.03.29-19.46.14:530][903]LogPlayLevel: Creating play world package: /Game/Shenanidog/Maps/UEDPIE_0_Playgrounds
+[2020.03.29-19.46.14:541][903]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010299s)
+[2020.03.29-19.46.14:542][903]LogAIModule: Creating AISystem for world Playgrounds
+[2020.03.29-19.46.14:543][903]LogPlayLevel: PIE: World Init took: (0.002499s)
+[2020.03.29-19.46.14:543][903]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Shenanidog/Maps/Playgrounds.Playgrounds to /Game/Shenanidog/Maps/UEDPIE_0_Playgrounds.Playgrounds (0.013064s)
+[2020.03.29-19.46.14:612][903]LogUObjectHash: Compacting FUObjectHashTables data took   7.40ms
+[2020.03.29-19.46.14:613][903]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.03.29-19.46.14:613][903]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.03.29-19.46.14:613][903]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.03.29-19.46.14:613][903]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.03.29-19.46.14:613][903]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.03.29-19.46.14:613][903]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.03.29-19.46.14:613][903]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.03.29-19.46.14:613][903]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.03.29-19.46.14:614][903]LogAudio: Display: Using built-in audio occlusion.
+[2020.03.29-19.46.14:614][903]LogAudioMixer: Display: Initializing audio mixer.
+[2020.03.29-19.46.14:625][903]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.03.29-19.46.14:626][903]LogAudioMixer: Display: Name: Speakers (Conexant SmartAudio HD)
+[2020.03.29-19.46.14:626][903]LogAudioMixer: Display: Is Default: Yes
+[2020.03.29-19.46.14:626][903]LogAudioMixer: Display: Sample Rate: 48000
+[2020.03.29-19.46.14:626][903]LogAudioMixer: Display: Channel Count Used: 2
+[2020.03.29-19.46.14:626][903]LogAudioMixer: Display: Device Channel Count: 2
+[2020.03.29-19.46.14:626][903]LogAudioMixer: Display: Channel Order:
+[2020.03.29-19.46.14:626][903]LogAudioMixer: Display: 0: FrontLeft
+[2020.03.29-19.46.14:626][903]LogAudioMixer: Display: 1: FrontRight
+[2020.03.29-19.46.14:663][903]LogAudioMixer: Display: Using Audio Device Speakers (Conexant SmartAudio HD)
+[2020.03.29-19.46.14:665][903]LogInit: FAudioDevice initialized.
+[2020.03.29-19.46.14:728][903]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.29-19.46.14:728][903]LogLoad: Game class is 'BP_GameMode_C'
+[2020.03.29-19.46.14:730][903]LogWorld: Bringing World /Game/Shenanidog/Maps/UEDPIE_0_Playgrounds.Playgrounds up for play (max tick rate 60) at 2020.03.29-22.46.14
+[2020.03.29-19.46.14:730][903]LogWorld: Bringing up level for play took: 0.000968
+[2020.03.29-19.46.14:730][903]LogOnline: OSS: Creating online subsystem instance for: :Context_25
+[2020.03.29-19.46.14:748][903]PIE: Play in editor start time for /Game/Shenanidog/Maps/UEDPIE_0_Playgrounds -0.107
+[2020.03.29-19.46.22:515][121]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.29-19.46.22:515][121]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.29-19.46.22:515][121]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.29-19.46.22:515][121]LogWorld: BeginTearingDown for /Game/Shenanidog/Maps/UEDPIE_0_Playgrounds
+[2020.03.29-19.46.22:530][121]LogSlate: Window 'Shenanidogs_ORE Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.03.29-19.46.22:586][121]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.29-19.46.22:587][121]LogWorld: UWorld::CleanupWorld for Playgrounds, bSessionEnded=true, bCleanupResources=true
+[2020.03.29-19.46.22:587][121]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.29-19.46.22:611][121]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.29-19.46.22:637][121]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.29-19.46.22:763][121]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.29-19.46.22:790][121]LogUObjectHash: Compacting FUObjectHashTables data took  13.90ms
+[2020.03.29-19.46.22:824][122]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2020.03.29-19.48.05:161][528]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.03.29-19.48.05:192][528]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.29-19.48.05:193][528]PIE: New page: PIE session: Playgrounds (30 Mar 2020, 1:48:05)
+[2020.03.29-19.48.05:193][528]LogPlayLevel: Creating play world package: /Game/Shenanidog/Maps/UEDPIE_0_Playgrounds
+[2020.03.29-19.48.05:196][528]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002886s)
+[2020.03.29-19.48.05:198][528]LogAIModule: Creating AISystem for world Playgrounds
+[2020.03.29-19.48.05:200][528]LogPlayLevel: PIE: World Init took: (0.003963s)
+[2020.03.29-19.48.05:200][528]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Shenanidog/Maps/Playgrounds.Playgrounds to /Game/Shenanidog/Maps/UEDPIE_0_Playgrounds.Playgrounds (0.007231s)
+[2020.03.29-19.48.05:276][528]LogUObjectHash: Compacting FUObjectHashTables data took  11.86ms
+[2020.03.29-19.48.05:279][528]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.03.29-19.48.05:279][528]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.03.29-19.48.05:279][528]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.03.29-19.48.05:279][528]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.03.29-19.48.05:279][528]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.03.29-19.48.05:279][528]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.03.29-19.48.05:279][528]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.03.29-19.48.05:280][528]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.03.29-19.48.05:280][528]LogAudio: Display: Using built-in audio occlusion.
+[2020.03.29-19.48.05:280][528]LogAudioMixer: Display: Initializing audio mixer.
+[2020.03.29-19.48.05:289][528]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.03.29-19.48.05:289][528]LogAudioMixer: Display: Name: Speakers (Conexant SmartAudio HD)
+[2020.03.29-19.48.05:289][528]LogAudioMixer: Display: Is Default: Yes
+[2020.03.29-19.48.05:289][528]LogAudioMixer: Display: Sample Rate: 48000
+[2020.03.29-19.48.05:289][528]LogAudioMixer: Display: Channel Count Used: 2
+[2020.03.29-19.48.05:289][528]LogAudioMixer: Display: Device Channel Count: 2
+[2020.03.29-19.48.05:289][528]LogAudioMixer: Display: Channel Order:
+[2020.03.29-19.48.05:289][528]LogAudioMixer: Display: 0: FrontLeft
+[2020.03.29-19.48.05:289][528]LogAudioMixer: Display: 1: FrontRight
+[2020.03.29-19.48.05:315][528]LogAudioMixer: Display: Using Audio Device Speakers (Conexant SmartAudio HD)
+[2020.03.29-19.48.05:317][528]LogInit: FAudioDevice initialized.
+[2020.03.29-19.48.05:377][528]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.29-19.48.05:377][528]LogLoad: Game class is 'BP_GameMode_C'
+[2020.03.29-19.48.05:379][528]LogWorld: Bringing World /Game/Shenanidog/Maps/UEDPIE_0_Playgrounds.Playgrounds up for play (max tick rate 60) at 2020.03.29-22.48.05
+[2020.03.29-19.48.05:380][528]LogWorld: Bringing up level for play took: 0.000907
+[2020.03.29-19.48.05:380][528]LogOnline: OSS: Creating online subsystem instance for: :Context_26
+[2020.03.29-19.48.05:386][528]PIE: Play in editor start time for /Game/Shenanidog/Maps/UEDPIE_0_Playgrounds 0.531
+[2020.03.29-19.48.29:457][231]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.29-19.48.29:457][231]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.29-19.48.29:458][231]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.29-19.48.29:458][231]LogWorld: BeginTearingDown for /Game/Shenanidog/Maps/UEDPIE_0_Playgrounds
+[2020.03.29-19.48.29:487][231]LogSlate: Window 'Shenanidogs_ORE Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.03.29-19.48.29:523][231]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.29-19.48.29:524][231]LogWorld: UWorld::CleanupWorld for Playgrounds, bSessionEnded=true, bCleanupResources=true
+[2020.03.29-19.48.29:527][231]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.29-19.48.29:553][231]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.29-19.48.29:589][231]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.29-19.48.29:707][231]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.29-19.48.29:719][231]LogUObjectHash: Compacting FUObjectHashTables data took   5.31ms
+[2020.03.29-19.48.29:756][232]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2020.03.29-19.53.17:983][ 91]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.24/Engine/Content: 'C:/Program Files/Epic Games/UE_4.24/Engine/Content' is outside repository at 'D:/GoogleDrive/UnrealFinal/Eden_Shenanidog'
+[2020.03.29-19.53.24:927][ 91]LogSlate: Window 'Submit Files' being destroyed
+[2020.03.29-19.53.26:720][ 91]LogSourceControl: commit successful: [Character 79af6c1] FinalForToday
+[2020.03.29-19.53.26:796][ 91]SourceControl: [Character 79af6c1] FinalForToday
+[2020.03.29-19.53.26:796][ 91]SourceControl:  2 files changed, 4 insertions(+), 4 deletions(-)
+[2020.03.29-19.53.26:816][ 91]SourceControl: Commited [Character 79af6c1] FinalForToday.
+[2020.03.29-19.53.29:584][223]LogUObjectHash: Compacting FUObjectHashTables data took   3.64ms
+[2020.03.29-19.53.29:630][223]LogSlate: Window 'Shenanidogs_ORE - Unreal Editor' being destroyed
+[2020.03.29-19.53.29:725][223]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2020.03.29-19.53.29:725][223]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.29-19.53.29:751][223]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2020.03.29-19.53.29:751][223]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.29-19.53.30:102][223]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2020.03.29-19.53.30:102][223]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.29-19.53.30:144][223]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2020.03.29-19.53.30:144][223]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.29-19.53.30:292][223]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.03.29-19.53.30:292][223]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2020.03.29-19.53.30:292][223]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.29-19.53.30:503][224]Cmd: QUIT_EDITOR
+[2020.03.29-19.53.30:504][224]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2020.03.29-19.53.30:522][224]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2020.03.29-19.53.30:522][224]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.29-19.53.30:596][224]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.03.29-19.53.30:615][224]LogExit: Preparing to exit.
+[2020.03.29-19.53.31:645][224]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2020.03.29-19.53.31:649][224]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2020.03.29-19.53.31:653][224]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2020.03.29-19.53.31:656][224]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2020.03.29-19.53.31:660][224]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2020.03.29-19.53.31:717][224]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2020.03.29-19.53.31:758][224]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.03.29-19.53.31:766][224]LogExit: Editor shut down
+[2020.03.29-19.53.31:769][224]LogExit: Transaction tracking system shut down
+[2020.03.29-19.53.32:383][224]LogExit: Object subsystem successfully closed.
+[2020.03.29-19.53.32:414][224]LogShaderCompilers: Display: Shaders left to compile 0
+[2020.03.29-19.53.32:447][224]LogModuleManager: Shutting down and abandoning module BlueprintGraph (708)
+[2020.03.29-19.53.32:448][224]LogModuleManager: Shutting down and abandoning module PinnedCommandList (706)
+[2020.03.29-19.53.32:448][224]LogModuleManager: Shutting down and abandoning module SkeletonEditor (704)
+[2020.03.29-19.53.32:448][224]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (702)
+[2020.03.29-19.53.32:448][224]LogModuleManager: Shutting down and abandoning module Voice (700)
+[2020.03.29-19.53.32:448][224]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (698)
+[2020.03.29-19.53.32:448][224]LogModuleManager: Shutting down and abandoning module SceneOutliner (694)
+[2020.03.29-19.53.32:448][224]LogModuleManager: Shutting down and abandoning module AddContentDialog (692)
+[2020.03.29-19.53.32:452][224]LogModuleManager: Shutting down and abandoning module WidgetCarousel (691)
+[2020.03.29-19.53.32:452][224]LogModuleManager: Shutting down and abandoning module EditorWidgets (688)
+[2020.03.29-19.53.32:452][224]LogModuleManager: Shutting down and abandoning module CollectionManager (686)
+[2020.03.29-19.53.32:452][224]LogModuleManager: Shutting down and abandoning module StatsViewer (684)
+[2020.03.29-19.53.32:452][224]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (682)
+[2020.03.29-19.53.32:452][224]LogModuleManager: Shutting down and abandoning module FoliageEdit (680)
+[2020.03.29-19.53.32:452][224]LogModuleManager: Shutting down and abandoning module LandscapeEditor (678)
+[2020.03.29-19.53.32:453][224]LogModuleManager: Shutting down and abandoning module MeshPaintMode (676)
+[2020.03.29-19.53.32:453][224]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (674)
+[2020.03.29-19.53.32:453][224]LogModuleManager: Shutting down and abandoning module ActorPickerMode (672)
+[2020.03.29-19.53.32:453][224]LogModuleManager: Shutting down and abandoning module GeometryMode (670)
+[2020.03.29-19.53.32:453][224]LogModuleManager: Shutting down and abandoning module TextureAlignMode (668)
+[2020.03.29-19.53.32:453][224]LogModuleManager: Shutting down and abandoning module BspMode (666)
+[2020.03.29-19.53.32:453][224]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (664)
+[2020.03.29-19.53.32:453][224]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (662)
+[2020.03.29-19.53.32:453][224]LogModuleManager: Shutting down and abandoning module AutomationWorker (660)
+[2020.03.29-19.53.32:453][224]LogModuleManager: Shutting down and abandoning module SteamVREditor (658)
+[2020.03.29-19.53.32:453][224]LogModuleManager: Shutting down and abandoning module OculusMR (656)
+[2020.03.29-19.53.32:453][224]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (654)
+[2020.03.29-19.53.32:453][224]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (652)
+[2020.03.29-19.53.32:453][224]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (650)
+[2020.03.29-19.53.32:453][224]LogModuleManager: Shutting down and abandoning module PlacementMode (649)
+[2020.03.29-19.53.32:453][224]LogModuleManager: Shutting down and abandoning module MaterialEditor (648)
+[2020.03.29-19.53.32:453][224]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (644)
+[2020.03.29-19.53.32:453][224]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (642)
+[2020.03.29-19.53.32:453][224]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (640)
+[2020.03.29-19.53.32:453][224]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (638)
+[2020.03.29-19.53.32:453][224]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (636)
+[2020.03.29-19.53.32:453][224]LogModuleManager: Shutting down and abandoning module WebMMedia (634)
+[2020.03.29-19.53.32:453][224]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (632)
+[2020.03.29-19.53.32:454][224]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (630)
+[2020.03.29-19.53.32:454][224]LogModuleManager: Shutting down and abandoning module SequenceRecorder (629)
+[2020.03.29-19.53.32:454][224]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (626)
+[2020.03.29-19.53.32:454][224]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (624)
+[2020.03.29-19.53.32:454][224]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (622)
+[2020.03.29-19.53.32:454][224]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (620)
+[2020.03.29-19.53.32:454][224]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (618)
+[2020.03.29-19.53.32:454][224]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (616)
+[2020.03.29-19.53.32:454][224]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (614)
+[2020.03.29-19.53.32:454][224]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (612)
+[2020.03.29-19.53.32:454][224]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (610)
+[2020.03.29-19.53.32:454][224]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (608)
+[2020.03.29-19.53.32:454][224]LogModuleManager: Shutting down and abandoning module CharacterAI (606)
+[2020.03.29-19.53.32:454][224]LogModuleManager: Shutting down and abandoning module SmartSnapping (604)
+[2020.03.29-19.53.32:454][224]LogModuleManager: Shutting down and abandoning module SessionServices (602)
+[2020.03.29-19.53.32:454][224]LogModuleManager: Shutting down and abandoning module MeshPaint (600)
+[2020.03.29-19.53.32:454][224]LogModuleManager: Shutting down and abandoning module ViewportSnapping (598)
+[2020.03.29-19.53.32:454][224]LogModuleManager: Shutting down and abandoning module ViewportInteraction (596)
+[2020.03.29-19.53.32:454][224]LogModuleManager: Shutting down and abandoning module ClothPainter (594)
+[2020.03.29-19.53.32:454][224]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (593)
+[2020.03.29-19.53.32:454][224]LogModuleManager: Shutting down and abandoning module LogVisualizer (590)
+[2020.03.29-19.53.32:454][224]LogModuleManager: Shutting down and abandoning module IntroTutorials (588)
+[2020.03.29-19.53.32:454][224]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (587)
+[2020.03.29-19.53.32:454][224]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (584)
+[2020.03.29-19.53.32:454][224]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (582)
+[2020.03.29-19.53.32:455][224]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (580)
+[2020.03.29-19.53.32:455][224]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (579)
+[2020.03.29-19.53.32:988][224]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (576)
+[2020.03.29-19.53.32:988][224]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (574)
+[2020.03.29-19.53.32:988][224]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (572)
+[2020.03.29-19.53.32:988][224]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (570)
+[2020.03.29-19.53.32:988][224]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (568)
+[2020.03.29-19.53.32:988][224]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (566)
+[2020.03.29-19.53.32:988][224]LogModuleManager: Shutting down and abandoning module InputBindingEditor (564)
+[2020.03.29-19.53.32:988][224]LogModuleManager: Shutting down and abandoning module MergeActors (562)
+[2020.03.29-19.53.32:988][224]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (560)
+[2020.03.29-19.53.32:989][224]LogModuleManager: Shutting down and abandoning module LocalizationService (559)
+[2020.03.29-19.53.32:989][224]LogModuleManager: Shutting down and abandoning module HardwareTargeting (556)
+[2020.03.29-19.53.32:989][224]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (554)
+[2020.03.29-19.53.32:989][224]LogModuleManager: Shutting down and abandoning module UndoHistory (552)
+[2020.03.29-19.53.32:989][224]LogModuleManager: Shutting down and abandoning module XmlParser (550)
+[2020.03.29-19.53.32:989][224]LogModuleManager: Shutting down and abandoning module Blutility (548)
+[2020.03.29-19.53.32:989][224]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (546)
+[2020.03.29-19.53.32:990][224]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (545)
+[2020.03.29-19.53.32:992][224]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (542)
+[2020.03.29-19.53.32:992][224]LogModuleManager: Shutting down and abandoning module SettingsEditor (540)
+[2020.03.29-19.53.32:992][224]LogModuleManager: Shutting down and abandoning module ProjectLauncher (538)
+[2020.03.29-19.53.32:993][224]LogModuleManager: Shutting down and abandoning module SessionFrontend (536)
+[2020.03.29-19.53.32:993][224]LogModuleManager: Shutting down and abandoning module ProfilerClient (534)
+[2020.03.29-19.53.32:993][224]LogModuleManager: Shutting down and abandoning module DeviceManager (532)
+[2020.03.29-19.53.32:993][224]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (531)
+[2020.03.29-19.53.33:026][224]LogModuleManager: Shutting down and abandoning module AutomationController (528)
+[2020.03.29-19.53.33:026][224]LogModuleManager: Shutting down and abandoning module AutomationWindow (526)
+[2020.03.29-19.53.33:026][224]LogModuleManager: Shutting down and abandoning module Layers (524)
+[2020.03.29-19.53.33:026][224]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (522)
+[2020.03.29-19.53.33:026][224]LogModuleManager: Shutting down and abandoning module DetailCustomizations (520)
+[2020.03.29-19.53.33:026][224]LogModuleManager: Shutting down and abandoning module PackagesDialog (518)
+[2020.03.29-19.53.33:027][224]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (516)
+[2020.03.29-19.53.33:027][224]LogModuleManager: Shutting down and abandoning module Persona (514)
+[2020.03.29-19.53.33:027][224]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (513)
+[2020.03.29-19.53.33:027][224]LogModuleManager: Shutting down and abandoning module AnimGraph (511)
+[2020.03.29-19.53.33:027][224]LogModuleManager: Shutting down and abandoning module Kismet (508)
+[2020.03.29-19.53.33:057][224]LogModuleManager: Shutting down and abandoning module KismetWidgets (507)
+[2020.03.29-19.53.33:057][224]LogModuleManager: Shutting down and abandoning module GraphEditor (504)
+[2020.03.29-19.53.33:057][224]LogModuleManager: Shutting down and abandoning module StructViewer (502)
+[2020.03.29-19.53.33:058][224]LogModuleManager: Shutting down and abandoning module ClassViewer (500)
+[2020.03.29-19.53.33:058][224]LogModuleManager: Shutting down and abandoning module Toolbox (498)
+[2020.03.29-19.53.33:058][224]LogModuleManager: Shutting down and abandoning module ModuleUI (496)
+[2020.03.29-19.53.33:058][224]LogModuleManager: Shutting down and abandoning module OutputLog (494)
+[2020.03.29-19.53.33:059][224]LogModuleManager: Shutting down and abandoning module GammaUI (492)
+[2020.03.29-19.53.33:059][224]LogModuleManager: Shutting down and abandoning module Documentation (490)
+[2020.03.29-19.53.33:060][224]LogModuleManager: Shutting down and abandoning module ToolMenus (488)
+[2020.03.29-19.53.33:060][224]LogModuleManager: Shutting down and abandoning module LiveCoding (486)
+[2020.03.29-19.53.33:060][224]LogModuleManager: Shutting down and abandoning module LevelSequence (484)
+[2020.03.29-19.53.33:060][224]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (482)
+[2020.03.29-19.53.33:060][224]LogModuleManager: Shutting down and abandoning module MovieScene (480)
+[2020.03.29-19.53.33:060][224]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (478)
+[2020.03.29-19.53.33:060][224]LogModuleManager: Shutting down and abandoning module LauncherPlatform (476)
+[2020.03.29-19.53.33:060][224]LogModuleManager: Shutting down and abandoning module AnalyticsET (474)
+[2020.03.29-19.53.33:060][224]LogModuleManager: Shutting down and abandoning module PortalServices (472)
+[2020.03.29-19.53.33:060][224]LogModuleManager: Shutting down and abandoning module PortalRpc (470)
+[2020.03.29-19.53.33:060][224]LogModuleManager: Shutting down and abandoning module MessagingRpc (468)
+[2020.03.29-19.53.33:060][224]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (466)
+[2020.03.29-19.53.33:060][224]LogModuleManager: Shutting down and abandoning module AIModule (464)
+[2020.03.29-19.53.33:060][224]LogModuleManager: Shutting down and abandoning module GameplayDebugger (463)
+[2020.03.29-19.53.33:061][224]LogModuleManager: Shutting down and abandoning module AITestSuite (461)
+[2020.03.29-19.53.33:061][224]LogModuleManager: Shutting down and abandoning module NavigationSystem (459)
+[2020.03.29-19.53.33:061][224]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (456)
+[2020.03.29-19.53.33:070][224]LogModuleManager: Shutting down and abandoning module ProfilerService (454)
+[2020.03.29-19.53.33:241][224]LogModuleManager: Shutting down and abandoning module TaskGraph (452)
+[2020.03.29-19.53.33:242][224]LogModuleManager: Shutting down and abandoning module ScreenshotTools (450)
+[2020.03.29-19.53.33:242][224]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (448)
+[2020.03.29-19.53.33:242][224]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (446)
+[2020.03.29-19.53.33:242][224]LogModuleManager: Shutting down and abandoning module OculusEditor (444)
+[2020.03.29-19.53.33:242][224]LogModuleManager: Shutting down and abandoning module OculusInput (442)
+[2020.03.29-19.53.33:242][224]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (440)
+[2020.03.29-19.53.33:242][224]LogModuleManager: Shutting down and abandoning module EditableMesh (438)
+[2020.03.29-19.53.33:242][224]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (436)
+[2020.03.29-19.53.33:242][224]LogModuleManager: Shutting down and abandoning module CableComponent (434)
+[2020.03.29-19.53.33:242][224]LogModuleManager: Shutting down and abandoning module AudioCapture (432)
+[2020.03.29-19.53.33:242][224]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (431)
+[2020.03.29-19.53.33:242][224]LogModuleManager: Shutting down and abandoning module AssetTags (428)
+[2020.03.29-19.53.33:242][224]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (426)
+[2020.03.29-19.53.33:242][224]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (424)
+[2020.03.29-19.53.33:242][224]LogModuleManager: Shutting down and abandoning module AppleImageUtils (422)
+[2020.03.29-19.53.33:242][224]LogModuleManager: Shutting down and abandoning module AndroidPermission (420)
+[2020.03.29-19.53.33:243][224]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (418)
+[2020.03.29-19.53.33:243][224]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (416)
+[2020.03.29-19.53.33:243][224]LogModuleManager: Shutting down and abandoning module MediaCompositing (414)
+[2020.03.29-19.53.33:243][224]LogModuleManager: Shutting down and abandoning module ImgMedia (412)
+[2020.03.29-19.53.33:243][224]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (410)
+[2020.03.29-19.53.33:243][224]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (408)
+[2020.03.29-19.53.33:243][224]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (406)
+[2020.03.29-19.53.33:243][224]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (404)
+[2020.03.29-19.53.33:243][224]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (402)
+[2020.03.29-19.53.33:243][224]LogModuleManager: Shutting down and abandoning module BackChannel (400)
+[2020.03.29-19.53.33:243][224]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (398)
+[2020.03.29-19.53.33:243][224]LogModuleManager: Shutting down and abandoning module AutomationUtils (396)
+[2020.03.29-19.53.33:243][224]LogModuleManager: Shutting down and abandoning module AlembicImporter (394)
+[2020.03.29-19.53.33:243][224]LogModuleManager: Shutting down and abandoning module AlembicLibrary (393)
+[2020.03.29-19.53.33:243][224]LogModuleManager: Shutting down and abandoning module GeometryCache (392)
+[2020.03.29-19.53.33:243][224]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (391)
+[2020.03.29-19.53.33:244][224]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (386)
+[2020.03.29-19.53.33:244][224]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (384)
+[2020.03.29-19.53.33:244][224]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (382)
+[2020.03.29-19.53.33:244][224]LogModuleManager: Shutting down and abandoning module PluginBrowser (380)
+[2020.03.29-19.53.33:245][224]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (378)
+[2020.03.29-19.53.33:245][224]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (376)
+[2020.03.29-19.53.33:245][224]LogModuleManager: Shutting down and abandoning module CurveEditorTools (374)
+[2020.03.29-19.53.33:245][224]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (372)
+[2020.03.29-19.53.33:245][224]LogModuleManager: Shutting down and abandoning module CryptoKeys (370)
+[2020.03.29-19.53.33:245][224]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (368)
+[2020.03.29-19.53.33:245][224]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (366)
+[2020.03.29-19.53.33:245][224]LogModuleManager: Shutting down and abandoning module UObjectPlugin (364)
+[2020.03.29-19.53.33:245][224]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (362)
+[2020.03.29-19.53.33:245][224]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (360)
+[2020.03.29-19.53.33:245][224]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (358)
+[2020.03.29-19.53.33:245][224]LogModuleManager: Shutting down and abandoning module GitSourceControl (356)
+[2020.03.29-19.53.33:246][224]LogModuleManager: Shutting down and abandoning module SourceControl (355)
+[2020.03.29-19.53.33:246][224]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (352)
+[2020.03.29-19.53.33:246][224]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (350)
+[2020.03.29-19.53.33:246][224]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (348)
+[2020.03.29-19.53.33:246][224]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (346)
+[2020.03.29-19.53.33:246][224]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (344)
+[2020.03.29-19.53.33:246][224]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (342)
+[2020.03.29-19.53.33:246][224]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (340)
+[2020.03.29-19.53.33:246][224]LogModuleManager: Shutting down and abandoning module Paper2DEditor (338)
+[2020.03.29-19.53.33:247][224]LogModuleManager: Shutting down and abandoning module SignificanceManager (336)
+[2020.03.29-19.53.33:248][224]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (334)
+[2020.03.29-19.53.33:248][224]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (332)
+[2020.03.29-19.53.33:248][224]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (328)
+[2020.03.29-19.53.33:248][224]LogModuleManager: Shutting down and abandoning module ActorSequence (326)
+[2020.03.29-19.53.33:248][224]LogModuleManager: Shutting down and abandoning module UdpMessaging (324)
+[2020.03.29-19.53.33:348][224]LogModuleManager: Shutting down and abandoning module TcpMessaging (322)
+[2020.03.29-19.53.33:449][224]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (320)
+[2020.03.29-19.53.33:449][224]LogModuleManager: Shutting down and abandoning module MagicLeapPlanes (318)
+[2020.03.29-19.53.33:449][224]LogMagicLeapPlanes: Planes tracker already destroyed.
+[2020.03.29-19.53.33:449][224]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (316)
+[2020.03.29-19.53.33:449][224]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (314)
+[2020.03.29-19.53.33:449][224]LogModuleManager: Shutting down and abandoning module MagicLeapImageTracker (312)
+[2020.03.29-19.53.33:449][224]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (310)
+[2020.03.29-19.53.33:449][224]LogModuleManager: Shutting down and abandoning module MagicLeapHandMeshing (308)
+[2020.03.29-19.53.33:449][224]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (306)
+[2020.03.29-19.53.33:449][224]LogModuleManager: Shutting down and abandoning module MagicLeapController (304)
+[2020.03.29-19.53.33:449][224]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2020.03.29-19.53.33:450][224]LogModuleManager: Shutting down and abandoning module MagicLeapARPin (302)
+[2020.03.29-19.53.33:450][224]LogModuleManager: Shutting down and abandoning module MagicLeapAR (300)
+[2020.03.29-19.53.33:450][224]LogModuleManager: Shutting down and abandoning module AugmentedReality (299)
+[2020.03.29-19.53.33:450][224]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (296)
+[2020.03.29-19.53.33:450][224]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (294)
+[2020.03.29-19.53.33:450][224]LogModuleManager: Shutting down and abandoning module FacialAnimation (292)
+[2020.03.29-19.53.33:450][224]LogModuleManager: Shutting down and abandoning module DataValidation (290)
+[2020.03.29-19.53.33:450][224]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (288)
+[2020.03.29-19.53.33:450][224]LogModuleManager: Shutting down and abandoning module LevelEditor (287)
+[2020.03.29-19.53.33:453][224]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (286)
+[2020.03.29-19.53.33:453][224]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (284)
+[2020.03.29-19.53.33:453][224]LogModuleManager: Shutting down and abandoning module MainFrame (282)
+[2020.03.29-19.53.33:453][224]LogModuleManager: Shutting down and abandoning module HotReload (281)
+[2020.03.29-19.53.33:455][224]LogModuleManager: Shutting down and abandoning module ContentBrowser (277)
+[2020.03.29-19.53.33:461][224]LogModuleManager: Shutting down and abandoning module TreeMap (275)
+[2020.03.29-19.53.33:462][224]LogModuleManager: Shutting down and abandoning module AnimationSharing (272)
+[2020.03.29-19.53.33:462][224]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (270)
+[2020.03.29-19.53.33:462][224]LogModuleManager: Shutting down and abandoning module Paper2D (268)
+[2020.03.29-19.53.33:462][224]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (266)
+[2020.03.29-19.53.33:469][224]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (264)
+[2020.03.29-19.53.33:470][224]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (262)
+[2020.03.29-19.53.33:470][224]LogModuleManager: Shutting down and abandoning module PacketHandler (260)
+[2020.03.29-19.53.33:470][224]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (258)
+[2020.03.29-19.53.33:470][224]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (256)
+[2020.03.29-19.53.33:470][224]LogModuleManager: Shutting down and abandoning module MediaAssets (254)
+[2020.03.29-19.53.33:470][224]LogModuleManager: Shutting down and abandoning module Overlay (252)
+[2020.03.29-19.53.33:470][224]LogModuleManager: Shutting down and abandoning module OverlayEditor (251)
+[2020.03.29-19.53.33:470][224]LogModuleManager: Shutting down and abandoning module VREditor (248)
+[2020.03.29-19.53.33:470][224]LogModuleManager: Shutting down and abandoning module StringTableEditor (246)
+[2020.03.29-19.53.33:470][224]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (244)
+[2020.03.29-19.53.33:470][224]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (242)
+[2020.03.29-19.53.33:470][224]LogModuleManager: Shutting down and abandoning module FunctionalTesting (240)
+[2020.03.29-19.53.33:471][224]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (238)
+[2020.03.29-19.53.33:471][224]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (237)
+[2020.03.29-19.53.33:471][224]LogModuleManager: Shutting down and abandoning module UMG (234)
+[2020.03.29-19.53.33:471][224]LogModuleManager: Shutting down and abandoning module UMGEditor (233)
+[2020.03.29-19.53.33:471][224]LogModuleManager: Shutting down and abandoning module MessageLog (231)
+[2020.03.29-19.53.33:471][224]LogModuleManager: Shutting down and abandoning module SlateReflector (226)
+[2020.03.29-19.53.33:472][224]LogModuleManager: Shutting down and abandoning module Slate (224)
+[2020.03.29-19.53.33:472][224]LogModuleManager: Shutting down and abandoning module SlateCore (222)
+[2020.03.29-19.53.33:472][224]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (220)
+[2020.03.29-19.53.33:472][224]LogModuleManager: Shutting down and abandoning module UnrealEd (218)
+[2020.03.29-19.53.33:472][224]LogModuleManager: Shutting down and abandoning module MRMesh (216)
+[2020.03.29-19.53.33:472][224]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (214)
+[2020.03.29-19.53.33:472][224]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (212)
+[2020.03.29-19.53.33:472][224]LogModuleManager: Shutting down and abandoning module XAudio2 (210)
+[2020.03.29-19.53.33:472][224]LogModuleManager: Shutting down and abandoning module Networking (208)
+[2020.03.29-19.53.33:472][224]LogModuleManager: Shutting down and abandoning module Core (206)
+[2020.03.29-19.53.33:472][224]LogModuleManager: Shutting down and abandoning module MovieSceneTools (204)
+[2020.03.29-19.53.33:472][224]LogModuleManager: Shutting down and abandoning module CurveEditor (203)
+[2020.03.29-19.53.33:473][224]LogModuleManager: Shutting down and abandoning module Sequencer (201)
+[2020.03.29-19.53.33:473][224]LogModuleManager: Shutting down and abandoning module EditorStyle (200)
+[2020.03.29-19.53.33:478][224]LogModuleManager: Shutting down and abandoning module KismetCompiler (196)
+[2020.03.29-19.53.33:478][224]LogModuleManager: Shutting down and abandoning module MeshUtilities (194)
+[2020.03.29-19.53.33:478][224]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (193)
+[2020.03.29-19.53.33:478][224]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (192)
+[2020.03.29-19.53.33:478][224]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (191)
+[2020.03.29-19.53.33:478][224]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (189)
+[2020.03.29-19.53.33:478][224]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (187)
+[2020.03.29-19.53.33:478][224]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (185)
+[2020.03.29-19.53.33:478][224]LogModuleManager: Shutting down and abandoning module MaterialBaking (181)
+[2020.03.29-19.53.33:478][224]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (176)
+[2020.03.29-19.53.33:478][224]LogModuleManager: Shutting down and abandoning module DerivedDataCache (174)
+[2020.03.29-19.53.33:479][224]LogDerivedDataCache: Shutdown
+[2020.03.29-19.53.33:479][224]LogModuleManager: Shutting down and abandoning module XGEController (172)
+[2020.03.29-19.53.33:479][224]LogModuleManager: Shutting down and abandoning module TargetPlatform (170)
+[2020.03.29-19.53.33:479][224]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (169)
+[2020.03.29-19.53.33:479][224]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (167)
+[2020.03.29-19.53.33:479][224]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (165)
+[2020.03.29-19.53.33:479][224]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (163)
+[2020.03.29-19.53.33:479][224]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (161)
+[2020.03.29-19.53.33:479][224]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (159)
+[2020.03.29-19.53.33:479][224]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (157)
+[2020.03.29-19.53.33:480][224]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (155)
+[2020.03.29-19.53.33:480][224]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (153)
+[2020.03.29-19.53.33:480][224]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (151)
+[2020.03.29-19.53.33:480][224]LogModuleManager: Shutting down and abandoning module ImageWrapper (150)
+[2020.03.29-19.53.33:480][224]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (147)
+[2020.03.29-19.53.33:480][224]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (145)
+[2020.03.29-19.53.33:480][224]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (143)
+[2020.03.29-19.53.33:480][224]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (141)
+[2020.03.29-19.53.33:480][224]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (139)
+[2020.03.29-19.53.33:480][224]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (137)
+[2020.03.29-19.53.33:480][224]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (135)
+[2020.03.29-19.53.33:480][224]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (133)
+[2020.03.29-19.53.33:481][224]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (131)
+[2020.03.29-19.53.33:501][224]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (129)
+[2020.03.29-19.53.33:509][224]LogModuleManager: Shutting down and abandoning module LinuxAArch64ServerTargetPlatform (127)
+[2020.03.29-19.53.33:509][224]LogModuleManager: Shutting down and abandoning module LinuxAArch64ClientTargetPlatform (125)
+[2020.03.29-19.53.33:509][224]LogModuleManager: Shutting down and abandoning module LinuxAArch64NoEditorTargetPlatform (123)
+[2020.03.29-19.53.33:509][224]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (121)
+[2020.03.29-19.53.33:509][224]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (119)
+[2020.03.29-19.53.33:509][224]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (117)
+[2020.03.29-19.53.33:509][224]LogModuleManager: Shutting down and abandoning module Messaging (115)
+[2020.03.29-19.53.33:509][224]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (113)
+[2020.03.29-19.53.33:514][224]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (111)
+[2020.03.29-19.53.33:551][224]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (109)
+[2020.03.29-19.53.33:551][224]LogModuleManager: Shutting down and abandoning module InputCore (106)
+[2020.03.29-19.53.33:551][224]LogModuleManager: Shutting down and abandoning module Settings (104)
+[2020.03.29-19.53.33:551][224]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (102)
+[2020.03.29-19.53.33:551][224]LogModuleManager: Shutting down and abandoning module PhysXCooking (100)
+[2020.03.29-19.53.33:551][224]LogModuleManager: Shutting down and abandoning module ChaosSolvers (98)
+[2020.03.29-19.53.33:552][224]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (97)
+[2020.03.29-19.53.33:552][224]LogModuleManager: Shutting down and abandoning module Chaos (94)
+[2020.03.29-19.53.33:552][224]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (92)
+[2020.03.29-19.53.33:552][224]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (91)
+[2020.03.29-19.53.33:552][224]LogModuleManager: Shutting down and abandoning module SteamVRInputDevice (88)
+[2020.03.29-19.53.33:552][224]LogModuleManager: Shutting down and abandoning module SteamVRInput (86)
+[2020.03.29-19.53.33:552][224]LogModuleManager: Shutting down and abandoning module SteamVR (84)
+[2020.03.29-19.53.33:552][224]LogHMD: Freeing OpenVRDLLHandle.
+[2020.03.29-19.53.33:552][224]LogModuleManager: Shutting down and abandoning module OculusHMD (82)
+[2020.03.29-19.53.33:552][224]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (80)
+[2020.03.29-19.53.33:552][224]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (78)
+[2020.03.29-19.53.33:552][224]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (76)
+[2020.03.29-19.53.33:552][224]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (72)
+[2020.03.29-19.53.33:553][224]LogModuleManager: Shutting down and abandoning module XMPP (67)
+[2020.03.29-19.53.33:553][224]LogModuleManager: Shutting down and abandoning module WebSockets (66)
+[2020.03.29-19.53.33:558][224]LogModuleManager: Shutting down and abandoning module HTTP (63)
+[2020.03.29-19.53.33:558][224]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2020.03.29-19.53.33:558][224]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE1B0A7BA-48A8-6A02-E9FD-7CA0CB35B152%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.3-11590370%2B%2B%2BUE4%2BRelease-4.24&UserID=af04f779480710feba24f288c62e42c6%7C4d2720d38694447cb62c9d4e79520121%7C64bf9fbd-e501-48d2-adf4-e3661fee74ae&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[1] status=Processing
+[2020.03.29-19.53.33:563][224]LogModuleManager: Shutting down and abandoning module SSL (62)
+[2020.03.29-19.53.33:565][224]LogModuleManager: Shutting down and abandoning module WmfMedia (58)
+[2020.03.29-19.53.33:568][224]LogModuleManager: Shutting down and abandoning module Media (57)
+[2020.03.29-19.53.33:569][224]LogModuleManager: Shutting down and abandoning module MagicLeap (54)
+[2020.03.29-19.53.33:569][224]LogModuleManager: Shutting down and abandoning module VariantManagerContent (52)
+[2020.03.29-19.53.33:569][224]LogModuleManager: Shutting down and abandoning module DatasmithContent (50)
+[2020.03.29-19.53.33:570][224]LogModuleManager: Shutting down and abandoning module AISupportModule (48)
+[2020.03.29-19.53.33:570][224]LogModuleManager: Shutting down and abandoning module DesktopPlatform (46)
+[2020.03.29-19.53.33:570][224]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (44)
+[2020.03.29-19.53.33:570][224]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (42)
+[2020.03.29-19.53.33:570][224]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2020.03.29-19.53.33:570][224]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2020.03.29-19.53.33:570][224]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2020.03.29-19.53.33:571][224]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2020.03.29-19.53.33:571][224]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2020.03.29-19.53.33:571][224]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2020.03.29-19.53.33:571][224]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2020.03.29-19.53.33:571][224]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2020.03.29-19.53.33:575][224]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2020.03.29-19.53.33:575][224]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2020.03.29-19.53.33:575][224]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2020.03.29-19.53.33:575][224]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2020.03.29-19.53.33:575][224]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2020.03.29-19.53.33:575][224]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2020.03.29-19.53.33:575][224]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2020.03.29-19.53.33:575][224]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2020.03.29-19.53.33:575][224]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2020.03.29-19.53.33:575][224]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2020.03.29-19.53.33:575][224]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2020.03.29-19.53.33:575][224]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2020.03.29-19.53.33:578][224]LogD3D11RHI: Shutdown
+[2020.03.29-19.53.33:578][224]LogD3D11RHI: CleanupD3DDevice
+[2020.03.29-19.53.33:588][224]LogExit: Exiting.
+[2020.03.29-19.53.33:600][224]Log file closed, 03/29/20 22:53:33
